@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-10-01T07:00:00Z",
+  "provider": "首版实时种子 + Google News RSS 自动刷新",
+  "note": "首版数据来自公开报道；GitHub Actions 将按日自动刷新 RSS 聚合数据。",
+  "errors": [],
+  "items": [
+    {
+      "id": "seed-caixin-mortgage",
+      "category": "财经",
+      "title": "居民房贷贴息政策10月1日起实施",
+      "summary": "财新9月30日报道，居民房贷贴息政策自10月1日起实施，相关政策与央行工具调整成为当天财经重点。",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "财新网",
+      "url": "https://finance.caixin.com/cjzzd/",
+      "publishedAt": "2026-09-30T06:57:29+08:00"
+    },
+    {
+      "id": "seed-caixin-a-share",
+      "category": "A股",
+      "title": "9月30日A股主要指数高开",
+      "summary": "财新报道，9月30日沪指、深成指和创业板指开盘上涨，盘面有色金属等板块涨幅居前。",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "财新网",
+      "url": "https://finance.caixin.com/m/2026-09-30/102489861.html",
+      "publishedAt": "2026-09-30T09:29:00+08:00"
+    },
+    {
+      "id": "seed-caixin-monetary",
+      "category": "宏观",
+      "title": "央行调整完善结构性货币政策工具",
+      "summary": "财新近期报道提到，央行对PSL、科创与民企再贷款等结构性政策工具进行调整，继续关注宏观经济运行和物价走势。",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "财新网",
+      "url": "https://www.caixin.com/finance/index.html",
+      "publishedAt": "2026-09-29T12:00:00+08:00"
+    },
+    {
+      "id": "seed-caixin-investmentbank",
+      "category": "投行",
+      "title": "招商证券高管调整涉及投行业务负责人",
+      "summary": "财新9月30日报道，招商证券相关高管调整涉及投行及香港子公司业务。",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "财新网",
+      "url": "https://market.caixin.com/market/",
+      "publishedAt": "2026-09-30T19:08:00+08:00"
+    },
+    {
+      "id": "seed-reuters-global",
+      "category": "国际",
+      "title": "全球市场进入四季度，美债收益率仍处高位",
+      "summary": "路透10月1日报道，在美国通胀数据有所缓和的背景下，美债收益率仍保持高位，市场同时关注日本央行政策与欧洲通胀。",
+      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/europe/global-markets-view-europe-2026-10-01/",
+      "publishedAt": "2026-10-01T08:00:00Z"
+    },
+    {
+      "id": "seed-gov-policy",
+      "category": "时政",
+      "title": "交通部门多措并举服务国庆假期出行",
+      "summary": "国务院要闻栏目9月30日发布国庆假期交通服务相关信息，属于节日期间重要公共事务动态。",
+      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
+      "source": "国务院要闻",
+      "url": "https://www.qinxian.gov.cn/szdt/gwyyw/",
+      "publishedAt": "2026-09-30T12:00:00+08:00"
+    },
+    {
+      "id": "seed-caixin-securities",
+      "category": "证券",
+      "title": "中信证券换帅，管理层出现调整",
+      "summary": "财新9月28日报道，中信证券管理层出现调整，属于近期券商行业的重要人事动态。",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "财新网",
+      "url": "https://www.caixin.com/finance/index.html",
+      "publishedAt": "2026-09-28T22:08:00+08:00"
+    },
+    {
+      "id": "seed-bank-db",
+      "category": "银行",
+      "title": "德意志银行重庆分行获批关闭",
+      "summary": "21世纪经济报道9月29日报道，重庆金融监管部门已批复关闭德意志银行（中国）重庆分行，德银称属于战略性整合。",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "21世纪经济报道",
+      "url": "https://m.21jingji.com/article/20260929/herald/92b24a11d459b6fa840fcd2735ecf3c7_zaker.html",
+      "publishedAt": "2026-09-29T12:00:00+08:00"
+    },
+    {
+      "id": "seed-insurance-dividend",
+      "category": "保险",
+      "title": "分红险上半年保费收入超万亿元",
+      "summary": "21世纪经济报道9月29日报道，中保协推动分红型保险示范条款完善，上市险企数据显示分红险在新增业务中的占比持续提升。",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "21世纪经济报道",
+      "url": "https://m.21jingji.com/article/20260929/bbdf2965c808377dd8aa2e22046325fa.html",
+      "publishedAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "seed-exam-current",
+      "category": "考公",
+      "title": "国庆假期交通服务成为近期公共事务重点",
+      "summary": "国务院要闻9月30日发布国庆假期交通服务相关动态，可作为近期公共管理与时政事实积累。",
+      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
+      "source": "国务院要闻",
+      "url": "https://www.qinxian.gov.cn/szdt/gwyyw/",
+      "publishedAt": "2026-09-30T12:00:00+08:00"
+    }
+  ]
+}
