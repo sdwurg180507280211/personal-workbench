@@ -52,10 +52,10 @@
   };
 
   intelligence = function () {
-    var cats = ['全部','财经','证券','A股','宏观','银行','保险','投行','国际','时政','考公'];
+    var cats = ['全部','AI国内','AI国际','财经','证券','A股','宏观','银行','保险','投行','国际','时政','考公'];
     var news = s.cat === '全部' ? s.news : s.news.filter(function (n) { return n.category === s.cat; });
     var notice = liveNewsMeta.status === 'live'
-      ? '<b>真实新闻已接入。</b> ' + esc(statusLine()) + '。新闻保留来源和报道链接；同类标题会在采集阶段去重。'
+      ? '<b>真实新闻已接入。</b> ' + esc(statusLine()) + '。AI 情报与原有新闻流合并展示，并保留来源链接。'
       : '<b>实时新闻暂未加载。</b> 当前显示缓存或演示内容；任务、目标等其他功能不受影响。';
     return head('每日情报','不是无限新闻流，而是快速知道今天值得关注什么。','')
       + '<div class="seg">' + cats.map(function (c) { return '<button data-cat="' + c + '" class="' + (s.cat === c ? 'active' : '') + '">' + c + '</button>'; }).join('') + '</div>'
@@ -67,20 +67,41 @@
   style.textContent = '.news-actions{display:flex;justify-content:flex-end;margin-top:9px}.news-source-link{color:var(--p);text-decoration:none;font-size:12px;font-weight:600}.news-source-link:hover{text-decoration:underline}';
   document.head.appendChild(style);
 
-  fetch('data/news.json?ts=' + Date.now(), { cache: 'no-store' })
-    .then(function (response) {
-      if (!response.ok) throw new Error('HTTP ' + response.status);
-      return response.json();
-    })
-    .then(function (payload) {
-      if (!payload || !Array.isArray(payload.items) || !payload.items.length) throw new Error('empty news');
+  function getJson(url, optional) {
+    return fetch(url + '?ts=' + Date.now(), { cache: 'no-store' })
+      .then(function (response) {
+        if (!response.ok) {
+          if (optional) return { items: [] };
+          throw new Error('HTTP ' + response.status);
+        }
+        return response.json();
+      })
+      .catch(function (err) {
+        if (optional) return { items: [] };
+        throw err;
+      });
+  }
+
+  Promise.all([
+    getJson('data/news.json', false),
+    getJson('data/ai-news.json', true)
+  ])
+    .then(function (payloads) {
+      var basePayload = payloads[0] || {};
+      var aiPayload = payloads[1] || {};
+      var baseItems = Array.isArray(basePayload.items) ? basePayload.items : [];
+      var aiItems = Array.isArray(aiPayload.items) ? aiPayload.items : [];
+      var allItems = aiItems.concat(baseItems);
+
+      if (!allItems.length) throw new Error('empty news');
+
       liveNewsMeta = {
         status: 'live',
-        generatedAt: payload.generatedAt || '',
-        provider: payload.provider || 'RSS',
-        note: payload.note || ''
+        generatedAt: aiPayload.generatedAt || basePayload.generatedAt || '',
+        provider: [aiItems.length ? (aiPayload.provider || 'ChatGPT AI Daily Intel') : '', basePayload.provider || 'RSS'].filter(Boolean).join(' + '),
+        note: aiPayload.note || basePayload.note || ''
       };
-      s.news = payload.items.map(normalize);
+      s.news = allItems.map(normalize);
       render();
     })
     .catch(function () {
