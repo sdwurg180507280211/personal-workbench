@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-07T15:05:00+08:00",
+  "generatedAt": "2026-10-07T15:12:00+08:00",
   "provider": "ChatGPT AI Daily Intel",
   "note": "与当日 AI模型省钱情报 邮件使用同一批已核验信息。",
   "items": [
     {
-      "id": "2026-10-07-deepseek-value-baseline",
+      "id": "2026-10-07-deepseek-v41-flash-price-calibration",
       "category": "AI国内",
-      "title": "DeepSeek V4.1 Flash 仍是当前低成本 API 基线，过去24小时未见新调价",
-      "summary": "过去24小时未核实到 DeepSeek 新一轮价格或免费额度调整。当前官方 V4.1 Flash 仍采用峰谷价：闲时每1M输入 $0.15、输出 $0.60，峰时每1M输入 $0.30、输出 $1.20；缓存命中更低。",
-      "why": "对批量推理、Agent 和一般编程任务，DeepSeek 仍是低成本优先项，但这不是今天的新降价，避免把现行价格误写成今日优惠。",
+      "title": "DeepSeek V4.1 Flash：过去24小时无新调价，当前峰谷价继续作为低成本基线",
+      "summary": "过去24小时未核实到 DeepSeek 新一轮价格或免费额度调整。官方当前价格仍为：闲时每1M tokens缓存未命中输入1元、输出4元；高峰分别为2元和8元，缓存命中价格更低。",
+      "why": "这不是今日降价，而是当前仍有效的价格校准。对可错峰的批量推理、Agent和一般编程任务，闲时调用仍是低成本选择。",
       "source": "DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
       "publishedAt": "2026-10-07"
     },
     {
       "id": "2026-10-06-mistral-large-4",
       "category": "AI国际",
-      "title": "Mistral Large 4 公测上线，1M 上下文且 Batch 价格约减半",
-      "summary": "Mistral 于10月6日上线 Mistral Large 4 公测版，官方文档列出 1M 上下文，标准价为每1M tokens 输入 $1.36、缓存输入 $0.14、输出 $4.18；Batch 对应价格为 $0.68、$0.07、$2.09。",
-      "why": "如果需要更强的多模态、Agent、函数调用和超长上下文，Mistral Large 4 提供了新的中高端选择；批量任务使用 Batch 比标准调用更划算。",
-      "source": "Mistral Docs",
-      "url": "https://docs.mistral.ai/models/mistral-large",
+      "title": "Mistral Large 4 公测上线：1M上下文，标准价$1.36/$4.18",
+      "summary": "Mistral 于10月6日发布 Mistral Large 4 公测版，官方页面显示输入价$1.36/1M tokens、输出价$4.18/1M tokens，支持1M上下文；官方文档同时列出更低的批处理价格。",
+      "why": "如果任务需要长上下文、多模态、Agent和函数调用，Large 4 提供了新的中高端选择；批处理任务使用Batch价格更划算。",
+      "source": "Mistral",
+      "url": "https://mistral.ai/news/mistral-large-4/",
       "publishedAt": "2026-10-06"
     },
     {
       "id": "2026-10-06-embeddinggemma-2",
       "category": "AI国际",
-      "title": "Google 发布 EmbeddingGemma 2，本地多模态检索可直接下载权重运行",
-      "summary": "Google 10月6日发布 EmbeddingGemma 2，740M 参数，支持文本、代码、图像、视频和音频统一嵌入，Apache 2.0 许可，权重可从 Hugging Face 与 Kaggle 下载。",
-      "why": "对本地 RAG、代码库检索和多模态搜索，直接本地部署可以避免持续按 API 调 embedding 费用，同时减少数据外发；成本主要变成自有硬件与运维。",
+      "title": "Google 发布 EmbeddingGemma 2：开放权重，本地多模态检索可减少持续API成本",
+      "summary": "Google DeepMind 于10月6日发布 EmbeddingGemma 2，740M参数，支持文本、代码、图像、音频和视频统一嵌入，Apache 2.0许可，可下载权重并在端侧运行。",
+      "why": "对RAG、代码库检索和多模态搜索，本地部署可以把持续的embedding API调用费转为自有硬件和运维成本，适合高频或隐私敏感场景。",
       "source": "Google",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
       "publishedAt": "2026-10-06"
