@@ -1,198 +1,248 @@
 {
-  "generatedAt": "2026-10-06T03:09:23.042055Z",
+  "generatedAt": "2026-10-07T02:30:20.967881Z",
   "provider": "Google News RSS",
   "note": "标题、摘要与来源来自公开RSS聚合；链接可能先经过Google News跳转。",
   "errors": [],
   "items": [
     {
-      "id": "c6c284812c1bdc04",
-      "category": "时政",
-      "title": "福州：处处是舞台人人享文艺_ 图片新闻",
-      "summary": "福州：处处是舞台人人享文艺_ 图片新闻 福州市人民政府",
-      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "福州市人民政府",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45WUFVM0wwLThySHZIaEJ6a2hMVUFKOVg5OURrZDhrc0cxQmROSVdGTVZJd0psUDdBZlJKSDBCMmcxTE9qR2hveERtbmFteXRqbnp0UWxTcFVuREN2Uk9PWGhVNmFkTjMzbDRMRURuRkZjZ1ZJbHM5MA?oc=5",
-      "publishedAt": "2026-10-06T01:21:00Z"
+      "id": "53077949efc6b612",
+      "category": "证券",
+      "title": "前三季度17家上市券商换“将帅”，总经理变动同比翻番",
+      "summary": "前三季度17家上市券商换“将帅”，总经理变动同比翻番 新浪财经",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZnB2VkFNNEhMV0paR241alNVUE1yVzM4b0hIaWpEYzI3Tm9sVG9RNElBc0pXOEgzSTY4X0RubnItRTMwZUx4Y3ZMVnVxcjFzMTJTTFNBWVlhQW1fQjdfYTBLTWlMcTZ3bFlPMnZZWlhPRlZaYzRKeEpKNm5kLUppTXBWS2puYXloNm5JWHMxYTg2M1BJOGR2LXFxZjhpRjI2Q292SjExQjdMbTJUTU1QdGtUMDdBNGlKaEdHWHU2STc4ZmdFOThEbGt4NjlfZHZkZ1ZKMmxFNk5lbTItN294U1ZMSTBxNlFQSzBpX201VU5US2JFZlM1TG5ERkR5bFVuRHRrQ1NxMHl5Vm9y?oc=5",
+      "publishedAt": "2026-10-07T02:24:26Z"
     },
     {
-      "id": "2353f1f8cecb7f88",
+      "id": "8486683d656ffbbc",
+      "category": "财经",
+      "title": "【环球财经】派拉蒙天舞完成对华纳兄弟收购",
+      "summary": "【环球财经】派拉蒙天舞完成对华纳兄弟收购 经济观察网",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "经济观察网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUHNZbmx4U2I4eFRTRVFibk55anNLMm5Kbnd0a1lsYWtzWHVadUVMX1dJV3lzUnJNTnBvZTNVenZfTVM5cURnVnZpdFl4ZS1zYlpLakY1T2o?oc=5",
+      "publishedAt": "2026-10-07T02:23:32Z"
+    },
+    {
+      "id": "a0bd818a05f8d705",
       "category": "A股",
-      "title": "2026年A股结构性行情下基金投资策略调整",
-      "summary": "2026年A股结构性行情下基金投资策略调整 搜狐网",
+      "title": "A股投资者：追科技的赚了又亏 守白酒的还在扛",
+      "summary": "A股投资者：追科技的赚了又亏 守白酒的还在扛 搜狐网",
       "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
       "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXQ3bGYzNW1kQkNkOVdubzZvSlhHeWItLTlLUkRhRFdWRlJUOHFaMDhLdlMyeEJVZHJtZlVPdXdWSU9keEJRQk1TWFZ2UVNFRlRCalJZVnB0WjZjZjBwU3k5SEdsWDF4aW1CeXNpdl9VWThuaVNfU1pZVVFlTlh2bWdrT2VuR25a?oc=5",
-      "publishedAt": "2026-10-06T01:18:09Z"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFBET2ZnMVRoQm9YQXhpZTZuZ09JS2hmNnUzOHJKOGRrU2phbFRHb2lxUEVKY2JncFNlUUNTQ1dLRlNiQWU5YW9qQXpVZWNqdW9SLTdpUk9rbjdFUEdfTWFpRkoyOVpVcHVTQ2N6WHo1eExwS3ZJUHBWRHZmNGVGdVRMVmRJRExk?oc=5",
+      "publishedAt": "2026-10-07T02:14:05Z"
     },
     {
-      "id": "789926824bcb76c7",
+      "id": "080a28932085419a",
+      "category": "财经",
+      "title": "热AI，冷消费：中国经济如何走出K型分化",
+      "summary": "热AI，冷消费：中国经济如何走出K型分化 新浪网",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1NxbmNuZ1RKN3V4ZDlPZ2pfNGRHMDg2di1jN0h1bDVhNHZwOTN3R0M3bG4tb0FPM0Q0S2hfdi1YbzR4azJraWZMX2VsXzVBcEQ1aGRhb1g1QzRVWWRMank4d2pfRVJyWW1xYzMyR29qS0U0STJFcTZEc0lNR0htdmZR?oc=5",
+      "publishedAt": "2026-10-07T02:07:00Z"
+    },
+    {
+      "id": "372d50ccc2ab5761",
+      "category": "A股",
+      "title": "机构：节后A股或开启新一轮行情 政策利好提振市场信心",
+      "summary": "机构：节后A股或开启新一轮行情 政策利好提振市场信心 中华网新闻",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "中华网新闻",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCcGdHbTZmejR2VXJlTHptU0I2dkhLQkxua2pYVE03VFE5Mjd4MmpCZkZPQlhYa3dlb1pWdk1Iak1ZZzhpNHNqRWNjbFRHdDlLNk5fNTRGbTBEekhTTG85eVV1M2o5SlBXWnZxbFJvekc?oc=5",
+      "publishedAt": "2026-10-07T02:00:35Z"
+    },
+    {
+      "id": "6d8e12a990312887",
+      "category": "投行",
+      "title": "港股IPO早播报：新兴市场手机巨头传音控股开启招股",
+      "summary": "港股IPO早播报：新兴市场手机巨头传音控股开启招股 新浪财经",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VZkZ6RkY1R1FfaGtJY1pzenhIS0gtOXNXVjBmWkd6b0VqUkhJRW9mU1JhUU1fRjllVVdkenVXZzBJT0R5Ul8wVVZrMEg4RnJrb0tjdlJWZGVkbk9MbldBblZCc210d1ZVQWtuTm5SUFZ0SHNwV0R3aQ?oc=5",
+      "publishedAt": "2026-10-07T02:00:00Z"
+    },
+    {
+      "id": "4877fcf0121aaf28",
       "category": "时政",
-      "title": "逛特色市集、与花神对诗、享亲子互动、品南北美食…… 静态园林活起来 沉浸游园醉金秋",
-      "summary": "逛特色市集、与花神对诗、享亲子互动、品南北美食…… 静态园林活起来 沉浸游园醉金秋 北京市人民政府门户网站",
+      "title": "社区养老中心贴心陪伴度假期",
+      "summary": "社区养老中心贴心陪伴度假期 北京市人民政府门户网站",
       "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
       "source": "北京市人民政府门户网站",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IbG4xOW83YUJ5dVVyRnUxY2xrOWZxdENzNU93cW1mYkpwZ0tmcE1xRTd1ZGU5aDdhaGI0cUtZYTl5RElXZ0xlWlpZQmVXb2dRTTVLREk3ak1tbUZ4YnMybEozRlR3SWtvVDdxSkoyVGxfUDJzeFVhZTlEZVV1SDA?oc=5",
-      "publishedAt": "2026-10-06T01:10:00Z"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SM2FWYlFqNzJ6MnJLZjhnVTgzcm81NUdocHRKNHdvb0pTVVJ4RXN6UHdpZm1yYkthT2pUbm0ydmRkV1FKb3ZfbmlSb0Zybzc2d19lQVlVbkFRU3UxLTRuZHRiTmk2RVFxS0JvT1EtM2FLemdMSWNrc0NTZDRiMlE?oc=5",
+      "publishedAt": "2026-10-07T01:49:00Z"
     },
     {
-      "id": "3bf1c016f7f6508d",
-      "category": "财经",
-      "title": "巴西股市大涨",
-      "summary": "巴西股市大涨 21财经",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLW9CaU50aE5jNHc1Mks0cW1zLWltZ0ZJMjZLUlRramlIbkRFbXNYaTdkZDhzQ21DVFZ1N1VOb2RZVTlFQ3d5YjJ6MFVuQ3BIaEgyMTN3YUhvQzV0YzVzU0NrN3BFSmFtVTVpQmxNaTkxcUlrRzdfYndBcWpiWWVPNUJoSTA4Ti13UnJjOWZIbw?oc=5",
-      "publishedAt": "2026-10-06T01:00:46Z"
+      "id": "d5c12d7b5ab1e58b",
+      "category": "投行",
+      "title": "Lambda拟在IPO前最后一轮融资中筹集最高40亿美元",
+      "summary": "Lambda拟在IPO前最后一轮融资中筹集最高40亿美元 东方财富",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wajhzREcyS1Y4ZkY1aTdrc2NMQS1PZVctazZJTXVXbGdnd3hWQnBPb0gtYnU0a1kyOUJtNHZVa3ZMN0lBRlY0Z1A5Qjl0aU8xU3N4Yy1tWDBXM2QybFEyUw?oc=5",
+      "publishedAt": "2026-10-07T01:44:17Z"
     },
     {
-      "id": "2d7d32e183df8fa1",
-      "category": "A股",
-      "title": "展望四季度A股行情，私募看好这些方向",
-      "summary": "展望四季度A股行情，私募看好这些方向 新浪财经",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb25rZU53RVlFQWNvUXNyQTRwUlEtVDdYVkFkekxidGJsUFhDMlFISVA0U2ozRTQtSDAyQmkxeGJCaURIb0JCT1hfYXlhOXhzc1BPaS1VejJrcnh4YW1DT1pxcE40OU1LY3JiREUxNUJ0V2Z0NnB4ZHRvTGk3YU0xTTI1MlRqTm5lU0dOZFcxbERGRnJ4Z1d5aw?oc=5",
-      "publishedAt": "2026-10-06T00:54:01Z"
+      "id": "808015d30d50e7f1",
+      "category": "国际",
+      "title": "公布在即！美联储，加息大消息",
+      "summary": "公布在即！美联储，加息大消息 证券之星",
+      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmamFlQU0teWhCaUN1TDh0VDhfcFNqSm9vcDZVRGRsbjUzSjZ4TlJmVWpEUXpMRlUxLVpOcjNZWkcxUTBweUttc0hWOUd3NFRrbEMzdTVBUTIzOUtBWk5rTw?oc=5",
+      "publishedAt": "2026-10-07T01:35:38Z"
     },
     {
-      "id": "b5753a92a2ad99c0",
+      "id": "e7ad111fe244bb36",
       "category": "时政",
-      "title": "时政微观察丨民生为大，把老百姓的事办实办好",
-      "summary": "时政微观察丨民生为大，把老百姓的事办实办好 中国经济网",
+      "title": "莱西智能网联新能源汽车聚链成势",
+      "summary": "莱西智能网联新能源汽车聚链成势 青岛政务网",
       "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "中国经济网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ObTNFSjRHMEdwVk9MQ0FHV0ljZGxJSE1Cd3NYUnNQWE5KU0VlNTl0c2p4R0pVR0tTMGU4aWF5SDYzbzNuY3R4M0JmRTlHcUVYaXpsY01Ta0dZTUxJcHB6UlZuMmhSeUN2OUZHWE14Zw?oc=5",
-      "publishedAt": "2026-10-06T00:51:00Z"
+      "source": "青岛政务网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56M0JPdjJVVkt0RUh1YnpEcXp3YzFqd0JPaDlMbmlVZTlfQkt5dE1xQmpIMnBfZ1QwMVgzX3F3Tk1DZWdhV3BRTUpoWjRZMmRSSV9tWEJDUXFyQmJoTU5hVUtlU3RQQ2hIMnBNQ3VleHRiRUlLdmc?oc=5",
+      "publishedAt": "2026-10-07T01:18:21Z"
     },
     {
-      "id": "770732d4ebb4abc1",
+      "id": "4c0cd8d25c050e38",
+      "category": "投行",
+      "title": "Lambda拟IPO前融资至多40亿美元 投前估值145亿美元",
+      "summary": "Lambda拟IPO前融资至多40亿美元 投前估值145亿美元 观点网",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53U09JTmQ1V01zbG54UkxQX3BPTi14UHNzRlRNczk5ejF5ZTR2Z250QnA0aEExam45cGJQdnNUQ2QtRldadVRCUllZZnZPLU9XeXpOTlFobzFGTG95R0gwcXl3?oc=5",
+      "publishedAt": "2026-10-07T01:15:59Z"
+    },
+    {
+      "id": "be44a1fcad91ca3d",
+      "category": "银行",
+      "title": "联储局鲍曼：计划全面改革银行监管 明年初启动新体系",
+      "summary": "联储局鲍曼：计划全面改革银行监管 明年初启动新体系 香港電台",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "香港電台",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1BaaWlFQ24xa0t2WmJhWHAzUnFKQjdSUVZxNlIyQmotV0I3Z05vdG9meHp3OVBlNWNWWFpESVN3eHRpZldtMDFzYWZzSnJNVTI0VGR1QkhvTmRERHNYcmRZNkZYbGJubGI2NS1OQUx6OUVTaDlNbld4bFB5amI3d2N1b2JHb0t3THAxSTBOZFg0NHZNdU55S2RFU1V1S0lLM0lZ?oc=5",
+      "publishedAt": "2026-10-07T01:09:00Z"
+    },
+    {
+      "id": "d24739bf69adca51",
+      "category": "国际",
+      "title": "为何让市场戒断“美联储指引”比听起来更难",
+      "summary": "为何让市场戒断“美联储指引”比听起来更难 华尔街日报中文版",
+      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
+      "source": "华尔街日报中文版",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNcm5acXlUOXU3X1RJbzhWRndzRktjRjBZTk1hOC1DMEdRbzlVcDE5NGVSeWhZSUN4RHNyYVJiV2wtZEthbWRXdHZIQVdyLWVkMmFmenpVdXp0dUVoOXNCVUkwdTdnRk54elJuTjg2MGxiTTIxRWMzV2lMQk01bnRZWGN4VjFDY0UtckpEUHRDdVZVWC16dU5lSmFkTE83dzF3ZWpzSl9ucmt1b20yN3NxSnMyZm5FbDJhMzUxQlBWT2dsLWtpelRPZHFyV2JlNEthcGNkVFUzS1NqdE8tZ0RFbXEwN3c3LW9VSDZaQ1FXNWZlYldCMGhaVHhzOElKUlljZTFwZmpjTFltTDc0WU1wODBRWjd1YzFETkU5ZVVmR3pBRXBWXzdlSw?oc=5",
+      "publishedAt": "2026-10-07T00:57:00Z"
+    },
+    {
+      "id": "6a3119b270d7bb07",
+      "category": "A股",
+      "title": "美股将迎来23小时交易时间，A股交易时间该不该接轨美股？",
+      "summary": "美股将迎来23小时交易时间，A股交易时间该不该接轨美股？ ThePaper.cn",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNGxuNF9NbDBjRVZVSTFrd3Jfd0RaeWh1WXppVE9HX2Q0VVVUdElXVVZEOVdjOWVyM1VrYkxqbkpxSTJCTHZCZjhTQm9WSnVzSzlTTXg1MzNib3ZmQVE?oc=5",
+      "publishedAt": "2026-10-07T00:54:00Z"
+    },
+    {
+      "id": "9929b624acc23a8f",
       "category": "证券",
-      "title": "【券商聚焦】国金证券：钢铁权益资产当前具备较强的深度价值属性_滚动新闻_财经",
-      "summary": "【券商聚焦】国金证券：钢铁权益资产当前具备较强的深度价值属性_滚动新闻_财经 证券之星",
+      "title": "【券商聚焦】开源证券：科技资产证券化提速，大投行业务链迎来重估_滚动新闻_财经",
+      "summary": "【券商聚焦】开源证券：科技资产证券化提速，大投行业务链迎来重估_滚动新闻_财经 证券之星",
       "why": "关注监管、券商与资本市场制度变化及其市场影响。",
       "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83UWFFWjBpbFdUQVAzalE5eTk4MGdERkFOMkhhdlBjTHFiekVCS1FlSFlKd3JzSC1HS2xKSkFONGlHUV9HZ1M1MTEzTjFKQjJPbmtsVXRxZmpYZVBFaG5jbA?oc=5",
-      "publishedAt": "2026-10-06T00:42:04Z"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYVEI4WEd0STNlQlNOdTRNZHFsel80S25DaVFqdGJIWk9qWGF2dDN0ckFkWTNOcndPeXg4eFRSQ2l5MEwyejNZb3JDUFZFcVBDU0NBSTc2ZkJMZDBNZTBsWA?oc=5",
+      "publishedAt": "2026-10-07T00:47:14Z"
     },
     {
-      "id": "c966974f1903e44f",
+      "id": "451ae92c92c40945",
       "category": "时政",
-      "title": "民生百事通｜陪同就医服务热点问题解答",
-      "summary": "民生百事通｜陪同就医服务热点问题解答 黑龙江省人民政府",
+      "title": "返程注意！湖北交警发布最新安全指南",
+      "summary": "返程注意！湖北交警发布最新安全指南 武汉市人民政府",
       "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "黑龙江省人民政府",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uVVh5UUZMa044Q3FBMnJ6alZ1aTNzaTVpMTNTQmxuUlNKbGdJem93bURJX0ZfRHJFOWRFWWpZZWpYaDJ2VmdwUEY4cnIzYkZFdDFCcnRqcENpTEgwZERyYVpScmJybFNObnc?oc=5",
-      "publishedAt": "2026-10-06T00:40:00Z"
+      "source": "武汉市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPeDNGVUlrYVpYYWFNUHMtTWZ4Qk5WWU53N1YwVG1iWnZKTTg2TUY5NVJwUElwVllaWFJ5LUQ3OGI1bXNFSG54YkZ3cmNJX1o5LXdVVTZ1cHhlYzB3czRFYm9ITzlzUlZieVhKTUNRX1A4bzg?oc=5",
+      "publishedAt": "2026-10-07T00:44:00Z"
     },
     {
-      "id": "2a77fd1df7d82740",
-      "category": "国际",
-      "title": "黄金交易提醒：美联储加息押注降温，美债收益率24年新高，黄金多空都在等一个信号",
-      "summary": "黄金交易提醒：美联储加息押注降温，美债收益率24年新高，黄金多空都在等一个信号 新浪财经",
-      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWtBbE5IcUFfSS14eDlsdC1pNENDUWROS0c0alFCd3N6N2F4emdQSk10UlZEYk82UWJXT29Ra0w0WWVxeWg0SS1hS0dNbXZFX0doZ3VCTGNWeHZKcWpOaEcyVXA2dXZIOEFEQWs0cTlWd1FESkFWalp0dVpQNFV1X0tNdkE2NENWS2J2VDR0TE1XdGNacXdEMnNkRXB3ekF4RFVnMU1maw?oc=5",
-      "publishedAt": "2026-10-06T00:15:48Z"
-    },
-    {
-      "id": "0443d9ba97876b5b",
+      "id": "8c55ea54083d01ee",
       "category": "时政",
-      "title": "国庆假期欢乐不断，闪耀巡游点燃节日氛围",
-      "summary": "国庆假期欢乐不断，闪耀巡游点燃节日氛围 wuhan.gov.cn",
+      "title": "工业遗存焕发文旅新动能_ 榕城要闻",
+      "summary": "工业遗存焕发文旅新动能_ 榕城要闻 福州市人民政府",
       "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "wuhan.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hWHNiczNNN0dSNWFGRXFjTldxVUxZMkViV2VocW81NkMtOEJtSmhfNDZXUVJPOWJrWnRZQzQ4M08tTERWNUxPTlR3c3d5VTByN3puOEg3cUVtZlpPTGR4bTNuTlRaMnUtSHlfNzBoTHM?oc=5",
-      "publishedAt": "2026-10-06T00:04:00Z"
+      "source": "福州市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xdTBHWUNyM3JmWDZHc044ZWRZbERWM3dYbGN1WWZJWVVWYm5RVm1vYmVEUFp6S3dTWG9rZ09RWWFCQ3ZBb2xvakpRb0MzMEpBQ2wyYm8xREpKTmNJSGpkczRoZEk3WDc5c2tIX3ozMVB6NVpKdzFNNQ?oc=5",
+      "publishedAt": "2026-10-07T00:41:00Z"
     },
     {
-      "id": "dbf066f1061c288a",
-      "category": "证券",
-      "title": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了|基本面|美联储|加息|科技|主线",
-      "summary": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了|基本面|美联储|加息|科技|主线 新浪财经",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93eGppM0lkaHptOEdzQlJnUm40VGdjSHlyWUtRYVB4NWhGN2R5eXFhZDFKT3ZzZlhWaHRXVHBTTE55d3FRdUlCTEtvSkJvYzZjUURRQVFVaUZXZTk2eUFUMTh5ajRhcUtkMVAyMFVCZE5kY1cyc0tPRw?oc=5",
-      "publishedAt": "2026-10-05T23:33:34Z"
+      "id": "c9a9cfa58b4a84a4",
+      "category": "财经",
+      "title": "【环球财经】美国8月贸易逆差继续升高- 中国金融信息网",
+      "summary": "【环球财经】美国8月贸易逆差继续升高- 中国金融信息网 中国金融信息网",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "中国金融信息网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wLUVUM183dFdkQS1sUk9GNFpGTGxwMU9vWGViOUtiVzQ3b19sTFpXZ3Y1TGlOOTlKdUpVR0tLMG5pdVhWTFNvSXpSLXVHdWtfOEo1YzhxV3MwSVNOQjNyUDdDeUVDc0U?oc=5",
+      "publishedAt": "2026-10-07T00:28:00Z"
     },
     {
-      "id": "1ed93ec65cd83e6a",
+      "id": "52375eeef68d5823",
       "category": "国际",
-      "title": "黄金价格横盘震荡：美元走强抵消美联储加息预期降温影响_金市直播",
-      "summary": "黄金价格横盘震荡：美元走强抵消美联储加息预期降温影响_金市直播 黄金网",
+      "title": "美共和党议员促美联储审查香港使用美元流动性工具资格",
+      "summary": "美共和党议员促美联储审查香港使用美元流动性工具资格 联合早报",
       "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "黄金网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qWDdRcmFobHI2OXotaEpwU2lXS0NJRndCbVl5OW1rMjN4Rks5bktEcEhsdTlLMUwtbFo2aVdYamRHanpZWkFMZWhxV1RUYmEyUmxIelB6RjItWmY1eHZ1YUhpY0cxVEtK?oc=5",
-      "publishedAt": "2026-10-05T23:32:01Z"
+      "source": "联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03V3N1cmpUWko0T1laQzJ6OTN6Mkg0Y2pteHRWc0VwM2dlVktVR1NjNDFpX2lrUVp6dU1EejFubF9za09DVjMyRkQ2bURRNnNtYnBjSk5SZm42clN1VHRtY3lTZERIRHduOUE?oc=5",
+      "publishedAt": "2026-10-07T00:26:45Z"
     },
     {
-      "id": "c47a4f458b82156d",
+      "id": "734da9747c039441",
       "category": "A股",
-      "title": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了",
-      "summary": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了 新浪财经",
+      "title": "【券商聚焦】中信建投：A股节后情绪有望出现回升_滚动新闻_财经",
+      "summary": "【券商聚焦】中信建投：A股节后情绪有望出现回升_滚动新闻_财经 证券之星",
       "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjFtMWpiY0lDZEg0V0JzYWtlb2Y1Qnk4dkhBZkppWHp5VDc3T1ljRzBpMnFyZ1QyOVEzcTNaSWFmQkxNaDRvQUhYQ3VCankyZkxUeEtRM25YOFotb0I1VUJ6UXhVSThCRXZMek95RndWZzRLbE1XcDJQQnpsOEQyUw?oc=5",
-      "publishedAt": "2026-10-05T23:22:00Z"
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVkZqcl9QdXJsSGN5ZVJoMkYtSkpiaTNzeTFTLUkwS1RCSi1mWFRHQU00dmg5dkJJSWwxVmpQTDFmNDNKWlZ3dk5NR2hxRzM5TF9JRGRJOGNvekJTN2ZRRg?oc=5",
+      "publishedAt": "2026-10-07T00:13:33Z"
     },
     {
-      "id": "51a7845981c969bf",
-      "category": "时政",
-      "title": "致敬坚守者",
-      "summary": "致敬坚守者 福建省人民政府",
-      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "福建省人民政府",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HVFVKeURfX3hmc0wzNFY5R3lXQ3E0YzZLaFF0dWx3aEJrNXFubkhmeFpvME1fRDRQbmlBeHRESEpNbWgweXd0QXR1RTREWjdXRm5tNEVmNEZCQjdLcm5UYkpmMTQzMDZpVDVUaHFfeng2dw?oc=5",
-      "publishedAt": "2026-10-05T23:18:00Z"
+      "id": "a426523166c9d8e3",
+      "category": "宏观",
+      "title": "阿根廷宏观经济冲击下退休人员慢性门诊药品可负担性分析",
+      "summary": "阿根廷宏观经济冲击下退休人员慢性门诊药品可负担性分析 生物通",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95aVVNay1naElfaHFFTFFBQmxmMVU3Mzk3dkNCY19jZk9rUXg5RU05Ujl0RFUzb1U5ZXQtNzEzc0ZpWHBJcHBVVXZZV3UyeDl0UFZNRUw5VjlxOFhNbENtdHM4RFQ5NWN3VFUxUlB3?oc=5",
+      "publishedAt": "2026-10-07T00:02:56Z"
     },
     {
-      "id": "8be90f46aee11000",
-      "category": "财经",
-      "title": "南方财经全媒体集团",
-      "summary": "南方财经全媒体集团 南方财经",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "南方财经",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VZlk1WG9nVTlJWWZrMHJpTUNTcWJMR2dRMlkwdEh5UmdlanNJbHJWMGxRYUpLZEVNSkxFSlNvbUpzcEZXRGF6Ym5CVmp3NEIzVUJOZ1VaZUE1TjFRb3pNNVJDbkw4QQ?oc=5",
-      "publishedAt": "2026-10-05T23:09:50Z"
+      "id": "075df80a9beb2477",
+      "category": "银行",
+      "title": "黑客利用中国AI工具攻击韩国金融业，暴露新风险",
+      "summary": "黑客利用中国AI工具攻击韩国金融业，暴露新风险 华尔街日报中文版",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "华尔街日报中文版",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRS15bHJSYjAtY0llam5GRVlUaGczWkhxQjFkcWZJVzhZa1lDaUR5RUlaRkRudHhSSmdWQzJabFZ2R1RoenJzQWFLVnpJVmNIWTV5VzRtaWtqUzkzUENRdGhuSkdOdnpEbUk1cHlrMGxLSzVJZnZmVkE3M3l6d1NNVFdMSjNvWVo4NmFCSWVNVE01OUFKSkk5NWlxNjFlbzBTMXVacUwzZVVsNHAtYWVqZW5RaHRZLXNGdm43cDl0VUJVVVZ5WW9obUJmbF9BVjA3S1NBbXRRRUZraFRJTUdzNHNqMm9mTlAyUWRiSnctRm12LVRyMlhpRFNoYzJpT25sUjE4WmRNV29qS0pfdjlvQTJiVHRnZU9VUEN2REhfbXpMb0VsUi1odEthTEd5dkx0LUxGODdmZWJxX294UGpjSnVR?oc=5",
+      "publishedAt": "2026-10-06T23:57:00Z"
     },
     {
-      "id": "64844c82da605d74",
-      "category": "国际",
-      "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
-      "summary": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息 财联社",
-      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Xck1rVVBQNVpBcWxUbVNWREstX1NDSEpEMkpXTkJ1R0wtdEJjR0tYRW5IUEc1a0hrZnpmSnZwbHdNZ2tIcUpUUQ?oc=5",
-      "publishedAt": "2026-10-05T23:06:19Z"
+      "id": "9414e8231805d670",
+      "category": "投行",
+      "title": "年入3.78亿，三位复旦博士要IPO了",
+      "summary": "年入3.78亿，三位复旦博士要IPO了 凤凰网财经",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "凤凰网财经",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnRzF4THBLakk4VVdrRG4wX3o5UTFFcW5iY3NrbGdTd1JVSEVTSTVMQjdqZndlM0g4ZHRRZHlscEdRLV9LN2ZHeDQtNXBsZUJl?oc=5",
+      "publishedAt": "2026-10-06T23:55:48Z"
     },
     {
-      "id": "321e4e352de64dc8",
-      "category": "财经",
-      "title": "中国经济放缓 中日关系紧张 日本企业加速撤离中国",
-      "summary": "中国经济放缓 中日关系紧张 日本企业加速撤离中国 RFI",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNU3BBZzJGUXJ3OU9faVZGWG1JS1dJVnl6U3NqRDZlWWRFWFAwbnh0b0pwZE5JVmhGOFBfb25WQUJYM1Q5QmYtblNya0diUHJiM0FGZkl5TFlqVDRRRUNpMTVWVnp6TXRkVkw0Rk9SdGoxNUc4LTRBbUFNN2RES0tKRkVVRF9YdHhQTGtIM054eUdOeFNFSE5YblpKZ0t0WFBCaVpFeXpKOENRRE01bUVTNlBjQklEWS11WW81UndWOFh3aEV3YkJhY2JHWlJjSzYxYVItMTJIVUdmOEdDQnlRLVpQWm5zVnRKaUxyYmlCLVlmWGZMLXpxU3IxYUtadGEyalNWUXQxWVFhYkpMMXlMOTR5aUdzQXpMN3pMUWtoU2xBY0pYamo4dUtVREJ2anRCdF9VSlVRelA0NmVIWUE3V1Z6dDF1LXFBVExEcjhOa2NBYzg5cW14MjJBX0l5NENwaFlSeUU4NXV2QQ?oc=5",
-      "publishedAt": "2026-10-05T21:22:53Z"
-    },
-    {
-      "id": "e8ed02e924944bae",
-      "category": "证券",
-      "title": "朱江涛接棒第一年，招商证券半年赚回106亿",
-      "summary": "朱江涛接棒第一年，招商证券半年赚回106亿 手机新浪网",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVnFzNDB0YnZkblM4dkRrUmVvZjY3X2plWV9yanRBdVRvNllyTTc4Mm5Zbl83UXN6clFzaEdOZXBnby1NQVhRZEZlOUUtNUhObkk3YXN4RFZ6a0tobDduS0lnT3dMWnFhUUd4N2JHMU1Rdw?oc=5",
-      "publishedAt": "2026-10-05T20:33:00Z"
-    },
-    {
-      "id": "36be9f1a709d59d4",
-      "category": "财经",
-      "title": "拧紧水龙头 用好水资源",
-      "summary": "拧紧水龙头 用好水资源 中国经济网",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "中国经济网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05dDZSV3Ffdk9ZRjdwRENMN29LMWczV1pqWWZGUGVDenRLTnFQRGNrQXR4cUZMT2s0Y0tRVGM4OVJSTzFRdW5iTmZTd21nTXQ5YXltczU5ZUpOcUZCX2x4YnJLWlRLSFJnbWJSQXp3OA?oc=5",
-      "publishedAt": "2026-10-05T20:27:00Z"
+      "id": "305214d8bfedd313",
+      "category": "A股",
+      "title": "在A股，你以为的″价值投资″，可能只是另一种博弈",
+      "summary": "在A股，你以为的″价值投资″，可能只是另一种博弈 新浪网",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "新浪网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2FGaE8wTUF5MGNOdWtaQ0xXdVJwb2tVdXVhS01nVVpwN1N0aTZMRm5uUGltN3NHSTl6cGFlbkVkcktwWVpUY2xfdWEzQ0hwbk1aUThuRDE0NXBFSlBLX09ESHpoakNqMVRpeDJIeTZ2WnJaM1BHajFFT3c3N19RazdiNkRHb0QxdTdFODhvMm9veXlN?oc=5",
+      "publishedAt": "2026-10-06T23:38:00Z"
     },
     {
       "id": "da538806ae1f313b",
@@ -202,127 +252,247 @@
       "why": "关注可能影响全球资产价格与国内市场的国际事件。",
       "source": "财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HRFJIU0VsdUplZGx1d0xvVDN0eWI4REFMQU9MN19DSVFNSGRWaGVHaHpBdEQ0LTk0WXN6MjdaY3BBcG14YmNXRA?oc=5",
-      "publishedAt": "2026-10-05T19:32:05Z"
+      "publishedAt": "2026-10-06T23:34:09Z"
     },
     {
-      "id": "27275d742c6bd3f8",
+      "id": "cc6418fa3b70fb63",
+      "category": "证券",
+      "title": "纽约券商Revere Securities LLC同意支付80万美元，就监管机构提出的相关指控达成和解",
+      "summary": "纽约券商Revere Securities LLC同意支付80万美元，就监管机构提出的相关指控达成和解 东方财富",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSNEFqcjBEUDdFT0VhSE9vZWlEeHJ3d28zZzh0bng3OG4tR1VNdmpjbFl5cTk0ci1YY2lDMllPd3I5WmozajU4NFJUZm1vd3RIQVhMdlR1ZW83cWpBZ1Uycw?oc=5",
+      "publishedAt": "2026-10-06T23:29:26Z"
+    },
+    {
+      "id": "8aaa793a9bb502c4",
+      "category": "时政",
+      "title": "时政微观察丨向新图强，创新潮涌神州大地",
+      "summary": "时政微观察丨向新图强，创新潮涌神州大地 央视网",
+      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
+      "source": "央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DTDdtLUh6UjU0a1lHNVdodGhhdk10aUdJTGhSSkg3S2ZSOWFPZ1JyUlZ3MEJDS3Z3SVVjOUgtYjdtbmU3ZHhSV0xhZm9NQWJWMWFEMEVRT1JuSGtIVmZyNnZkekJsSnFUdFVaVFZyOFpkNEU3MVhVdw?oc=5",
+      "publishedAt": "2026-10-06T23:27:00Z"
+    },
+    {
+      "id": "e209e7c170cd74fa",
       "category": "国际",
-      "title": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元 上个交易日报15.01亿美元",
-      "summary": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元 上个交易日报15.01亿美元 东方财富",
+      "title": "美联储施密德表示 通货膨胀令人沮丧 必须解决",
+      "summary": "美联储施密德表示 通货膨胀令人沮丧 必须解决 东方财富",
       "why": "关注可能影响全球资产价格与国内市场的国际事件。",
       "source": "东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTEtadE45VmJnd1FIMWl6cTNFX1VuZXp6b25IWG9BMXNlNlBQVmkwcE9IVkU5RVQxMDk2N2kyWlVMLXlYUjlYZ1ZmLTVkb1l5MG5LbC1EVUhSV3ppWXFoZA?oc=5",
-      "publishedAt": "2026-10-05T17:37:30Z"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IR0tuSjhjYkp2TUgzdEdrSUZDS2g3ZXRjWnZzRW9lMU9FSVNKSXd1djlFXzNwb2dBVDl6b0RWM2NBZzJ0Mmd1UkZTRUtJMTlNQnNhTnRPZG45aDJOOTZnNQ?oc=5",
+      "publishedAt": "2026-10-06T23:24:57Z"
     },
     {
-      "id": "d50bb64ba5f5ec68",
+      "id": "9835ef9f71776f9c",
+      "category": "保险",
+      "title": "美國保險公司高管中槍身亡 疑殺妻女後自殺",
+      "summary": "美國保險公司高管中槍身亡 疑殺妻女後自殺 大紀元",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZQ1pkLWpvRmg0ZXZtOXY4d25iZ3FsU3p2bmYxRzFramNlbHpjOW9ycHJMNnlNSTZlWWNQVGRVbmNiSXdJQXgyazViSXhYWUpmWThOTXRGWDZvSk5mc2ppSNIBZkFVX3lxTE5scUVUdFZBQjRJczM4UWV2bFZYMDRZd1ZZVjV4M3h6ZFNISzY5MFZmRXFRWDNORlYtR1BJMHFodjExQnVxM0lsY0pYNmlITG9XcWt6eE9lOHR6QzRUT3NtajBUSEx4dw?oc=5",
+      "publishedAt": "2026-10-06T23:05:00Z"
+    },
+    {
+      "id": "1f947f90c530ed18",
+      "category": "时政",
+      "title": "“白天拍鸟，晚上过田园生活”",
+      "summary": "“白天拍鸟，晚上过田园生活” 福建省人民政府",
+      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
+      "source": "福建省人民政府",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVBNVGJMRy1aRXRiSUVnQjJFX0x1OHdBUlNpdFJkRm9RSHFxRERyaDFJZS1aT1RSNGN6ZHVSNTc1eUMyVU03QWR3NFZhd3NMZEJJX2t0QWJWcVRqRm9xOFVEY2F3OTNHVGN4Q0xaSWgybHFhMFUtVkZSWWNLLVdiSGxvRGV2T2VxdXdEZjhn?oc=5",
+      "publishedAt": "2026-10-06T23:02:00Z"
+    },
+    {
+      "id": "d1f324472146a18a",
       "category": "银行",
-      "title": "法国财政与政治不确定性冲击金融业！三大银行信用风险指标攀升债券违约保险成本明显走高_滚动新闻_财经",
-      "summary": "法国财政与政治不确定性冲击金融业！三大银行信用风险指标攀升债券违约保险成本明显走高_滚动新闻_财经 证券之星",
+      "title": "美联储加息前景仍存变数戴利关注通胀冲击持续性鲍曼推进银行监管改革_滚动新闻_财经",
+      "summary": "美联储加息前景仍存变数戴利关注通胀冲击持续性鲍曼推进银行监管改革_滚动新闻_财经 证券之星",
       "why": "跟踪银行业监管、经营与重要机构动态。",
       "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MckFENVlyaWhJQ2NaX3h0ZGlvNWpkMHQ5OVpTR2s4YlJRNGZ2bmVTQkgtR3hXRnlVTjVuNVlKYVkxLVFDUnRaenNOVlRGV1NQVEwxUWM5MlJreWREYVM4VQ?oc=5",
-      "publishedAt": "2026-10-05T15:17:18Z"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JUk9Hc01wbE5MVFVCSzUzQndnSkRfREhKV2N1R2lGcXQ0LUNIRW94dzctNnVZSW91eXFOV2xrTGVQSUdDSTNTaXU4SGV2WkJTeHpNNjhlM2k1RWg4Sm9jNA?oc=5",
+      "publishedAt": "2026-10-06T23:00:00Z"
     },
     {
-      "id": "6e98c82fb883f7ac",
-      "category": "银行",
-      "title": "中国银行业大整合：关闭数百家银行 金融体系加速瘦身",
-      "summary": "中国银行业大整合：关闭数百家银行 金融体系加速瘦身 wenxuecity.com",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "wenxuecity.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rbnpGM2haM09XYWNaQmJqNkxsVU44ZVNjbjZ2Z3gzTU0xTHZvM1c5ZDdfNnNlMXV1eWZNVUJLZXMwZjBhTTZCZXZWb2JvUkVMeWJGQTRXUHFuWlZkVWZNZk5heVdjWXhE?oc=5",
-      "publishedAt": "2026-10-05T14:47:16Z"
-    },
-    {
-      "id": "1f9faab25a9613c1",
+      "id": "9e83ab562c224835",
       "category": "财经",
-      "title": "中国经济何以向新向优向好？人民日报10篇“金轩”值得细读|王萍萍|刘珂",
-      "summary": "中国经济何以向新向优向好？人民日报10篇“金轩”值得细读|王萍萍|刘珂 新浪新闻",
+      "title": "融资协调机制推动资金直达小微",
+      "summary": "融资协调机制推动资金直达小微 中国经济网",
       "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02UlY4T1pvSWd3ZW13QmMwSWQwOXJiUk54SEllVVMyTV9aSEVoblZtWXQ0RnFZZ2pUU2NteXk2dmxXY3ZQQmJRcnhhM0tyWFRHeGt6a0plejdjVGhnZGxPV0dZemlPSnNXV2ctSjgtRXJxcDFocnc?oc=5",
-      "publishedAt": "2026-10-05T14:46:25Z"
+      "source": "中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GNTZPY1Y3Vmh4WGg4RVBNZVpzN0FVOFQ4ME1YX2M3VFJrSGczN2RVNExqQ1dNVVBkZUlkaUV0c3ZVMlc5OWJJUENaWmFnbzJkckdtcWhkelB1OGpHbVpxczZZS3JSOEJYLUk4OUgwTQ?oc=5",
+      "publishedAt": "2026-10-06T22:16:00Z"
     },
     {
-      "id": "9cd8003d5dccc27c",
-      "category": "证券",
-      "title": "大和证券相关服务器遭非法访问 或导致22万条信息泄露",
-      "summary": "大和证券相关服务器遭非法访问 或导致22万条信息泄露 共同网",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtTm9fU0xvcGZaaG1oTHBvRFh0bXNIeTVRUzJCd0dNNTZxWUU3UEJmaDJnNTdCdWpqbE5QcjVpcEd2YTJUX1k4dEVSa05udlpsUkxqczhQQQ?oc=5",
-      "publishedAt": "2026-10-05T14:15:45Z"
-    },
-    {
-      "id": "c10f351c85e539df",
-      "category": "A股",
-      "title": "2026年诺贝尔生理学或医学奖揭晓，这些A股公司布局相关领域",
-      "summary": "2026年诺贝尔生理学或医学奖揭晓，这些A股公司布局相关领域 21财经",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTVA1SUZZa0kydHdwLUNYSHpRUjRERk5ZSF85VVhQQkdoMkMzSTE0MEt4WXNrbjM5UERfV04zb3FOZ3hKSjVacjdTQ0hpYlFCNHFwQS1McV9SU3p3ZWVMR2NWUjVJVXpmMUVhSU83b0ZuOUx0YUxyYkZGSUI5eWhiRUYwaUFsTjhPeG1VNjlLUQ?oc=5",
-      "publishedAt": "2026-10-05T14:14:00Z"
-    },
-    {
-      "id": "ebcb319bac7e9a60",
-      "category": "保险",
-      "title": "特朗普政府将要求保险公司披露向医院支付的款项——STAT News",
-      "summary": "特朗普政府将要求保险公司披露向医院支付的款项——STAT News UA.NEWS",
-      "why": "跟踪保险监管、产品、机构与行业经营变化。",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTBvWDByelUxZXRaQmpZNjBEcGFyMHV6c2VOQWg3Y2ZZWE16UUZ6QnN6cmFCSlMxZHhwbndVS2VlLXZHMXVkOGNGZHNRWUZMb2J2aFVDeWRoREVXSGgwWUxTQTF4UnlZMEgwQUpNc2ZxY0hMeWZzUzZIZS1VZGUyazBGeTFqU2VFLXlFZkxLYTJqSUJZVk0wbkt4NWlDOXlpMUp3U1ZxMEo4WF9tWUlWcA?oc=5",
-      "publishedAt": "2026-10-05T13:39:00Z"
-    },
-    {
-      "id": "fe226e9d51e008f4",
-      "category": "宏观",
-      "title": "中国关闭数百家银行以巩固金融体系",
-      "summary": "中国关闭数百家银行以巩固金融体系 RFI",
-      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQM2xCMVRpZ2JodzJRLWwxV1FTSWQ4Q2xoZElYcWM5RjA2ZjhJYWZObHlHX19KV1E0dmpzZkR0d0l6WDdiV3ZZaGJaUU85d3lsU25WV2xfZ1dYODRrODRhMlB4bmtXU0hFaENJWG8wU2FrWGxMaUQyNkdDX1haSmlhY2ZDQVdfOWFZYnBoUWE0R2RKT1NBYjA5Z1FXanVCVlhHMWJKaEJmRWkwaDVPX0ZEcXF0eDNqeXpidlpldTJUYVpTcjdWamVxQzVLYXFIZkw1UnV5RW5TSWJyMnJoS2lPbUl5a250bk9iOWE1Szh4aW1nYjVIbHllSGtFNVQtc1ZnZGdMeHdQSHR1SFk0WDVFOTF5QkFJYlZkQThCeDlKSQ?oc=5",
-      "publishedAt": "2026-10-05T11:58:29Z"
-    },
-    {
-      "id": "bc59472e685dc17b",
-      "category": "国际",
-      "title": "投资者下调美联储加息预期，美债收益率小幅回落",
-      "summary": "投资者下调美联储加息预期，美债收益率小幅回落 新浪财经",
-      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVVrTTZveHVoQVk1Qnh0NzBKQmZEbGpzdUZoeTh3WnFNNUJnN2diLXljVEhWeTg2RVoyNHVfeXNzZjFlRTVSNFVhQlhrek1OQURnZVR5cElkcWpMU09CbWliSkRReXNIRWpwWVV6cTZzNDY2Ny1MODRpeklKajhadjBJa3BqejQ?oc=5",
-      "publishedAt": "2026-10-05T09:35:00Z"
-    },
-    {
-      "id": "03ca5c2362484b17",
-      "category": "保险",
-      "title": "“北京市摩托车线上投保平台”上线",
-      "summary": "“北京市摩托车线上投保平台”上线 搜狐网",
-      "why": "跟踪保险监管、产品、机构与行业经营变化。",
-      "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0FKejRhdDVVM2NFTEttTnpHalhvdG1QTE1RMnBnS2J2ZUpRUTI0d3lWSWhTTXczVm9SaVBlVjhLNF9zMnA3X21nVWlGNHFUczF3WDdWT04tNWpVLTJOSXJEOUhnamNwaEVRZzVIWVhPdXUyODBTRUZZeDNGZ1M3TXNWeWs0Q0xqM1g0dQ?oc=5",
-      "publishedAt": "2026-10-05T09:12:00Z"
-    },
-    {
-      "id": "089c6dceb71fcdef",
-      "category": "证券",
-      "title": "证监系统今年对券商开出超260张罚单 9月单月约60张",
-      "summary": "证监系统今年对券商开出超260张罚单 9月单月约60张 观点网",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fcDJiT0Q0WnEtazdpMm1zem9mTmd2R3I4MTFkU0JaeFFQejFTU3VmR0NKMG43ejYxXzFuWndLTGk0ZjBlS2F0dGlUc0JqRF9SWXFxTnVLUzNZUWlZemdJTHlB?oc=5",
-      "publishedAt": "2026-10-05T09:01:04Z"
-    },
-    {
-      "id": "50bf7688b8e77c6b",
+      "id": "a535e111b6e1bc90",
       "category": "银行",
-      "title": "韩国金融业史上首次多家银行同时遇袭，或人工智能参与攻击",
-      "summary": "韩国金融业史上首次多家银行同时遇袭，或人工智能参与攻击 21财经",
+      "title": "美联储拟大改银行监管机制，副主席Bowman：重组区域架构并调整资产门槛",
+      "summary": "美联储拟大改银行监管机制，副主席Bowman：重组区域架构并调整资产门槛 华尔街见闻",
       "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNU9hT2pENENuaERhajg5REY5cDM4NHIzTG1iR1JTSVU4TTZwZlNSTzMwaEI0dnFBdUpfa0tkTXNyTGwzc2gxRmZmWllGMzJ6ZE5NWWRqUGdXT2xEYWUxdjBkZlUtdU5rTzZSMkZ0Y1BqMjljTUQ1REhaYkVudWdla3hfY3hhZXBPOGNLd3RXOA?oc=5",
-      "publishedAt": "2026-10-05T06:21:00Z"
+      "source": "华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GR2NhQTZKbV9Bd3ZOZHVjeHVjZUNhWDF4VWtVdTFOcUhOQk9wa1ZBVGJQM1k2SU1VQUNtQW5EdG8tS3F0Uk5XNXB1cWVaU3lKOFpn?oc=5",
+      "publishedAt": "2026-10-06T17:02:15Z"
+    },
+    {
+      "id": "8f1175762f226b44",
+      "category": "银行",
+      "title": "美联储鲍曼称央行将很快考虑提高银行监管的资产规模门槛",
+      "summary": "美联储鲍曼称央行将很快考虑提高银行监管的资产规模门槛 新浪财经",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJWWZLTzYxcGttUmJkbFF1WFNrMXlRbFhnanhFSGZERFV6dnBjM2JaWE50SnB1TDFlYmVJMzl4UTluQXhNejNhUWpyUlNWN0lvRWZqdE8taWlUWXpPa2hmbXBFZ1N5V1RyR1pmNm9uS29BZ0NPaFQ1STJn?oc=5",
+      "publishedAt": "2026-10-06T15:38:00Z"
+    },
+    {
+      "id": "dbf7360941f782df",
+      "category": "财经",
+      "title": "财经聚焦｜国庆假期一线看旅游市场活力“三重奏”",
+      "summary": "财经聚焦｜国庆假期一线看旅游市场活力“三重奏” 新华网",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOGt5MUtRTWg4ZGRYWjdfXzdHWng0YnVtZ2UyX1ZZaGVhcXNldE5yd3lpUDlWU1R6Tmp4RjBndTNTRTJZX0draE1hOTRtb3lOWVlhem9TVXFiX0VHcDRxV1BMSE5ua1l4dkZWalJUQUpNRzdvNllFQWp3VG80dUlNZXhR?oc=5",
+      "publishedAt": "2026-10-06T14:54:00Z"
+    },
+    {
+      "id": "03d511de7cbde236",
+      "category": "国际",
+      "title": "“美联储传声筒”：不指路就能摆脱市场猜测吗？沃什面对典型沟通困境-市场参考",
+      "summary": "“美联储传声筒”：不指路就能摆脱市场猜测吗？沃什面对典型沟通困境-市场参考 金十数据",
+      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
+      "source": "金十数据",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oOFFxeTZta3VHcnphamZody0tc2h1MFYwbUhIbnowMFRpMjNTRUdFc01LN2NYc0VNZWYwZzVrNDVjNlVCWFBMTUFXdy00dEU?oc=5",
+      "publishedAt": "2026-10-06T13:49:22Z"
+    },
+    {
+      "id": "5d7bfb03a1b9f8c3",
+      "category": "证券",
+      "title": "上半年香港证券经纪行交易额创纪录达149万亿港元 证券业净盈利强劲增长",
+      "summary": "上半年香港证券经纪行交易额创纪录达149万亿港元 证券业净盈利强劲增长 中国新闻网",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4M2J2eDZqbk82dnZ4cFBoVWxrU0U5MXRVNk5OdjZEdFhiZDV5VFRLS01mRXVjSnRsREkycG1Bcmw1VndPZm82Wm11T2tFTnQyWXNYWGp3YXIzWU1SRGxzTmx5SWtWTGRtb3c?oc=5",
+      "publishedAt": "2026-10-06T13:10:31Z"
+    },
+    {
+      "id": "9b824ba36e2f230c",
+      "category": "保险",
+      "title": "唯一总部在蓉的全国性人身保险公司，拟增资25.41亿元|成都市|四川省|股东|国宝|注册资本",
+      "summary": "唯一总部在蓉的全国性人身保险公司，拟增资25.41亿元|成都市|四川省|股东|国宝|注册资本 finance.sina.com.cn",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU2JkeW9IVml2cXRHNWQ4aHY5VC1lQjVBLXppdS1PX2lwMkxWRmc1OEVDZ1J6X2pFbVcxcXA1ZnlJejFKRTZkMFU1YXFtUUdjUGpZR3hQTG5maFBiaXVlQUJIOE9lMDRhRk42bE9IMDEzNXFRamZxeGc1RHliUVdocHhxMk5kYW9IenRmUXRVdnl4S1loRVFzQ3pjZ0JydEs5UlFrZEZITXhtaGFBdDd5T1l2aXk4bGdYYzdReF9tbjhUMDBVQnU4b3lPSUFzeUFvX29Obm5HcWE2RDVrUHhTRE43Ty1aVl9SUFAybndfUDFkd2tUSGFEblZ5Tk5rejA?oc=5",
+      "publishedAt": "2026-10-06T13:03:07Z"
+    },
+    {
+      "id": "12dabac8125d63a9",
+      "category": "证券",
+      "title": "抢先看，券商10月“金股”来了",
+      "summary": "抢先看，券商10月“金股”来了 新浪财经",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1ZpN3NaYjMzejBOMWVkdVFMQy1iYm5qcUFPeXhIV1lPM3NrRnFMSjB5WUxCNDVLZGd4VDg4VDVxcU5QbEt6ZXpVR1BBVVFsaldNam5Nd1dEUEpUdUdyS1VnUjZSYlZ6M0tCd0IxbFdBT1FrRGtHRTJxb0huWVh0T2pNR1h5S0ZtWUdMS3dB?oc=5",
+      "publishedAt": "2026-10-06T12:07:00Z"
+    },
+    {
+      "id": "1d40456c14f607a5",
+      "category": "证券",
+      "title": "多家券商研判A股四季度行情：中性乐观，科技或仍有机会",
+      "summary": "多家券商研判A股四季度行情：中性乐观，科技或仍有机会 ThePaper.cn",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmUkdSb3VIVkZJT1V6ajRORUR6ekpSdmI5VEJuTWl1c0dWSXQ5YjI0Tk5rdlpPZkhLTkZuaUZqVUxvYnRxa2JUaURPYXJ1WEY0UkhCLWp6SlJhRVY4Vk1RMg?oc=5",
+      "publishedAt": "2026-10-06T11:15:00Z"
+    },
+    {
+      "id": "1f9f3b4ddafd1068",
+      "category": "保险",
+      "title": "英媒称保险公司正准备应对因AI代理“失控”而引发的数百万美元索赔",
+      "summary": "英媒称保险公司正准备应对因AI代理“失控”而引发的数百万美元索赔 Sohu",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkdubFhWRVhEWTVrQVVnNzZ3QVVWaHhRU0kzamRSYzlzZnAtb3YyYU90OHBPZHR2V1RoaDRHd3BZSHV3V3FVWUVEZVNzRGROYjYtOGhmdG94M1BkaVYxTkt5dnRiYlg4aXJaNUJHSkdjZW1tOG1DdU50YUxmNEtEdUhiNDE3WV93MUJBUQ?oc=5",
+      "publishedAt": "2026-10-06T10:02:00Z"
+    },
+    {
+      "id": "7af0c9decce2de8f",
+      "category": "投行",
+      "title": "800亿！曝DeepSeek新融资，即将IPO",
+      "summary": "800亿！曝DeepSeek新融资，即将IPO 智东西",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "智东西",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53X0RGTjNUSEE0SDlXbl9yQmhhWld5LUF2YWFGdnlGbGZ2b3A5SkR3VnZjMGstYm5YRE16OVM2U05Fdng0UEE?oc=5",
+      "publishedAt": "2026-10-06T09:12:30Z"
+    },
+    {
+      "id": "45433bac545a5f23",
+      "category": "保险",
+      "title": "欧洲保险公司为何对一些中国汽车说“不”？",
+      "summary": "欧洲保险公司为何对一些中国汽车说“不”？ 凤凰网汽车",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "凤凰网汽车",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53WEM1LV9OdllZM0tjRFBsS0RCLVFEcUtZMlhCVXZzQmJPUHpEdENUYlljSnd2RC1hNElhSjM4M3czZjVsbGlEUmF0V0o?oc=5",
+      "publishedAt": "2026-10-06T08:46:04Z"
+    },
+    {
+      "id": "310c7b44d1a3cfc4",
+      "category": "保险",
+      "title": "保险索赔案将检验奥尔特曼与Amodei伊对 “失控 AI” 的法律责任",
+      "summary": "保险索赔案将检验奥尔特曼与Amodei伊对 “失控 AI” 的法律责任 Sohu",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSFZ3MlRaODVvUV9zZFlveHAyckJZMVFxUFBkYnpwTzM1dDY5V0wyR2F1dktDNWExZXIzYndWdVFha0dialB6MjlaeldUdjgwOXlqSzd0bUtjdTlmUWFYSEEzMTB0YXBtUllHWnhIekJBN2pZYndQTWhCaENGTlRzTG5oejExVjhjbEJIWQ?oc=5",
+      "publishedAt": "2026-10-06T06:30:12Z"
+    },
+    {
+      "id": "dfd20d2ef5c0c411",
+      "category": "宏观",
+      "title": "信贷压力驱动货币政策因子剧烈重定价",
+      "summary": "信贷压力驱动货币政策因子剧烈重定价 Moomoo",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mYmoxa1JLaURaRWdXNWp1TlJCSjlrTnFnY09QS0NxTFo2SHJaYWxjWFl2eE1YbVU1V2M1WjJLQXpYM1F6amJ4ZmRFV3FlZE9WT2VmeTJUb2hZVE9O?oc=5",
+      "publishedAt": "2026-10-06T05:07:02Z"
+    },
+    {
+      "id": "7bc9d11650bc0851",
+      "category": "保险",
+      "title": "陕西出台国内首个无人驾驶航空器保险理赔服务规范",
+      "summary": "陕西出台国内首个无人驾驶航空器保险理赔服务规范 潮新闻客户端",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "潮新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wZTdPR2xwZk82ZWdDZXFWcVhnM055aGhVMFpOcHVJQ1AxQWs1QTR3TVdTeDg2dWlrNWdKNE5nTVVlbWZlX01SbzVmVEs5Nk9CcU9ZYjh1c3cxeVUtN1RROUV6SXZUNzZRUl8zWm81N2dOU2c?oc=5",
+      "publishedAt": "2026-10-06T02:21:23Z"
+    },
+    {
+      "id": "fe9ae4e93c05b135",
+      "category": "A股",
+      "title": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了",
+      "summary": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了 天天基金",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "天天基金",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Wbk54bEJyekN4d1d3ZWY5VHktUUx6clIxY1NkZlRGcF9tek5WX3U1OXlYUUZlQjlXWU91YldzWUhwVGR4dlJndTZtWTExVTZFeHVSYVltMGN6aGxCUEg1Zm5n?oc=5",
+      "publishedAt": "2026-10-05T23:00:00Z"
+    },
+    {
+      "id": "dad60dd2c438d12d",
+      "category": "财经",
+      "title": "从十篇“金轩”文章看中国经济：新动能、新空间、新支撑同向发力",
+      "summary": "从十篇“金轩”文章看中国经济：新动能、新空间、新支撑同向发力 东方财富",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVFZFckw4cWFlSHU2N0JLOG9DOU1lU1lJMlBqMzlMWF8wcHQtekZZcmpOdGpTVnowT1JJVmJGUTlaQWx5RGZQaUpXYlFOUENzWHY0Qzc4Z3R6ck80cWU0NQ?oc=5",
+      "publishedAt": "2026-10-05T08:52:51Z"
+    },
+    {
+      "id": "8821a9a4d0a2b93e",
+      "category": "考公",
+      "title": "政府办公厅公布公务员考试申请审核结果及考生传唤通知。",
+      "summary": "政府办公厅公布公务员考试申请审核结果及考生传唤通知。 Vietnam.vn",
+      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTmdlSzJ4RVVaS1Vqdzl6aTR6Z0RkMWhXVW9oc21zM1FHekVQU0tGbC1nZklfeTNsUHNlM1VkOWZ1c3ZNLWJPRVI3R0JPcnJFZllJMEp2TVdYVEZIUVVyQUY4MFJhdGx0SFpISGhzZlpDTVFUM0JOT2hMSGpybzViOGNwaXhYbUFhaHdkVW0wU1E1eDBVNzNhclJYLTVkY3RYLUg5dWxUcFNFTkJqbjFUaDNhUjVQUlVJa2F2Qmc1amM5Unc?oc=5",
+      "publishedAt": "2026-10-05T07:00:00Z"
     },
     {
       "id": "db4a0c3ad2d42022",
@@ -345,16 +515,6 @@
       "publishedAt": "2026-10-05T03:14:30Z"
     },
     {
-      "id": "cba735c58831f883",
-      "category": "考公",
-      "title": "2025年度水资源管理“国考”结果公布！黑龙江省再获优秀",
-      "summary": "2025年度水资源管理“国考”结果公布！黑龙江省再获优秀 新浪财经",
-      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxONjZXZmNJS2U3U0NCbHBPQ3hwVEd5SVo3UUdIRGRBSGVDanpwSllBaW5mUlhKMDdEYVlDbnc3ZUkwbGQ1d0ZpWlluU3Nfc1dEZ2haSTNpWFo2S1c5dmpiWXBVOGl5VVJOM0pVbHB4S2xFaV8yUHlHZDdnX2ZsUkQwX2U4ZDduZTFxbkF1endRaXBaM3c1TEMxamRSS3lxcF93RW41V2pzMV8xbW04RUhQRS1lSXBMcG56UmxrRUdPZUJCVkpSM0xoNUhWWHVDQlAxUXdlWGZxeVBXcHRwMzhodTl6UEkyOWpMTGo5SUYyTmVWb21OLVVoY0dQRWQyTFZHdzdrYVNhU21pQWhPQTV0WVpxNG8ydktwc1FzdEFZdkY3bGxmN3NPM2s2MHJYTlo4VnFvTE01VWdPV3ZKVG5Bb0E5dnpPMEdHYmYxOENTRmFjeVJVNWtyTTJ0Ml9zcHhyVEFBV3FfcjJtT3NhVEhrb0VOOXJjeTB1N1VvR29zYTFMbGZ5YS1WMW1aRWJ1cmJEc3l3akZhU0VtX205MGpNdjJ4cmlhQ3VtU2dBQWtjNm5zaEgxMFpQY3hKMjlNLUc0RkFJUHRIM3RwclhyN2tMeTcwcG9aekhLZ1pLOFo1R1h4UQ?oc=5",
-      "publishedAt": "2026-10-05T02:52:04Z"
-    },
-    {
       "id": "8346fa7d1d20c980",
       "category": "银行",
       "title": "突发！多家银行客户数据泄露！韩国金融业炸锅 系统遭黑客攻击",
@@ -365,104 +525,24 @@
       "publishedAt": "2026-10-04T23:24:00Z"
     },
     {
-      "id": "4084ce532b1c247c",
-      "category": "宏观",
-      "title": "存款保险守护储户“钱袋子”",
-      "summary": "存款保险守护储户“钱袋子” 新浪财经",
-      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqeE44V0RDVTRlcXMxM2N2SHJEX1p4M1dxWHZMdm5rcXNoSHRaam5hQzdmSXh0WGlFOUhzOXZpb05VbzQzMXozd09IdE9hRzVJLWg1Nm9FUHBTNUdqaWlvMmJ0dWtmaTlFTTZLdnhaZkZJa0p1NFpuSg?oc=5",
-      "publishedAt": "2026-10-04T21:51:02Z"
-    },
-    {
-      "id": "b80559c9a477e0b0",
-      "category": "A股",
-      "title": "A股这一赛道火了！“20cm”涨停后，688185紧急公告！",
-      "summary": "A股这一赛道火了！“20cm”涨停后，688185紧急公告！ 证券时报网",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yM2hzdWljemRrcC12bkFiWFJ3Nl9aSHpDMXduT1lDZl9tTFg0Nnhud1Jady1xYTBEMjc5ZmFKcUVsSnM0NUpMRlFtVXpWMFliT1JLNkdVVG5nVjQ0?oc=5",
-      "publishedAt": "2026-10-04T14:31:00Z"
-    },
-    {
-      "id": "d6b70f8d24331d50",
+      "id": "4b5925d4df919f53",
       "category": "宏观",
       "title": "中国人民银行公开征求意见",
-      "summary": "中国人民银行公开征求意见 21财经",
+      "summary": "中国人民银行公开征求意见 东方财富",
       "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWU1cHF5TFhtMzJmVUZKVzhaVlJySE51aG0zVHc4Vi1qTmNManZyaDRrclR2b2hRZ01mUGxIX1BUUzBGc09TOC1QQXBXTEJhZ2NZUTh0eVhxbWRMekdnNDlNUS1pcWJiOXBxd1dybUFDR3F5ZDNzUTVyUEJQenQwS1ZFbm5qeURYa3hnUThYVQ?oc=5",
-      "publishedAt": "2026-10-04T11:56:00Z"
-    },
-    {
-      "id": "978dda1d83aac787",
-      "category": "银行",
-      "title": "韩国金融业接连遭网络攻击，监管机构要求全面排查",
-      "summary": "韩国金融业接连遭网络攻击，监管机构要求全面排查 TradingView",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zbml3ckhyYVJTNHVraE1JeEtZSGc3TUxOdGtDVFRpYVZmZE1fV1pNckRUc2kzcWZSLXRJandJbzNwWFk0UkNEUlVFWTYzdDJIZ0o3SDVJRUVxRWhpbHJfUE1NQ2Y4dw?oc=5",
-      "publishedAt": "2026-10-04T06:22:00Z"
-    },
-    {
-      "id": "6da53b667b10193a",
-      "category": "证券",
-      "title": "券商热衷拿哪些新牌照？年内全梳理，业务逻辑是第一驱动力",
-      "summary": "券商热衷拿哪些新牌照？年内全梳理，业务逻辑是第一驱动力 21财经",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWEzQlZyOUZWY29BeDh0a0FGM2pwNGtNUHMyYjZhaG5FbkZXeG9hekRyeHI1NTJ1YUVRakF2X3AzVkRLUHYxZ1lGZ2dSTTI1R3Q3REg1M09vcWtIaXVDRkV1a1NBdzdVczE2VVhON3FBaGpnUUJHWVQwTG9RampQMGNNWHRXQ2ZDLXZiY0VOZw?oc=5",
-      "publishedAt": "2026-10-04T05:54:09Z"
-    },
-    {
-      "id": "dad60dd2c438d12d",
-      "category": "财经",
-      "title": "从十篇“金轩”文章看中国经济：新动能、新空间、新支撑同向发力",
-      "summary": "从十篇“金轩”文章看中国经济：新动能、新空间、新支撑同向发力 东方财富",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
       "source": "东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVFZFckw4cWFlSHU2N0JLOG9DOU1lU1lJMlBqMzlMWF8wcHQtekZZcmpOdGpTVnowT1JJVmJGUTlaQWx5RGZQaUpXYlFOUENzWHY0Qzc4Z3R6ck80cWU0NQ?oc=5",
-      "publishedAt": "2026-10-04T04:47:26Z"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wRWg0cTlUcFZSMGVOc3paMXpLWDBRVFJzZ0JxVDdETDhJTm8xc3pMN2dUdjBoNnUwckxGa0NicHp1UDJ1STFLcHh2cXBOWGFGNzdvdVNlcVh5bUZXbHBXSVZjLUhhZw?oc=5",
+      "publishedAt": "2026-10-04T09:35:09Z"
     },
     {
-      "id": "04b766a0f06e0313",
-      "category": "A股",
-      "title": "10月A股解禁规模超3100亿元 5股解禁比例超70%",
-      "summary": "10月A股解禁规模超3100亿元 5股解禁比例超70% 东方财富",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HZG51bnI1LVdpWlVLeGh4WjhLbTNfcEsybHB4RXJxM1ZtN1FtNEs0VmFYYy1FU0tPcENNaXUzS3Z3dzFFazBLb0NTek00MnlzR1V2S3JaT05CTTVMUFNhVzNlTDZ4QQ?oc=5",
-      "publishedAt": "2026-10-03T21:11:27Z"
-    },
-    {
-      "id": "21649ef55e9bc9cc",
-      "category": "银行",
-      "title": "商业银行提升中间业务精细化管理座谈会在京举办",
-      "summary": "商业银行提升中间业务精细化管理座谈会在京举办 新浪财经",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZEk3a0RlRFpkQ1U4OW52VVptUk9mcnRkbXhCcnZvamx4V2d3ZFgwMjNVN1RNalc5TVJaZjNtNGxheWI4bVB1Y2hTYlpNdkU2SU5pNnlrd0hqNXd2NFZ6ZFNKZ1FyRnFGbGgxZ05hRF80cF9RTTFHOW0tZ2FjQTJrcUYteXR3RGRGT3Zac2lETzJjMnVrR0ZhNGpFXzhJUXV5dEloUEx0bm14UWU0SVhNYm52bjhScXdZXzU4TTJ2dzdGVUpBd1NRTHNSSnVvU1hZZFZPNUlsbE8yeUxlTmxpb3ZDV2VRSWVfUTgydXp2MEJjZ1gxSUpfSU90RmFIUjJtSEhmOXV6TnRPcFZQS1lPUnhVbWxSX0VaOFY2YW1R?oc=5",
-      "publishedAt": "2026-10-03T18:22:03Z"
-    },
-    {
-      "id": "0a71fd57f320d8cf",
+      "id": "349ad1a072000e7c",
       "category": "宏观",
-      "title": "美联储加息，A股一定跟跌吗?#宏观经济#美联储加息",
-      "summary": "美联储加息，A股一定跟跌吗?#宏观经济#美联储加息 财富号",
+      "title": "驾驭科技行情：宏观经济催化剂、半导体板块飙升及其行业影响",
+      "summary": "驾驭科技行情：宏观经济催化剂、半导体板块飙升及其行业影响 Moomoo",
       "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "财富号",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxU0RmMVM3NlJSb0hvUTVmc2tsZk9NZGdOWG9yYXFTamxBSHlrUjZ2N1Y2eFVtMzNpVWtVeUxGVDBtMnJseWhwUjktQkRBZjZQLUR6YktxM2U2ZVhwUDZGek0wSHkyWmZZV3dJ?oc=5",
-      "publishedAt": "2026-10-03T09:16:00Z"
-    },
-    {
-      "id": "84466e49e9c2feef",
-      "category": "保险",
-      "title": "不满前妻车祸被索赔16万元 台男埋伏保险公司持刀伤人",
-      "summary": "不满前妻车祸被索赔16万元 台男埋伏保险公司持刀伤人 8world",
-      "why": "跟踪保险监管、产品、机构与行业经营变化。",
-      "source": "8world",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTZTcWROMkMyNjVtZFlDWUs3TlB5clFYOGdmR0x0WE5lU0pmVmpvYl9SdEFjMnFiWWk2TEtiNlNqNkprYnRyUEtyYnl6em53TEZWdmUxVWxXN21XcHdyRFpXUWN1QmV1SW5XX2NSRXUzUW8xLWk3dnRDS2d4TUxIWnI1akVoM0tBRWJv?oc=5",
-      "publishedAt": "2026-10-03T03:13:03Z"
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdnU5NzJwdUJxUFlOLXpwbmQxLXV0QVVXWl9WUGVaQUJYTUVUWERnQ2stNDRwdmdZWGRZVnlCa1RCMkxmdVhwZVFvLUpLUEZlbHJHdThLUm8xb09sWXRkU2RxTU9YT3pROWNTbjFYM0JFSVRna2tlaDRkV01hYWZXbHE4OGhYNEpEZWViczJqWTNoRnZ3bXFtR2dPODJQUTNVcEF3RWJjXzBBLVNrMjJfX0trM0h3NXJ4cXhYNkZ4TjhCWVRkT3ZlMEhHeWpFcVhJVlBfcQ?oc=5",
+      "publishedAt": "2026-10-04T08:25:00Z"
     }
   ]
 }
