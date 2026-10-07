@@ -1,56 +1,36 @@
 {
-  "generatedAt": "2026-10-07T14:25:00+08:00",
+  "generatedAt": "2026-10-07T15:05:00+08:00",
   "provider": "ChatGPT AI Daily Intel",
-  "note": "由 ChatGPT 定时任务生成的 AI 新闻情报数据；仅保留已核验来源。",
+  "note": "与当日 AI模型省钱情报 邮件使用同一批已核验信息。",
   "items": [
+    {
+      "id": "2026-10-07-deepseek-value-baseline",
+      "category": "AI国内",
+      "title": "DeepSeek V4.1 Flash 仍是当前低成本 API 基线，过去24小时未见新调价",
+      "summary": "过去24小时未核实到 DeepSeek 新一轮价格或免费额度调整。当前官方 V4.1 Flash 仍采用峰谷价：闲时每1M输入 $0.15、输出 $0.60，峰时每1M输入 $0.30、输出 $1.20；缓存命中更低。",
+      "why": "对批量推理、Agent 和一般编程任务，DeepSeek 仍是低成本优先项，但这不是今天的新降价，避免把现行价格误写成今日优惠。",
+      "source": "DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "publishedAt": "2026-10-07"
+    },
     {
       "id": "2026-10-06-mistral-large-4",
       "category": "AI国际",
-      "title": "Mistral 发布 Mistral Large 4 公测版，开放权重计划月底发布",
-      "summary": "Mistral 于 10 月 6 日发布 Mistral Large 4 公测版。官方称其为 1.05T 参数、49B 激活参数的原生多模态 MoE 模型，支持 1M 上下文，重点面向编程、Agent、金融、法律与网络安全任务。",
-      "why": "这是欧洲阵营对中美开放模型竞争的一次重要升级。当前 API 已可用，官方文档列出的标准价为每 1M tokens 输入 1.36 美元、缓存输入 0.14 美元、输出 4.18 美元；Batch 价约为标准价的一半。",
-      "source": "Mistral",
-      "url": "https://mistral.ai/news/mistral-large-4/",
+      "title": "Mistral Large 4 公测上线，1M 上下文且 Batch 价格约减半",
+      "summary": "Mistral 于10月6日上线 Mistral Large 4 公测版，官方文档列出 1M 上下文，标准价为每1M tokens 输入 $1.36、缓存输入 $0.14、输出 $4.18；Batch 对应价格为 $0.68、$0.07、$2.09。",
+      "why": "如果需要更强的多模态、Agent、函数调用和超长上下文，Mistral Large 4 提供了新的中高端选择；批量任务使用 Batch 比标准调用更划算。",
+      "source": "Mistral Docs",
+      "url": "https://docs.mistral.ai/models/mistral-large",
       "publishedAt": "2026-10-06"
     },
     {
-      "id": "2026-10-06-google-embeddinggemma-2",
+      "id": "2026-10-06-embeddinggemma-2",
       "category": "AI国际",
-      "title": "Google 发布 EmbeddingGemma 2，主打端侧多模态嵌入",
-      "summary": "Google DeepMind 于 10 月 6 日发布 EmbeddingGemma 2，可把文本、图像、音频和视频映射到统一嵌入空间，定位是轻量、端侧运行的多模态 embedding 模型。",
-      "why": "对 RAG、跨模态检索、端侧搜索和隐私敏感场景更有实际价值，尤其适合不希望所有数据都上传云端的应用。",
+      "title": "Google 发布 EmbeddingGemma 2，本地多模态检索可直接下载权重运行",
+      "summary": "Google 10月6日发布 EmbeddingGemma 2，740M 参数，支持文本、代码、图像、视频和音频统一嵌入，Apache 2.0 许可，权重可从 Hugging Face 与 Kaggle 下载。",
+      "why": "对本地 RAG、代码库检索和多模态搜索，直接本地部署可以避免持续按 API 调 embedding 费用，同时减少数据外发；成本主要变成自有硬件与运维。",
       "source": "Google",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "publishedAt": "2026-10-06"
-    },
-    {
-      "id": "2026-10-06-anthropic-cyber-verification-program",
-      "category": "AI国际",
-      "title": "Anthropic 扩展 Cyber Verification Program，向安全团队开放更高能力模型访问",
-      "summary": "Anthropic 于 10 月 6 日扩大 Cyber Verification Program，设置三档访问级别，让符合条件的安全团队获得更强的网络安全能力和更宽松的阻断策略，并覆盖 Claude Opus 5.5、Sonnet 5.5、Mythos 5.1 等模型。",
-      "why": "这不是普通模型发布，而是高能力 AI 在网络安全场景的接入方式变化，反映头部厂商正在用分层权限而不是统一开放来管理高风险能力。",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/glasswing",
-      "publishedAt": "2026-10-06"
-    },
-    {
-      "id": "2026-10-06-deepseek-fundraising",
-      "category": "AI国内",
-      "title": "DeepSeek 被曝筹备新一轮超 800 亿元人民币融资",
-      "summary": "Reuters 10 月 6 日援引消息人士称，DeepSeek 正筹备规模超过 800 亿元人民币的新一轮融资，目标估值约 5000 亿元人民币；报道还提到腾讯、宁德时代等潜在投资方。DeepSeek 及相关方未对报道作出确认。",
-      "why": "如果融资落地，将显著增强 DeepSeek 在训练算力、国产芯片适配和模型研发上的资金能力；但当前属于媒体援引消息人士报道，不能当作官方已确认融资。",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/deepseek-raise-least-12-billion-tencent-backed-funding-bloomberg-news-reports-2026-10-06/",
-      "publishedAt": "2026-10-06"
-    },
-    {
-      "id": "2026-10-06-elevenlabs-india",
-      "category": "AI国际",
-      "title": "ElevenLabs 计划在印度投入数亿美元，扩展语音 AI 与本地语言能力",
-      "summary": "Reuters 10 月 6 日报道，ElevenLabs 计划在印度投资数亿美元，用于扩充团队、模型研发、本地语言能力及潜在并购，并扩大 AI 语音 Agent 在当地企业中的部署。",
-      "why": "语音 Agent 正从模型能力竞争转向地区语言覆盖和企业部署竞争，印度成为 OpenAI、Anthropic、Google 等之后又一个大型 AI 公司重点投入的市场。",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/ai-firm-elevenlabs-invest-hundreds-millions-dollars-india-2026-10-06/",
       "publishedAt": "2026-10-06"
     }
   ]
