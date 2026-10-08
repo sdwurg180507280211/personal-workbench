@@ -6,7 +6,7 @@
     {
       "id": "2026-10-07-haiku55",
       "category": "AI国际",
-      "title": "Claude Haiku 5.5发布，Sonnet缓存降价，Max/Team获API额度",
+      "title": "Claude Haiku 5.5发布，Sonnet缓存降价，Max/Team获API额度2",
       "summary": "Haiku 5.5短提示词每1M输入$0.10、输出$0.50；Sonnet 5.5缓存读取从$0.20降至$0.10；Max/Team订阅增加每月API credits。",
       "why": "高频摘要与子Agent可明显降本；API credits仅限符合条件的Max/Team。",
       "source": "Anthropic",
