@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-07T15:12:00+08:00",
+  "generatedAt": "2026-10-08T08:25:00+08:00",
   "provider": "ChatGPT AI Daily Intel",
   "note": "与当日 AI模型省钱情报 邮件使用同一批已核验信息。",
   "items": [
     {
-      "id": "2026-10-07-deepseek-v41-flash-price-calibration",
+      "id": "2026-10-08-cn-models",
       "category": "AI国内",
-      "title": "DeepSeek V4.1 Flash：过去24小时无新调价，当前峰谷价继续作为低成本基线",
-      "summary": "过去24小时未核实到 DeepSeek 新一轮价格或免费额度调整。官方当前价格仍为：闲时每1M tokens缓存未命中输入1元、输出4元；高峰分别为2元和8元，缓存命中价格更低。",
-      "why": "这不是今日降价，而是当前仍有效的价格校准。对可错峰的批量推理、Agent和一般编程任务，闲时调用仍是低成本选择。",
-      "source": "DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
+      "title": "国产模型过去24小时无重大新调价",
+      "summary": "DeepSeek、Qwen、Kimi等暂无可核实的重大API价格或免费额度调整。",
+      "why": "继续使用官方渠道并按实际token用量选型；DeepSeek闲时计费可节省批量成本。",
+      "source": "DeepSeek",
+      "url": "https://deepseek.com/en/news/deepseek-v4-1-flash/",
+      "publishedAt": "2026-10-08T08:25:00+08:00"
+    },
+    {
+      "id": "2026-10-07-haiku55",
+      "category": "AI国际",
+      "title": "Claude Haiku 5.5发布，Sonnet缓存降价，Max/Team获API额度",
+      "summary": "Haiku 5.5短提示词每1M输入$0.10、输出$0.50；Sonnet 5.5缓存读取从$0.20降至$0.10；Max/Team订阅增加每月API credits。",
+      "why": "高频摘要与子Agent可明显降本；API credits仅限符合条件的Max/Team。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
       "publishedAt": "2026-10-07"
     },
     {
-      "id": "2026-10-06-mistral-large-4",
+      "id": "2026-10-07-gpt6-free",
       "category": "AI国际",
-      "title": "Mistral Large 4 公测上线：1M上下文，标准价$1.36/$4.18",
-      "summary": "Mistral 于10月6日发布 Mistral Large 4 公测版，官方页面显示输入价$1.36/1M tokens、输出价$4.18/1M tokens，支持1M上下文；官方文档同时列出更低的批处理价格。",
-      "why": "如果任务需要长上下文、多模态、Agent和函数调用，Large 4 提供了新的中高端选择；批处理任务使用Batch价格更划算。",
-      "source": "Mistral",
-      "url": "https://mistral.ai/news/mistral-large-4/",
-      "publishedAt": "2026-10-06"
-    },
-    {
-      "id": "2026-10-06-embeddinggemma-2",
-      "category": "AI国际",
-      "title": "Google 发布 EmbeddingGemma 2：开放权重，本地多模态检索可减少持续API成本",
-      "summary": "Google DeepMind 于10月6日发布 EmbeddingGemma 2，740M参数，支持文本、代码、图像、音频和视频统一嵌入，Apache 2.0许可，可下载权重并在端侧运行。",
-      "why": "对RAG、代码库检索和多模态搜索，本地部署可以把持续的embedding API调用费转为自有硬件和运维成本，适合高频或隐私敏感场景。",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "publishedAt": "2026-10-06"
+      "title": "GPT-6扩展至ChatGPT免费与Go用户",
+      "summary": "10月7日宣布GPT-6聊天体验更新，10月8日起扩展Free/Go，免费档使用GPT-6 Luna。",
+      "why": "可以先用网页端免费体验，但不代表开发者API免费。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "publishedAt": "2026-10-07"
     }
   ]
 }
