@@ -3,7 +3,7 @@ illustration_id: "05"
 type: flowchart
 style: editorial
 case_id: canghe-article-editorial
-target_path: imgs/05-first-page.png
+target_path: imgs/07-first-page.png
 aspect: "16:9"
 source_status: upstream-spec
 ---

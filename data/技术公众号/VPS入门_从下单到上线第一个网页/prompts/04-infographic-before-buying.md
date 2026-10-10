@@ -3,7 +3,7 @@ illustration_id: "02"
 type: infographic
 style: editorial
 case_id: canghe-article-editorial
-target_path: imgs/02-before-buying.png
+target_path: imgs/04-before-buying.png
 aspect: "16:9"
 source_status: upstream-spec
 ---
