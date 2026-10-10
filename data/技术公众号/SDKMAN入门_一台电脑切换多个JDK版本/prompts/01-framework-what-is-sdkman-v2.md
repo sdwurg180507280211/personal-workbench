@@ -1,0 +1,89 @@
+---
+illustration_id: "01"
+type: framework
+style: editorial
+case_id: canghe-article-editorial
+target_path: imgs/01-what-is-sdkman.png
+aspect: "16:9"
+source_status: upstream-spec
+---
+
+Use case: infographic-diagram
+Asset type: 小团子Java公众号技术工具入门示意图
+输入参考：图库案例 canghe-article-editorial 的实际预览，仅作为整体设计依据，不复制其主题、英文、数字或结论。
+设计来源：https://github.com/freestylefly/canghe-skills/blob/dd0bf355955b4c82b764740b4183c86a72ba0e0c/skills/canghe-article-illustrator/references/styles/editorial.md
+来源边界：upstream-spec；exactGenerationPrompt=false。以下保留上游 editorial 原文一次，后续内容是本篇适配，不声称已获得样图完整生成记录。
+
+# editorial
+
+Magazine-style editorial infographic for professional content
+
+## Design Aesthetic
+
+High-quality magazine explainer aesthetic. Clear visual storytelling with structured layouts and professional typography. Think Wired, The Verge, or quality science publications. Complex information made digestible.
+
+## Background
+
+- Color: Pure White (#FFFFFF) or Light Gray (#F8F9FA)
+- Texture: None or subtle paper grain
+
+## Color Palette
+
+| Role | Color | Hex | Usage |
+|------|-------|-----|-------|
+| Background | Pure White | #FFFFFF | Primary background |
+| Alt Background | Light Gray | #F8F9FA | Section backgrounds |
+| Primary Text | Near Black | #1A1A1A | Headlines, body |
+| Secondary Text | Dark Gray | #4A5568 | Captions |
+| Accent 1 | Editorial Blue | #2563EB | Primary accent |
+| Accent 2 | Coral | #F97316 | Secondary accent |
+| Accent 3 | Emerald | #10B981 | Positive elements |
+| Accent 4 | Amber | #F59E0B | Attention points |
+| Dividers | Medium Gray | #D1D5DB | Section dividers |
+
+## Visual Elements
+
+- Clean flat illustrations
+- Structured multi-section layouts
+- Callout boxes for insights
+- Icon-based visualizations
+- Visual metaphors for concepts
+- Flow diagrams with hierarchy
+- Pull quotes and highlights
+- Clear section dividers
+
+## Style Rules
+
+### Do
+
+- Create clear narrative flow
+- Use structured layouts
+- Include callout boxes
+- Design visual metaphors
+- Maintain magazine polish
+
+### Don't
+
+- Use photographic imagery
+- Create cluttered layouts
+- Mix too many styles
+- Add purposeless decoration
+- Compromise clarity for style
+
+## Best For
+
+Technology explainers, science communication, research articles, policy analysis, investigative pieces, thought leadership, long-form journalism
+
+执行视觉约束：参照所选样图的白色背景、沉稳深蓝与珊瑚色、细分区线、蓝色主信息区、珊瑚强调、圆形线描和短注释。保留整张杂志信息图的专业排印、层级与叙事关系，不改成普通图标卡片，不与其他案例混搭。样图里的主题、增长图表、百分比、建筑、英文一律不用。
+COLORS: 白色 #FFFFFF；深蓝约 #1E5A82；珊瑚约 #F18A77；浅分区线 #A7CED9；中文近黑 #1A1A1A。若规范色值与参考图实际观感不同，以实际参考图整体配色为视觉匹配依据。
+STYLE: 精细清晰的平面线描；专业中文无衬线字体，粗标题、短标签、轻注释；少量圆角注释气泡；清爽留白。无照片、无3D、无水印、无第三方标志。中文逐字正确，在手机正文中易读。
+事实边界：仅表现已读正文和配图需求中的已核实概念；所有图均是概念示意，不画真实截图、假界面、精确按钮、虚构数据或不存在的功能。只允许使用下面明确给出的标签、关系及示例。
+
+TITLE: “多个 JDK，按需切换”
+Layout: 沿用样图的杂志分区设计。左侧约一半为主叙事插图：一台抽象电脑轮廓，内部横排四个深蓝与珊瑚色开发工具包盒子，分别写 Java 8、Java 11、Java 17、Java 21；中间有清晰的 SDKMAN! 切换装置，线只表示可选择管理，不表示四个版本同时运行或自动改变 IDE。右侧上方深蓝主信息区，用三条简洁分支展示“项目 A”“项目 B”“当前终端”，分别连到切换装置；右侧下方是短结论。
+LABELS（逐字）：多个 JDK，按需切换；Java 8；Java 11；Java 17；Java 21；SDKMAN!；项目 A；项目 B；当前终端；多个版本并存；按需选择使用。
+Labels should be large and short. Use abstract project-folder and terminal symbols, not real or fabricated UI, no software logos, no extra command snippets.
+
+ASPECT: 16:9。高清横向 PNG，内容完整，禁止边缘裁字。
+
+本目标唯一一次修正：第一张输入图是本目标初版。保留该图的全部中文、深蓝珊瑚配色、分区、工具包盒子、抽象电脑、SDKMAN!选择器、连接关系与留白。仅删除 Java 8/11/17/21 四个盒子上的白色咖啡杯/蒸汽图案，用通用不带品牌的白色“{ }”线条代码符号或简单空白工具包标签区替代。所有盒子的 Java 8、Java 11、Java 17、Java 21 文本完整保留。任何咖啡杯、Java 商标、第三方品牌标志都不能出现。第二张输入图仅为所选案例整体视觉参考。保持16:9。
