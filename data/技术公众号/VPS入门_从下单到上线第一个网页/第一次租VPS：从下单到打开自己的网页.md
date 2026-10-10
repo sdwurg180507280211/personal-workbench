@@ -219,18 +219,5 @@ sudo certbot renew --dry-run
 <div class="sources">
 <p>备案要求：<a href="https://help.aliyun.com/zh/icp-filing/basic-icp-service/user-guide/icp-filing-application-overview">阿里云 ICP 备案流程概述</a>、<a href="https://help.aliyun.com/zh/icp-filing/basic-icp-service/getting-started/quick-start-for-icp-filing-for-personal-websites">个人网站 ICP 备案</a>、<a href="https://help.aliyun.com/zh/icp-filing/basic-icp-service/product-overview/faq-about-icp-filing-applications-in-different-scenarios">不同场景下的备案常见问题</a>。</p>
 <p>系统支持周期：<a href="https://ubuntu.com/about/release-cycle">Ubuntu 官方发布周期</a>。Windows SSH：<a href="https://learn.microsoft.com/zh-cn/windows-server/administration/openssh/openssh_install_firstuse">Microsoft OpenSSH 说明</a>。HTTPS 证书：<a href="https://certbot.eff.org/instructions?ws=nginx&os=snap">Certbot 官方安装说明</a>。SSH 配置优先级见 OpenSSH 的 sshd_config 手册。</p>
-<p>资料核对于 2026 年 10 月 10 日。命令以 Ubuntu 24.04/26.04 LTS 为例，不同云厂商的控制台入口、默认用户名和镜像配置可能不同，以实际页面为准；价格以购买页为准。配图为示意图，不是控制台截图。</p>
+<p>资料核对于 2026 年 10 月 10 日。文中命令来自官方文档，写作时未实际运行。命令以 Ubuntu 24.04/26.04 LTS 为例，不同云厂商的控制台入口、默认用户名和镜像配置可能不同，以实际页面为准；价格以购买页为准。配图为示意图，不是控制台截图。</p>
 </div>
-
-<!-- 配图需求：
-1. imgs/01-what-is-vps.png / 位于「VPS 到底能拿来干什么？」小节开头 / 一台放在机房、24 小时在线的服务器，周围四个用途：个人网站/博客、项目后端接口、定时脚本、学习 Linux。
-2. imgs/02-before-buying.png / 位于「下单前，先想好这几件事」小节开头 / 四个选择：国内（需备案）还是香港/海外（免 ICP 备案、访问速度一般）；配置 1～2 核 2G 起步，Java 项目加数据库看 4G；系统选 Ubuntu LTS；留意续费价。
-3. imgs/03-ssh-key.png / 位于「把密码登录换成密钥登录」小节开头 / 自己电脑生成一对密钥：公钥放到服务器，私钥只留在本机；登录时两者匹配才放行。
-4. imgs/04-two-firewalls.png / 位于「第三件，开防火墙」之后 / 两层防护：外层是云控制台安全组，内层是服务器里的 ufw；22/80/443 端口要两层都放行才能通。
-5. imgs/05-first-page.png / 位于「上线第一个网页」小节开头 / 访问路径：浏览器 → 公网 IP（或域名）→ 安全组 → ufw → Nginx → /var/www/html 里的网页。
-都是示意图，不画成某家云厂商的真实控制台截图，也不画精确按钮。
-
-封面（约 2.35:1）：
-建议标题：第一次租VPS
-副标题：从下单到打开自己的网页
--->

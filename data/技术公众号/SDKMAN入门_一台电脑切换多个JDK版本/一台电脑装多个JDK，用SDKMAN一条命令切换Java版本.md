@@ -242,14 +242,3 @@ rm -rf ~/.sdkman
 <p>安装与卸载：<a href="https://sdkman.io/install">SDKMAN! 官方安装文档</a>。命令用法与配置项：<a href="https://sdkman.io/usage">SDKMAN! 官方使用文档</a>。JDK 发行版来源说明：<a href="https://sdkman.io/vendors">SDKMAN! Vendors 页面</a>。项目源码与许可证：<a href="https://github.com/sdkman/sdkman-cli">sdkman-cli（GitHub）</a>、<a href="https://github.com/sdkman/sdkman.github.io">SDKMAN! 官网源码（GitHub）</a>。</p>
 <p>资料核对于 2026 年 10 月 10 日，依据为 SDKMAN! 官网文档源码的当时版本。文中命令来自官方文档，作者未在本文写作时实际运行；JDK 版本标识符（如 21.0.4-tem）为官方文档中的示例，可安装的版本会随时间变化，以 <code>sdk list java</code> 的实际输出为准。各 JDK 发行版的授权与商用政策以对应厂商官网为准。配图为示意图，不是真实终端截图。</p>
 </div>
-
-<!-- 配图需求：
-1. imgs/01-what-is-sdkman.png / 位于「SDKMAN 是什么，适合谁」小节末尾 / 一台电脑里并排放着 Java 8、11、17、21 几个 JDK 盒子，中间是 SDKMAN 作为“切换开关”，分别连到“项目 A”“项目 B”“当前终端”，表达多个版本并存、按需切换。
-2. imgs/02-list-java.png / 位于「第二步：挑一个 JDK 装上」小节末尾 / 示意拆解一个标识符“21.0.4-tem”：左边“21.0.4”标注“版本号”，右边“tem”标注“发行版（Temurin）”；旁边可列几个发行版名称（Temurin、Corretto、Zulu、GraalVM）作为示意，不画真实终端表格。
-3. imgs/03-use-vs-default.png / 位于「第三步：在版本之间切换」小节末尾 / 左右对比：左边“sdk use”只点亮当前一个终端窗口，关闭后失效；右边“sdk default”让之后新开的所有终端都使用该版本。
-4. imgs/04-sdkmanrc.png / 位于「第四步：让项目自己记住要用哪个版本」小节末尾 / 流程示意：cd 进入带 .sdkmanrc 的项目目录 → 自动切到 java=21；离开目录 → 恢复默认版本；标注需开启 sdkman_auto_env=true。
-
-封面（约 2.35:1）：
-建议标题：一台电脑装多个JDK
-副标题：用 SDKMAN 一条命令切换 Java 版本
--->
