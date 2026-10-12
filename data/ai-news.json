@@ -1,28 +1,7 @@
 {
-  "generatedAt": "2026-10-08T08:25:00+08:00",
+  "generatedAt": "2026-10-12T00:24:39.057Z",
   "provider": "ChatGPT AI Daily Intel",
   "note": "与当日 AI模型省钱情报 邮件使用同一批已核验信息。",
-  "items": [
-    {
-      "id": "2026-10-07-haiku55",
-      "category": "AI国际",
-      "title": "Claude Haiku 5.5发布，Sonnet缓存降价，Max/Team获API额度2",
-      "summary": "Haiku 5.5短提示词每1M输入$0.10、输出$0.50；Sonnet 5.5缓存读取从$0.20降至$0.10；Max/Team订阅增加每月API credits。",
-      "why": "高频摘要与子Agent可明显降本；API credits仅限符合条件的Max/Team。",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "publishedAt": "2026-10-07"
-    },
-    {
-      "id": "2026-10-07-gpt6-free",
-      "category": "AI国际",
-      "title": "GPT-6扩展至ChatGPT免费与Go用户",
-      "summary": "10月7日宣布GPT-6聊天体验更新，10月8日起扩展Free/Go，免费档使用GPT-6 Luna。",
-      "why": "可以先用网页端免费体验，但不代表开发者API免费。",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "publishedAt": "2026-10-07"
-    }
-  ],
-  "reportText": "AI模型省钱情报｜2026年10月8日\n\n核验窗口：过去24小时；价格/额度核验日期：2026年10月8日。\n\n今日最省钱结论\n\n过去24小时出现了值得关注的API降价和新增额度政策。\n\n10月7日，Anthropic正式发布Claude Haiku 5.5，短提示词API价格降至每百万tokens输入$0.10、输出$0.50；同时将Claude Sonnet 5.5缓存读取价格下调50%，并为符合条件的Max和Team订阅用户增加月度API额度。\n\nOpenAI同日宣布扩大GPT-6在ChatGPT中的覆盖范围，10月8日起向Free和Go用户推送，但不代表API免费。中国主流模型过去24小时未核实到同等级重大价格调整。今天不硬凑7条。\n\n如果今天必须选：\n\n1. Claude Haiku 5.5｜[官方]｜高频摘要、分类、轻量Agent：短提示词每百万tokens输入$0.10、输出$0.50，是今天最值得关注的新低价模型。\n2. DeepSeek V4.1 Flash｜[官方]｜高频推理、Agent、一般编程：继续作为低成本候选，闲时调用可节省约50%的token费用；今天没有新调价。\n3. Claude Sonnet 5.5｜[官方]｜复杂编程、Agent：标准API输入$2、输出$10；缓存读取新价$0.10/1M，适合重复利用上下文的任务。\n\n一、中国AI模型及高性价比渠道\n\n1. 中国主流模型：过去24小时无新的高价值已核实价格事件\n\n发生了什么：截至本次核验，DeepSeek、Qwen、Kimi、GLM、豆包、MiniMax等重点模型，未发现过去24小时内由官方确认、且足以明显改变主流模型选型的重大API降价或普遍免费额度调整。\n\n模型强项：DeepSeek继续偏低成本推理和Agent；Qwen偏中文、多模态及长上下文；Kimi偏长上下文、编程和Agent。具体选择仍需比较实际任务完成率和token消耗。\n\n最划算使用方式：生产环境优先[官方]或[云平台官方接入]。DeepSeek V4.1 Flash继续采用峰谷计费，闲时价格为峰时的50%，适合可延迟执行的批量任务。\n\n价格与性价比：DeepSeek此前公布的闲时参考价为每百万tokens缓存未命中输入约¥1、输出约¥4，缓存命中约¥0.02；峰时分别约为¥2、¥8和¥0.04。这是9月生效的价格，不属于今日新降价。实际计费以官方控制台为准。\n\n风险提醒：不要混淆缓存命中价、闲时价、活动价和标准价。网页端免费体验不等于API永久免费。\n\n来源：DeepSeek V4.1 Flash官方公告\nhttps://deepseek.com/en/news/deepseek-v4-1-flash/\n官方价格页：https://api-docs.deepseek.com/quick_start/pricing/\n\n二、国外AI模型及高性价比渠道\n\n1. Claude Haiku 5.5：API价格大幅降低，Sonnet缓存同步降价\n\n发生了什么：Anthropic于10月7日发布Claude Haiku 5.5。与Haiku 4.5相比，短提示词标准token单价下降90%。同日，Sonnet 5.5缓存读取价格下降50%，Max和Team订阅新增每月API credits。\n\n强在哪里：高频摘要、分类、数据库查询、客服和轻量编程子Agent。复杂编程任务仍建议比较Sonnet 5.5。\n\n最划算使用方式：[官方] Claude API。100K tokens以内的提示词优先测试Haiku 5.5；复杂Agent任务使用Sonnet 5.5，并充分利用缓存。\n\n价格与性价比：\n\nHaiku 5.5每百万tokens价格：\n\n计费项目 ≤100K提示词 >100K提示词\n输入 $0.10 $0.50\n输出 $0.50 $2.50\n缓存读取 $0.01 $0.05\n缓存写入 $0.125 $0.625\n\nSonnet 5.5标准API仍为每百万tokens输入$2、输出$10，但缓存读取由$0.20降至$0.10。Anthropic估计，这能使典型Agent任务成本降低约20%。\n\n新增月度API额度：Max 5x为$100，Max 20x为$200；Team按席位计算，团队合计最高$500。\n\n风险提醒：API额度只适用于符合条件的Max和Team用户，Pro不包含。额度需要领取，不结转，也不适用于普通交互式Claude Code或第三方云平台账单。新订阅用户通常需要满足7天资格条件。\n\n官方来源：\nhttps://www.anthropic.com/claude-haiku-5-5\nhttps://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans\n\n2. GPT-6：扩大免费网页端覆盖，不代表API免费\n\n发生了什么：OpenAI于10月7日宣布GPT-6与Intelligent UI在ChatGPT中扩大推送。10月8日起逐步扩展至Free和Go用户。\n\n强在哪里：GPT-6支持根据问题自动组合文字、可视化和交互元素，也可以在继续推理时逐步呈现结果。\n\n最划算使用方式：[官方] 对日常问答、学习和轻量任务，优先使用已有ChatGPT订阅或符合条件的免费网页入口。\n\n价格与性价比：Free和Go用户将获得GPT-6 Luna，符合条件的付费用户获得GPT-6 Sol。本次没有宣布新的免费API token额度，也不是API降价。\n\n风险提醒：网页免费使用与API按量付费是两套计费体系。不要因为ChatGPT免费档支持GPT-6，就认为可以免费将GPT-6 API接入自己的项目。\n\n官方来源：\nhttps://openai.com/index/gpt-6-for-everyone/"
+  "reportText": "AI模型省钱情报｜2026年10月11日\n\n核验窗口：过去24小时；价格/额度核验日期：2026年10月11日。\n\n今日最省钱结论\n\n过去24小时未核实到足以改变主流模型选型的头部旗舰正式发布、API重大降价或普遍免费额度大幅调整。今天不硬凑7条。此次核验重点覆盖国产主流模型与OpenAI、Anthropic、Google Gemini、xAI、Meta、Mistral、Cohere等官方动态；已有模型的旧价格、产品体验更新和尚未正式生效的优惠不作为今日新事件。\n\n今天的实际省钱策略仍是按任务分流，而不是追逐“新模型”：批量推理和可错峰任务先比较DeepSeek V4.1 Flash的闲时价格；短任务和高频调用可测试GPT-6 Luna与Claude Haiku 5.5；复杂编程、长链路Agent则应以任务成功率、缓存命中率和实际输出token数综合计算成本。以下均为现行价格参考，不是10月11日新降价。\n\n如果今天必须选：\n\n1. DeepSeek V4.1 Flash｜[官方]｜高频推理、中文任务、批量Agent：闲时每1M tokens缓存未命中输入¥1、输出¥4，适合可延迟执行的任务。\n2. GPT-6 Luna｜[官方]｜高频轻量问答、分类、自动化：官方API价格页所列标准短上下文价格为每1M tokens输入$0.10、输出$0.50；长上下文和加速档另计。\n3. Claude Haiku 5.5｜[官方]｜摘要、检索辅助、轻量子Agent：提示词不超过100K tokens时每1M tokens输入$0.10、输出$0.50；超过100K时价格提高。\n\n一、中国AI模型及高性价比渠道\n\n1. 中国主流模型：过去24小时无新的高价值已核实价格事件\n\n发生了什么：本次核验未发现Kimi、DeepSeek、Qwen、GLM、豆包、MiniMax、百川、腾讯混元、文心等重点模型在过去24小时内出现由官方确认、足以明显改变主流模型选型的重大API降价、旗舰正式发布或普遍免费额度调整。不要将旧闻、文档更新时间或普通产品功能更新当作今日新价格事件。\n\n模型强项：DeepSeek V4.1 Flash适合低成本推理、中文处理和Agent；Qwen适合中文、多模态及长上下文生态；Kimi偏长上下文、Agent和编程。具体任务仍应按准确率、工具调用成功率与总token消耗实测比较。\n\n最划算使用方式：生产场景优先[官方]或[云平台官方接入]；对可延迟的任务优先利用DeepSeek官方峰谷计费，并尽量复用可缓存的稳定提示词前缀。DeepSeek当前推荐模型ID为deepseek-flash。\n\n价格与性价比：DeepSeek V4.1 Flash官方2026年9月10日起实施的峰谷价仍可作为成本基线：每1M tokens闲时缓存未命中输入¥1、缓存命中输入¥0.02、输出¥4；高峰分别为¥2、¥0.04、¥8。闲时为高峰价的一半。这是历史已生效的计费政策，不是今天降价。不同云平台可能另有地区价、套餐或活动价，不能直接等同于原厂API价格。\n\n风险提醒：缓存命中价不等于普通输入价；峰谷计费以官方定义的时间段和实际账单为准。网页免费试用不代表永久免费API。来源不明的中转、共享Key及绕过地区限制的渠道存在隐私、稳定性、封号和资金风险，不推荐。\n\n官方来源：https://api-docs.deepseek.com/zh-cn/news/news260910/\n官方模型与价格：https://api-docs.deepseek.com/zh-cn/quick_start/pricing/\n\n二、国外AI模型及高性价比渠道\n\n国外其他头部模型：过去24小时无足够高价值价格/额度变化\n\n发生了什么：本次未核实到OpenAI、Anthropic、Google Gemini、xAI、Meta、Mistral、Cohere等在过去24小时内发布足以改变主流购买决策的新旗舰、重大API调价或普遍免费API额度变化。此前已经公布的GPT-6系列价格、Claude Haiku 5.5定价与Sonnet缓存折扣属于现行参考，不应重新包装为10月11日新闻。\n\n强在哪里：GPT-6 Luna适合低成本通用调用；Claude Haiku 5.5适合高频摘要、分类和轻量子Agent；更复杂的编程及多步Agent可对照GPT-6.1 Sol、Claude Sonnet 5.5等模型的任务成功率和上下文复用能力。\n\n最划算使用方式：低复杂度任务先用轻量模型做小规模A/B测试；长提示词和多轮Agent应测量缓存命中率、输出长度与失败重试次数。已有订阅额度只能在适用产品与账户条件下使用，不能视为任意API免费。优先[官方]；使用[云平台官方接入]时单独核对地区、模型版本和计费规则。\n\n价格与性价比：截至10月11日核验，OpenAI官方API价格页列出GPT-6 Luna标准短上下文每1M tokens输入$0.10、缓存输入$0.01、缓存写入$0.125、输出$0.50；GPT-6.1 Sol对应输入$2、缓存输入$0.10、缓存写入$2.50、输出$10，长上下文及Fast等处理档另有阶梯价。Anthropic官方10月7日公布的Claude Haiku 5.5在提示词≤100K时每1M tokens输入$0.10、缓存读取$0.01、缓存写入$0.125、输出$0.50；超过100K时分别为$0.50、$0.05、$0.625、$2.50。Claude Sonnet 5.5缓存读取现价$0.10/1M，不能当作普通输入标准价。以上均非今日新价格。\n\n风险提醒：价格应以调用时官方控制台和对应地区账单为准；不同处理档、长上下文、缓存读写与工具调用可能额外收费。网页端免费档不等于API永久免费，订阅权益也不自动等于可转售API额度；厂商自报评测不替代业务实测。\n\n官方来源：https://developers.openai.com/api/docs/pricing\n官方来源：https://www.anthropic.com/claude-haiku-5-5",
+  "items": []
 }
