@@ -172,11 +172,11 @@
 改写出来的第 2 镜大概是这样：
 
 ```text
-中景，平视，镜头跟随人物缓慢移动。一位七十岁左右的清瘦老人，花白短发，戴圆框眼镜，穿及膝灰色风衣、深色长裤、黑色布鞋，推开玻璃门走进便利店，走到收银台旁的保温柜前，拿出一盒白色包装的热牛奶。深夜的小便利店，货架整齐，顶部白色灯管照明，玻璃门外是昏暗的街道。写实电影感，冷白色调，画面干净。
+中景，平视，镜头跟随人物缓慢移动。一位七十岁左右的清瘦老人，花白短发，戴圆框眼镜，穿及膝灰色风衣、深色长裤、黑色布鞋，推开玻璃门走进便利店，走到冷柜旁的保温柜前，拿出一盒白色包装的热牛奶。深夜的小便利店，货架整齐，顶部白色灯管照明，玻璃门外是昏暗的街道。写实电影感，冷白色调，画面干净。
 声音：门口的电子门铃响一声，店内有轻微的冰柜嗡嗡声。
 ```
 
-如果你用的是**图生视频**（先生成或上传一张首帧图，再让它动起来），提示词的重点要换一换：Runway 的官方帮助文档就提醒过，图生视频时提示词应该集中描述**动作和运镜**，画面里已经有的内容不需要再描述一遍。这时角色卡和场景卡用在生成首帧图那一步，视频提示词只留镜头、动作和声音。
+如果你用的是**图生视频**（先生成或上传一张首帧图，再让它动起来），提示词的重点可以换一换：角色和场景已经画在首帧图里了，视频提示词就集中写**动作和运镜**。这时角色卡和场景卡用在生成首帧图那一步，视频提示词只留镜头、动作和声音。各工具对图生视频提示词的具体建议不完全一样，以官方说明为准。
 
 每个视频工具对提示词的偏好不完全一样，中文还是英文效果更好、能写多长，都以你所用工具的官方说明为准。**好在镜头表不用跟着变**，换工具时只需要换第四步的改写规则。
 
@@ -189,6 +189,5 @@
 <div class="sources">
 <p>Google Cloud 官方文档：<a href="https://docs.cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide">Veo on Vertex AI video generation prompt guide（提示词组成、镜头角度与运镜词、声音与否定提示）</a>、<a href="https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-1-generate">Veo 3.1 模型说明（视频时长、分辨率、画幅）</a>。</p>
 <p>Google 官方：<a href="https://blog.google/technology/ai/flow-video-tips/">《5 tips for getting started with Flow》</a>（多段连续场景中重复关键细节的建议）、<a href="https://support.google.com/flow/answer/16935718?hl=en">Flow 帮助中心：Edit videos &amp; build scenes in Google Flow</a>。</p>
-<p>Runway 帮助中心：<a href="https://help.runwayml.com/hc/en-us/articles/37425232841875-Getting-Started-with-Generative-Video">Getting Started with Generative Video</a>、<a href="https://help.runwayml.com/hc/en-us/sections/47313458960403-Prompting-Guides-Examples">Prompting Guides &amp; Examples</a>（图生视频提示词侧重描述运动）。</p>
 <p>资料核对于 2026 年 10 月 14 日。文中步骤和提示词模板为写作示例，写作时未实际操作；示例故事、角色和镜头表均为原创，镜头表为手写参考而非模型输出。AI 生成结果有随机性，各视频工具的时长、画幅、积分规则更新频繁，以官方页面为准。配图为示意图，不是产品界面截图。</p>
 </div>
