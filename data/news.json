@@ -1,298 +1,548 @@
 {
-  "generatedAt": "2026-10-14T02:00:25.757748Z",
+  "generatedAt": "2026-10-15T01:35:48.142737Z",
   "provider": "Google News RSS",
   "note": "标题、摘要与来源来自公开RSS聚合；链接可能先经过Google News跳转。",
   "errors": [],
   "items": [
     {
-      "id": "bc2f33ba573dd3ce",
-      "category": "时政",
-      "title": "虹口区“虹暖戎心·优享服务”活动预告（2026年10月）",
-      "summary": "虹口区“虹暖戎心·优享服务”活动预告（2026年10月） 上海市人民政府",
-      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "上海市人民政府",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSWE1OWZnT0Rnbl9LTU5rZTlRZVZZS1lsZWtyVDB5RC1LQUlJaFlMUmN5MTJ4aXNzOXo3WVNlanIxSUo0azl3MzQ0ZWR3NFhEM1lrMGJFSHpnQ2ZqQVJyN1I3SDRYTkZvbnBHWG4tejBNbUJHWk9yYVI3dUVwRjJBamhxQ2NSQzhHN3c?oc=5",
-      "publishedAt": "2026-10-14T01:53:10Z"
-    },
-    {
-      "id": "23a36b6b96f5ce93",
-      "category": "A股",
-      "title": "A股开盘：超3400只个股飘绿，三大指数集体低开",
-      "summary": "A股开盘：超3400只个股飘绿，三大指数集体低开 中国新闻网",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IaHJOa0pCMWFyUTA4cDZNaThpRFBCLTRSLVdpVUhMUWY0aVRpX3h6OVdhRzBhMzBiRW1FeHZyLXdWY1pWXzVma1lOVkVUMlJCS1ZnMDQ3N3hJbk9tc1h6bnZMMjZRbnVK?oc=5",
-      "publishedAt": "2026-10-14T01:48:06Z"
-    },
-    {
-      "id": "3e79c738d4487d2e",
-      "category": "A股",
-      "title": "产业向新、深度整合、政策汇力 A股并购重组市场热度持续攀升",
-      "summary": "产业向新、深度整合、政策汇力 A股并购重组市场热度持续攀升 21财经",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3RObF9EQWR3SWVVWm5uUk9SVHpmZFBaSFBCSW11Z1I0RU9qVE5yWWpOT0FCNndTeHhQRFBnYnF2NnJIODA0TVJveFFrSW5UaklUUFBpci05Slp1ZzlLa3JrR0VnOWJBaldscUR2UGFaS1FFX2h3ZVdja0g0Sk5KeUtVNDJhTzUxWTZ0TC1kWQ?oc=5",
-      "publishedAt": "2026-10-14T01:30:00Z"
-    },
-    {
-      "id": "2614daa30f24e772",
-      "category": "投行",
-      "title": "香港证监会拟修订上市规则加强IPO及上市后监管_公司新闻_财经",
-      "summary": "香港证监会拟修订上市规则加强IPO及上市后监管_公司新闻_财经 证券之星",
-      "why": "关注IPO、并购、再融资及投行业务相关事件。",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VSG9ORzRuc3dCSWphREtEeWFzZXlhUUYxdU4wYUltb2Q5RlB2U21RRFZlWnVQcFpoNzY4UW1IRnZMUEMxOGJMMXc0S3B1dzhSVVVFd2Q2Z29Xbi03eWNuUA?oc=5",
-      "publishedAt": "2026-10-14T01:26:00Z"
-    },
-    {
-      "id": "650ae57f51c776b6",
+      "id": "efe479e9a585c49f",
       "category": "证券",
-      "title": "又一批券商入局！北交所做市队伍加速壮大",
-      "summary": "又一批券商入局！北交所做市队伍加速壮大 证券之星",
+      "title": "茶百道深夜回应停牌，承诺全力配合香港证监会处理其关注事项",
+      "summary": "茶百道深夜回应停牌，承诺全力配合香港证监会处理其关注事项 新京报",
       "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBubUtJTmFpWUptbm9tVVBvdzI0cmY2WG5HZU1FVTlXUFd0YlFoNE55TW9tb2FxcnVLOVY2THhObzVhTzhjNTNPaUZoRjRXUDZXN084SnRwejVqel9qanFyTw?oc=5",
-      "publishedAt": "2026-10-14T01:20:29Z"
+      "source": "新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTU0RySmlVRVEtNFc2VjIwZmhlcmhsTWRVTFkxQVBPYlZONjhOd1pFZENSSDJVNVhpekQ3eldzWjVuaDZaOUY1WXE4QWhxTzVydmJVSUpjMHlfUG9QYmRxdG15LUk?oc=5",
+      "publishedAt": "2026-10-15T01:22:00Z"
     },
     {
-      "id": "c9c82b0a64ad353e",
-      "category": "A股",
-      "title": "A股企稳了吗？机构解读震荡配置思路→_短线策略",
-      "summary": "A股企稳了吗？机构解读震荡配置思路→_短线策略 证券之星",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UG5id0g3WXFGNDFHSlh3ZjZ3LXVjcXlYTGE3MnE4RmRFdjdwRmNRb2dKNmljODhoSGpYeXhjX0tPREQwanVaZ3FBci1IRzR3QVR4RnM0cVRWaURsd2ZITQ?oc=5",
-      "publishedAt": "2026-10-14T01:17:04Z"
+      "id": "4039a86e5e7046fd",
+      "category": "银行",
+      "title": "AI“捕手”猎诈，声纹“听风”辨险！温州金融业“AI论剑”亮出硬核战力",
+      "summary": "AI“捕手”猎诈，声纹“听风”辨险！温州金融业“AI论剑”亮出硬核战力 温州新闻",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "温州新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JVDV6Vk1ueWhkbWpFRHhBaXVJdGlXa0ZGaHM5N09vaWxHVVpHQ1NRMmNhOGc0cDR3QU9wc2t6QWd2VnRaMUxwWnlDRmQxcWI5M3hleXpVUUhBRFJYaHJtOGl0ekxHZw?oc=5",
+      "publishedAt": "2026-10-15T01:21:13Z"
     },
     {
-      "id": "e239f0f3763a0586",
+      "id": "b0fca613a6dfd126",
+      "category": "考公",
+      "title": "2027年国考来了！温州有这些岗位",
+      "summary": "2027年国考来了！温州有这些岗位 温州新闻",
+      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
+      "source": "温州新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUR3hmSHktM01NNnFmOFVhRDFicFE5UWFDTU04U3pWWGpwbUxJSjliMXMtUjQxa0hkZFlwVHZHWGV2blpldFBVRkhUanBBVUJkYm9sVDYwZjkwVl9EWk1LdEx2RWRSUQ?oc=5",
+      "publishedAt": "2026-10-15T01:21:11Z"
+    },
+    {
+      "id": "c475b3189605217f",
       "category": "财经",
-      "title": "画说长征｜单家集夜话",
-      "summary": "画说长征｜单家集夜话 中国经济网",
+      "title": "透过“三季报”看中国经济向新向优 同比增长18.8%！前三季度我国外贸增势强劲",
+      "summary": "透过“三季报”看中国经济向新向优 同比增长18.8%！前三季度我国外贸增势强劲 东方财富",
       "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "中国经济网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wcGhyTjhKY1hvSUdFcS1xdUJ5OFNtOXNTQWJfamFCaG9obEYzaTdCSHFMMFIwdlBYWTlraDE3Wi1CT2FyTndoUExoWjk1NXY5bEtUSmw1bkxjNjEzN1J6R2JZLUx3UVpfc2sySHQ5UQ?oc=5",
-      "publishedAt": "2026-10-14T01:01:00Z"
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wSWNkTGpUTDEzdW5FY2pNRFZ5SDU4NjJDT010S3FJOUdNaG85dm9NZXgtUndROTVqNFRhb1R4aFpHUHpXc1g2dGRFMnB1cU5UUlRxZGhtWHY1TnQ2M1Z4SGhyNVlPdw?oc=5",
+      "publishedAt": "2026-10-15T01:14:16Z"
     },
     {
-      "id": "b215a2ebcc643dba",
-      "category": "时政",
-      "title": "中共中央台湾工作办公室",
-      "summary": "中共中央台湾工作办公室 国务院台湾事务办公室",
-      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "国务院台湾事务办公室",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnOE53TFZpT0FpRS0wa1RTaFJ4SnI4SnU2RFdDQzhKc3lMUS1pR3ZNVkJqdHotNWJMWXpCdUNiMlVkenFoalpWY2FsWGdfTGR1UmtaaXc0U2pZUTh0Z3BLOVBDWVpMZVBUN25kTm53?oc=5",
-      "publishedAt": "2026-10-14T00:52:00Z"
-    },
-    {
-      "id": "36ac7b9f5d3d9712",
-      "category": "证券",
-      "title": "证监会核准山西证券北交所做市资格 年内5家券商获批",
-      "summary": "证监会核准山西证券北交所做市资格 年内5家券商获批 观点网",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "观点网",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rclF3aXdqLTREWGROWE5NOVZDUG9NaGtIcGY3bk52bnl0SHU3NlAza21NMmZkcmZuMm9YTWtERTlodkJZYzhGRExtT2tkdw?oc=5",
-      "publishedAt": "2026-10-14T00:50:26Z"
-    },
-    {
-      "id": "23fa1f71f1ac63d9",
+      "id": "336a5e14f689e686",
       "category": "投行",
-      "title": "港股IPO基石认购降温 9月占比回落至31.18%创年内新低",
-      "summary": "港股IPO基石认购降温 9月占比回落至31.18%创年内新低 观点网",
+      "title": "茶百道遭多个指数剔除；前三季度港股IPO募资超3800亿港元丨港股早报",
+      "summary": "茶百道遭多个指数剔除；前三季度港股IPO募资超3800亿港元丨港股早报 东方财富",
       "why": "关注IPO、并购、再融资及投行业务相关事件。",
-      "source": "观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YZEt3MzFRRk5uM2F2T3ZobkdESWo2dXVacWQ3MDBFSllCRUpHTjVoVU1mNGE0SjV3RGJMdDRnR0REVmZSYnhWM0hWaUo3UDBpaGdmQ2xDcnZVNm43ZXM0c2p3?oc=5",
-      "publishedAt": "2026-10-14T00:47:41Z"
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lT1lZRGRRSXhZQzRxT0sydGRDVXFhaWVMSUR4Ry02Vll6V3hmSmxwN2xuWHBwU1laa0ozajZROGpST3JZMFloVDlqYzY4ZzlTSU5RckFLYkxNeE9uQXE0eGQwbFBfdw?oc=5",
+      "publishedAt": "2026-10-15T01:13:30Z"
     },
     {
-      "id": "6068f97b93fb63da",
+      "id": "d1004a264b3df306",
       "category": "时政",
-      "title": "天翼数字生活公司2027届校园招聘正式启动",
-      "summary": "天翼数字生活公司2027届校园招聘正式启动 国务院国有资产监督管理委员会",
+      "title": "山东省党政代表团赴新疆考察调研",
+      "summary": "山东省党政代表团赴新疆考察调研 山东省工业和信息化厅",
+      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
+      "source": "山东省工业和信息化厅",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ScEVWVmxiY0JEbUhXYkp4bXBIX3kzOXRfWlcySXU0LWpMQ3hiUkNHYU9CRjRRMnN4aElkak9lYV9TTUZaRXF2SFVrTVIxdmcycHBPV2JxNVlId0NINk1Ob0lIcG10U3JHU1U5ckZqYzJXZm8?oc=5",
+      "publishedAt": "2026-10-15T00:53:34Z"
+    },
+    {
+      "id": "cb721a4d3f310178",
+      "category": "时政",
+      "title": "中国建研院2027校园招聘启动",
+      "summary": "中国建研院2027校园招聘启动 国务院国有资产监督管理委员会",
       "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
       "source": "国务院国有资产监督管理委员会",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZnhoY3RCdTgwSWpEZERMZnNBN0IzS29UemRPc3RHLU13S2xvVG9TUW8ydDloWnRNTDNyS0tBTEF6ZU03YkdxT3BfVy1hVFpQZ1FLcUxab1pTdVY4bHJOVkxkLU1PUnN0czN3ckVXamxkRTBLMkFvOXFIZHByZw?oc=5",
-      "publishedAt": "2026-10-14T00:46:58Z"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqR0ZyMEJuTzg3X2ZTakRqMURkNjU1LWRVV2xDZE9Rc3hkcDNqVWV1bDhjd0FpWTI3S3A5R0pzRjJKWHd4MUtjTWJIM0o5dDgyM1RsUVRSc3VjcEhMcjV0Z2cyOFlGbTdueE5BVHpMRUYwRldrMFFlc05TYkxjQQ?oc=5",
+      "publishedAt": "2026-10-15T00:50:55Z"
     },
     {
-      "id": "9657572466cc1068",
+      "id": "353d1963e27ee881",
       "category": "时政",
-      "title": "北京市以法治方式强化新时代检察监督推动数智技术全方位赋能检察监督_部门动态_首都之窗",
-      "summary": "北京市以法治方式强化新时代检察监督推动数智技术全方位赋能检察监督_部门动态_首都之窗 北京市人民政府门户网站",
+      "title": "王毅会见俄罗斯外长拉夫罗夫",
+      "summary": "王毅会见俄罗斯外长拉夫罗夫 中华人民共和国外交部",
       "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "北京市人民政府门户网站",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZzJPVHVma0diRG1QaHFtNFI5R0RtVFdpaGhLajZRMjJlVEVOa215clRUTWNFTnQ4c0h4amlGZ25XQkxHQkR3bHFxUDVYQjM5VnVtcFJKQnBXUUlyYTRtbldGcV93SDQtbkN0c3lqRGJNekN1?oc=5",
-      "publishedAt": "2026-10-14T00:32:00Z"
+      "source": "中华人民共和国外交部",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RLUFONXFud2h4MWFaeU1MRkJINlhTWk1RNnB4bUtpbWNGcFZYaHlYT3VpUkI3X2d5VW5oalpZWml0UlB4N2pnNDkyUktJSUhmRU5JOUxHUEo0Tm5NN1VLSTJsX1dOd1pVZGs2dXV3?oc=5",
+      "publishedAt": "2026-10-15T00:45:00Z"
     },
     {
-      "id": "e3202df7323cfd56",
-      "category": "时政",
-      "title": "丁薛祥会见清华大学经济管理学院顾问委员会委员代表",
-      "summary": "丁薛祥会见清华大学经济管理学院顾问委员会委员代表 中华人民共和国教育部政府门户网站",
-      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "中华人民共和国教育部政府门户网站",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wU0p3eDlfMC1WWGJsWUhhaktmR0lGZzdtcmxqN0MzV0VDTVNicVNWNXVjdG9vUVFKVTV3N21rczMyWVpCcGlacmJhNElWdk1aOVNTUk41bUFBZVh5QTF6N1BQaEhNWmg4OTVUMjJRV1pCZFlnMGtIQ0FVOGVhcHc?oc=5",
-      "publishedAt": "2026-10-14T00:29:50Z"
+      "id": "952f84379bbcdde1",
+      "category": "国际",
+      "title": "美联储10月加息悬念拉满：全球紧盯沃什讲话定调",
+      "summary": "美联储10月加息悬念拉满：全球紧盯沃什讲话定调 凤凰网财经",
+      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
+      "source": "凤凰网财经",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CZlhTMmEyS2k1QVdmbjhWbkJ0eF9NTGJiSVBOUXMwSTlVOTdYbUNscTFXTGJTUnBsamZpWVV3VVZYaUNDaGZEdWNkcXFrSUxa?oc=5",
+      "publishedAt": "2026-10-15T00:44:00Z"
     },
     {
-      "id": "2045ab0a3f6a7cdd",
-      "category": "宏观",
-      "title": "金管局10月按兵不动 维持现有货币政策不变",
-      "summary": "金管局10月按兵不动 维持现有货币政策不变 联合早报",
-      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "联合早报",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLVFlmN09nSTFoNUtpczlvVWQ4ZFR0SmtfaVI4NTJKdnpYc3NCSzRMOFRvRlhvYnlRaGFrZ2NaSURzUzVJNTIwbmxmRmVNclNlRTlFaUNHbUloVUVySzh1RkNzaGFfQV9OMmxkb0NPMl9VeHc?oc=5",
-      "publishedAt": "2026-10-14T00:19:52Z"
-    },
-    {
-      "id": "1d60f7746c232c6e",
-      "category": "宏观",
-      "title": "新加坡金管局维持货币政策不变，暂停年内两度收紧_热点追踪",
-      "summary": "新加坡金管局维持货币政策不变，暂停年内两度收紧_热点追踪 证券之星",
-      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FTXBjemlDVDJxd25vbHRnWDVldkJJUm5pWExFaVVydEFiNGdNb3JWeTViWWRJU2o3NVVOUno5QnRSQzVSMlFuNmpSRVhQNHdlSjlTYW5qTDRUNmNMMkpyZlhB?oc=5",
-      "publishedAt": "2026-10-14T00:15:29Z"
-    },
-    {
-      "id": "c445878e5c3f8754",
+      "id": "a19d48cd3a07c95a",
       "category": "A股",
-      "title": "22天狂飙113%！A股，又一只牛股亮相！",
-      "summary": "22天狂飙113%！A股，又一只牛股亮相！ 新浪网",
+      "title": "A 股“股王”频繁易主：王座背后的时代叙事",
+      "summary": "A 股“股王”频繁易主：王座背后的时代叙事 21财经",
       "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLUlsUHQ3Nnc5c3NmWkcyQVFTTGhmS3o3YnhGV2VXei1fYkxlQ1d2WEdadGhRZGw4Y3hTUnRlUmY3UDhKYlZLZGhVTFI2el9wWnBtbHp6R2lBcXpKZ3JiV09RUVNpM3lOdXZXWDNIZ3JaSVI2NmRoMDI2LXh6ZC1fTFNR?oc=5",
-      "publishedAt": "2026-10-13T23:52:00Z"
+      "source": "21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEVDOVZ6SFA1M2ZMeXpUQnJnRVpnQXIxa1F0WU5NeUJ1MF96bFhhYnBDUVh1YzBTLWhMSHE3aFByeHZSZVJBLS1nbVc4elVQbU5DaEh6czMwblJVTjFKaV91aHJlb1ZfbEFob0xXZW5nWXdaMlp4c2pXQnRkWEtYVWZxelFaTkdtakQ1RzNpOA?oc=5",
+      "publishedAt": "2026-10-15T00:42:10Z"
     },
     {
-      "id": "4c7a0b71a5302f68",
+      "id": "3dfeae6f17a01ce9",
+      "category": "投行",
+      "title": "起底港股IPO“围飞”乱象：“金主”包票、人头认购、借投资回流",
+      "summary": "起底港股IPO“围飞”乱象：“金主”包票、人头认购、借投资回流 21财经",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGQwcERKcS1wTDg4Z2VWQlFoelo4OGNyTmZraHduMlQyRERPOHU3Z1Q4cnVXc0x3ZXJBSDdLaDdvVWw1RDFNUGY0Ym1hQk41V1NnUmR5V2I4S2FfWWZGRUV2bXpYel9lQTBsaDhReVpnZkhYUFFCbU9GS2pQNTRDYUFrcVJoVGJWXzVkYVowbw?oc=5",
+      "publishedAt": "2026-10-15T00:38:57Z"
+    },
+    {
+      "id": "97d401126c736baf",
       "category": "财经",
-      "title": "今天我们谈投资，要注重什么？",
-      "summary": "今天我们谈投资，要注重什么？ 21财经",
+      "title": "【五大信披媒体精华摘要】10月15日",
+      "summary": "【五大信披媒体精华摘要】10月15日 21财经",
       "why": "用于把握经济、金融市场与重要政策的日常变化。",
       "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1BudFZ3TDJqaFNxUWR6c3EwU0JXeDZnYkxNNUpDQmY1amVoWURraHNud3RmTHVaOFhyMXhXaVU5aWg2NkIyQjJmWXZMTGxkeHRSdHVMUXUxYXdoYXRHSHV1NmpJbjlTZDM0MmVka09sbGZFVzVNNjVNZW1qVUxqTndZV3kzUzRMWnZXTnl1bw?oc=5",
-      "publishedAt": "2026-10-13T23:28:00Z"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQODVmejlPbnJiOUszUGhDdXJQWUhJX2c4RGVtMkpfUWdySUlrUjVLN3BtaVlDMmtMV1Y4WmRRdVNzNmZUcXpYUGtXOXNOUl9YMkhacnd1Z3gyS0FDbVAzR1BobVd3a1dZMHJaSzFacG5TWk9XWGg3UFNkMFI2TjJRRUYyVThfbm0xWFRpbnlzRQ?oc=5",
+      "publishedAt": "2026-10-15T00:37:10Z"
     },
     {
-      "id": "64844c82da605d74",
+      "id": "821887e409f21d72",
       "category": "国际",
-      "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
-      "summary": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息 财联社",
+      "title": "券商晨会精华| 通胀反弹支持美联储加息时点仍有悬念_短线策略",
+      "summary": "券商晨会精华| 通胀反弹支持美联储加息时点仍有悬念_短线策略 证券之星",
       "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Xck1rVVBQNVpBcWxUbVNWREstX1NDSEpEMkpXTkJ1R0wtdEJjR0tYRW5IUEc1a0hrZnpmSnZwbHdNZ2tIcUpUUQ?oc=5",
-      "publishedAt": "2026-10-13T23:25:52Z"
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vVDc5Sk0xeGk0Nk5vOEJZME1IeVdYd3BfQ19wb0Fzbm5lOGtQQjNkcG04NUF0WjY1Ukk0SVVmdWtHM2Q0VzFHc2NmZ3FOaU5HZGpDXzBlOUFOcnN1b2xzZg?oc=5",
+      "publishedAt": "2026-10-15T00:24:04Z"
     },
     {
-      "id": "ba87ac81a918dfbb",
+      "id": "296d8b1444f859d7",
+      "category": "财经",
+      "title": "南方财经全媒体集团",
+      "summary": "南方财经全媒体集团 南方财经",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "南方财经",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zbGU4U3NhRmpMMTNVSl9NZFp0a1Bsdmg0TmRyQmdnU3FzanN6MTBFZUJaWDlBbVk5QXZSQnYycVNodHRFaG5tRk5md2tBYV9Hd2o4X2lxQjdKNkVvSVQxMDgydmt5ZkxKbXc?oc=5",
+      "publishedAt": "2026-10-15T00:15:28Z"
+    },
+    {
+      "id": "a2fee19dea8cc9aa",
       "category": "证券",
-      "title": "知名券商首席，加盟百亿量化私募！",
-      "summary": "知名券商首席，加盟百亿量化私募！ 新浪网",
+      "title": "10月14日证券ETF天弘基金份额减少1320万份，重仓股中信证券、东方财富、国泰海通_基金提醒_雷达",
+      "summary": "10月14日证券ETF天弘基金份额减少1320万份，重仓股中信证券、东方财富、国泰海通_基金提醒_雷达 证券之星",
       "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "新浪网",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenBWdUc2RDFOa2ZoamVEcjJ5TC1IYkRCZ0k1Y1N1VDVRY2xfeVM1WWxab1JhSWdNekRuVDluRGNFNVR2OXhUOEF6UXI5Nmw0OUV5X0ExajRCdFlrS0VocmxYWHVpazItNUt6V1VELWhua2NkVzM2M3FBTHVpeUE1ZDhZUXFMMkdVMEFVeWxHMDlHZw?oc=5",
-      "publishedAt": "2026-10-13T23:19:00Z"
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40bS1vYnJFZTIwa01jWEgwRVhQdTliaFNzcjhJWVJ2MVpFQV9uQXF5cEhBUW9vOS00N3EzVmY2TllJVG5JdFdwN3RUMjd5cVlzeWYzN2xOUE01TXp0ZjhydVlB?oc=5",
+      "publishedAt": "2026-10-15T00:09:44Z"
     },
     {
-      "id": "5c9adfde2ee7618f",
+      "id": "f08e925769c2b3b6",
+      "category": "时政",
+      "title": "市委常委会召开会议 传达学习习近平总书记重要讲话精神 研究通过“十五五”时期人口发展规划 市委书记尹力主持会议",
+      "summary": "市委常委会召开会议 传达学习习近平总书记重要讲话精神 研究通过“十五五”时期人口发展规划 市委书记尹力主持会议 北京市人民政府门户网站",
+      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
+      "source": "北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ialljd3dYbFRlNlR4al9ZMXZWTkpiZGNZX0g3eEphbklSWFljZ0ZMbWxIdUZlNnZTejFHZ2MyYUo5VFM4THZOR1NMWTkxUWZQUTJ3cUdDZ2RGRVJKSFV5ZXpDY0tvcDNyaWFKVnh4T2p5MFRFU3l3NA?oc=5",
+      "publishedAt": "2026-10-15T00:07:00Z"
+    },
+    {
+      "id": "34dbda9736b97520",
+      "category": "证券",
+      "title": "一年六场座谈会，证监会稳市逻辑浮现三条线索",
+      "summary": "一年六场座谈会，证监会稳市逻辑浮现三条线索 21财经",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzZ4Ty0xU0lUOGM0SDNlUEkzODVhNVJXRTZ3TEFHYUhFbHdIeldqSGJrcmJqTVd0LVdWc1BxNF9ybVFjaVBWdGVMeW9sby1hd3NYQ1ZSNHd4cXA4Q2tlNkFzcjBjZ1daQnlYZnRVQzU2b01pM19YdnpibEdsbDQwOUF4Qk5WSmlOU1BfVXJCbw?oc=5",
+      "publishedAt": "2026-10-15T00:04:00Z"
+    },
+    {
+      "id": "6bc618c9eb4566c4",
+      "category": "证券",
+      "title": "证监会就公募基金运作管理办法征求意见 非FOF投基比例上限拟升至30%",
+      "summary": "证监会就公募基金运作管理办法征求意见 非FOF投基比例上限拟升至30% 观点网",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxeWhYaTJIV1NIZWx2eUU1LU5tVnFDUXpzbHNxNU1fXy1IcnVodHFsVXN5TkVYV2J2bjU1M2F3ZmtrWF9MOVNnckViSHRvRFhfMmxxWlZKYkVMY2ZGM2E3eGFR?oc=5",
+      "publishedAt": "2026-10-15T00:02:11Z"
+    },
+    {
+      "id": "299aebdecc701b40",
+      "category": "证券",
+      "title": "茶百道：全力配合香港证监会处理其任何关注事项",
+      "summary": "茶百道：全力配合香港证监会处理其任何关注事项 驱动之家",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14YVcyQ2VGaHZXZ1VDMzI3bVYxb0J3RXJ1VHlxT1pXZ1M4Y3ZIRlBoM2htQ1J6MHM3YU12U1pDd2Y1bmFrdU5GVm9wRWNUTHNjV2czSEt6Qm0?oc=5",
+      "publishedAt": "2026-10-15T00:02:00Z"
+    },
+    {
+      "id": "35c15d5d10feed95",
+      "category": "时政",
+      "title": "省人大常委会以“双千行动”助力陇原高质量发展—— 在项目一线寻找发展答案",
+      "summary": "省人大常委会以“双千行动”助力陇原高质量发展—— 在项目一线寻找发展答案 甘肃省人民政府",
+      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
+      "source": "甘肃省人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NSGxMeV9OdjZSMlVibEIwcElBa3VKSlRZd0ROUnR5ZWQ0S29XSEVfdVpDc0pXWG5HNFIxZlJVaHVzUzhXcFEtZE1NdV9kRUFKUFpPS1kySjBOb1NTc1ZKWVJmV0hYd3M5?oc=5",
+      "publishedAt": "2026-10-15T00:01:00Z"
+    },
+    {
+      "id": "966779d44d8e1994",
+      "category": "时政",
+      "title": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表_全国人大",
+      "summary": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表_全国人大 北京市人民代表大会常务委员会",
+      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
+      "source": "北京市人民代表大会常务委员会",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SMkI3WGJLRnoxaTlqSFBUVHV3cC01RzdzQVdFRndvblNFSlBPSjdLODhHMGpWclktMWotS083WGhnNHpEVlhPTlVqR0YxNWJiQm9rNVZXVUhRTE1XSDFSMUZYMmlLSDRrYU9DTVFBMlE?oc=5",
+      "publishedAt": "2026-10-14T23:49:23Z"
+    },
+    {
+      "id": "9f33e2f50edf2056",
+      "category": "投行",
+      "title": "前三季度港股IPO募资超3800亿港元 前三家承销商承销规模合计占比达42%",
+      "summary": "前三季度港股IPO募资超3800亿港元 前三家承销商承销规模合计占比达42% 证券之星",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IVmFRbFpjVGdNM3VQMDM1bTlsYmQ0Wk9nRVg3czVvMFNEbVVfR0F6QjBQSjhfOWphdDVIQ1pPWDdtUlZsMTMydmdYcXRhQS03cFdzY19IdUVaOFFnaGJmd2NR?oc=5",
+      "publishedAt": "2026-10-14T23:39:01Z"
+    },
+    {
+      "id": "ed6b20fc3de2c98b",
+      "category": "证券",
+      "title": "证监会开出近1.72亿元罚单",
+      "summary": "证监会开出近1.72亿元罚单 东方财富",
+      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aDdzVlpFbVNHeE1saEo2U3lVNDQyejU4djZtSDJRRVR1Zk5RU2Z5UDFhSGM3ak10RXpMRV9Kc1Jyb2pYVlJkaTNiVzhBVkRhQXluOWp0bXhOT2xvM1NzcXpRT1pnZw?oc=5",
+      "publishedAt": "2026-10-14T23:32:40Z"
+    },
+    {
+      "id": "0a5a6bf42c9e29a0",
+      "category": "财经",
+      "title": "【环球财经】国际油价14日上涨- 中国金融信息网",
+      "summary": "【环球财经】国际油价14日上涨- 中国金融信息网 中国金融信息网",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "中国金融信息网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnYtVTFKN0ZpYUVzVThOb2plamdWcmJwcEJVQ0QySl9QVkw5U1VaMjlqMDM2anVlSnhQdDZfSWZsYVh2WVJ2Mk5rMkR1b083djg1djlVVHRhcjhLM0d3cXgzQ0J3Vmd3SlE?oc=5",
+      "publishedAt": "2026-10-14T23:19:00Z"
+    },
+    {
+      "id": "36086ba77607b201",
+      "category": "投行",
+      "title": "Anthropic全力冲刺“史上最大IPO”：Q3营收暴涨46%，实现盈利！",
+      "summary": "Anthropic全力冲刺“史上最大IPO”：Q3营收暴涨46%，实现盈利！ 财联社",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYWE1XdmlTaHNoQmNucmlXY0hyS1NRSDFwVFhlaXR6UllhZ3dSSUpxZXU1M3doX2xoN0RRLXJWTkcyUW1raWxmMQ?oc=5",
+      "publishedAt": "2026-10-14T22:46:00Z"
+    },
+    {
+      "id": "8b75754386fe79af",
+      "category": "财经",
+      "title": "全球经济增长动力更不均衡",
+      "summary": "全球经济增长动力更不均衡 中国经济网",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aa2U5QldzMEY4VTdtVEtWdDZyY2hpOF9oTEw0b0dHVFRUNGdlWEtMQVZTUjRfVUx0ems3YXVCcXo2RzdjUEhwbGZEZWVKeE5YQ0gzeHV3aklVenZlR0VzTDNra2M2WWRTcUFpU3UyZw?oc=5",
+      "publishedAt": "2026-10-14T22:00:00Z"
+    },
+    {
+      "id": "74a4e6bba0325dcd",
+      "category": "国际",
+      "title": "IMF上调2026年全球经济增长预期至3.1%",
+      "summary": "IMF上调2026年全球经济增长预期至3.1% 观点网",
+      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
+      "source": "观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfSlBWTXFMejlMTHNjQUMxV2dBNDFFR0JLbHpBTHRtenllOUctQkV6dlJ5SFc2QmJucFdEWk5iQnZjOFlBMDYzMGwxUjJUN001U1R6VU0ycHcxM3N5WHp2b1ZB?oc=5",
+      "publishedAt": "2026-10-14T21:18:01Z"
+    },
+    {
+      "id": "347865fd1bd4bc92",
+      "category": "宏观",
+      "title": "中国人民银行10月15日开展7000亿元买断式逆回购",
+      "summary": "中国人民银行10月15日开展7000亿元买断式逆回购 观点网",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tTTZCVmRnX3dyQXF4RDloZHdvYkNiLTFlcnBvZnNSWnVpeW54c21PSXZ0cE5sSzd2M1VNZjN3MnpaZjNMWXJDVEt2NkdYcjVJblVZbzRHMnNSRkdTUkszaTBR?oc=5",
+      "publishedAt": "2026-10-14T21:16:56Z"
+    },
+    {
+      "id": "29b4fd853ac1117d",
+      "category": "国际",
+      "title": "美联储褐皮书：涨价提速、消费承压、AI开始改变用工需求",
+      "summary": "美联储褐皮书：涨价提速、消费承压、AI开始改变用工需求 东方财富",
+      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51dFNaZFc1dGlLNi1WZ3o1RjFpR1RrMWJ5dzFFdmEtdldpMFpteTJDT2VrTG9QdV8yS0tBVlNjZ09GX3NVZFZrMWUxOGRyT3RDdktrVTB1M3hkLTFHdjhudA?oc=5",
+      "publishedAt": "2026-10-14T19:03:03Z"
+    },
+    {
+      "id": "0a2b16ac98142d65",
+      "category": "银行",
+      "title": "银行业“反内卷”，首现公开举报电话",
+      "summary": "银行业“反内卷”，首现公开举报电话 新浪新闻",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0JINlBVR2J5bXpORmNlcm5WNjFhczBSdHNTQVZkVHFiUWJyQTR6RVY2VW9aQzY3WlhNT3ZJeUtFSzFyMGgyMGcwcXBaT25EWUh2QTBpcXlXTVRCdER3MmFvUzdxeXlnZ0lFQlAzWjNBYTg1aUQza0toenhzcU5aaThhMWJKNXpDTTZZTTEwNzdaRWlY?oc=5",
+      "publishedAt": "2026-10-14T18:34:51Z"
+    },
+    {
+      "id": "eee18e98896f258d",
+      "category": "银行",
+      "title": "肖远企：银行监管的两大逻辑和五种思维",
+      "summary": "肖远企：银行监管的两大逻辑和五种思维 新浪网",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUU5eUdUTmQwb3BmS2lTUWFnSllVa1I4d09WRENyYl9PVXFLQlZJM0IxN2g0MkNKckZURlBtMmgzVU9YQ1NZeEgxNC04dndtaGxvRDc0R1J5SUN0VFJkelhwTEJ5TkFwSy10M19SQ1FVd0pWdFFGNzgxY2w0OXgzUVVsVQ?oc=5",
+      "publishedAt": "2026-10-14T18:15:00Z"
+    },
+    {
+      "id": "afe0ac423021aca0",
+      "category": "宏观",
+      "title": "中国人民银行加量续做6个月期买断式逆回购 资金净投放呵护市场流动性",
+      "summary": "中国人民银行加量续做6个月期买断式逆回购 资金净投放呵护市场流动性 zqrb.cn",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "zqrb.cn",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PT1FLcVliSzdWSU1BckI0N0x2a2d3V2JOa0N3eUVMYWZhVE5WUzl2TTdQa3Z4ZFBVb0VBOS1CZy1UYWJQNkEtRk9fX0E2MlVvM2xrUUU5UmpxRTFIYU5VQ2JaeWFrZW1lOElpMDN1NmZuZE1tUGtKN0x3?oc=5",
+      "publishedAt": "2026-10-14T17:26:00Z"
+    },
+    {
+      "id": "60e3e79f8b2e0a33",
+      "category": "考公",
+      "title": "2027年度国考共计划招录3.57万人|国家公务员局|中央机关|考试|公务员|考生",
+      "summary": "2027年度国考共计划招录3.57万人|国家公务员局|中央机关|考试|公务员|考生 新浪财经",
+      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
+      "source": "新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54ODR0aUpyWklRY2dLelltbGQ2SlhTZjB4WnlnUFNxVWt1TzBET20yblpyQWNkTDI1T3k5WnJ0Q0k5eFBCSHJxN0hrb2VRNGV2VmQ2WWowNGJtQkxfaU1YTHRrcnd4VzVlMFlEZzFvcW5WOUhzODRSMg?oc=5",
+      "publishedAt": "2026-10-14T17:15:00Z"
+    },
+    {
+      "id": "57072a490a70c388",
+      "category": "宏观",
+      "title": "人民银行征信中心声明！动产融资统一登记公示系统仅在“中登网”，避免混淆",
+      "summary": "人民银行征信中心声明！动产融资统一登记公示系统仅在“中登网”，避免混淆 新浪网",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNDRnQTZ0R1dnZzVNNnNpQURNVHRZM2MwVFJlcEJxVjM0N1Q1Y1BVOEVGQ05MWVh2N054QnBpOTJTU1hVTnloN044UTdiUm5yMjdsd29qWXRzQkZfY0k2cjVnU3RZV1hkdTc0ZWVpYjJtQ3Bvb1ExODdPZHZFSHNKcGtwQQ?oc=5",
+      "publishedAt": "2026-10-14T16:57:00Z"
+    },
+    {
+      "id": "b8078d00b7b62917",
       "category": "A股",
-      "title": "A股“股王”再易主！光模块“卖铲人”梳理",
-      "summary": "A股“股王”再易主！光模块“卖铲人”梳理 东方财富",
+      "title": "A股午评：创业板指下跌1.15%，短剧游戏概念涨幅居前",
+      "summary": "A股午评：创业板指下跌1.15%，短剧游戏概念涨幅居前 东方财富",
       "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
       "source": "东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTNXV5MG1GMG14ekR4ZVZkaFR0WGxsZnh2M0xRVkZWOWZ3cTVlejNObHh0eks1akFZbG90SkVmYzFFVTlrQXhPTDl4UzFSTmR2bzc4RU9fR29sa0FtVVFYZg?oc=5",
-      "publishedAt": "2026-10-13T23:18:59Z"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XMS0yYVBUalNHVVI3MUx6dFpLM3B5OUpEY2ZPc2s0WVZDZkctd3RZU0ZhZ3hEQ1o5Yi1lUE50RGpxWE9EeDQ1TXhPUzQ5NHc3LXBEVF9pTHlBYUFCSWdJSzFSbVVFZw?oc=5",
+      "publishedAt": "2026-10-14T16:47:36Z"
     },
     {
-      "id": "ada4d18c52f3d8a4",
+      "id": "7c0ed322d47922c1",
       "category": "保险",
-      "title": "员工借助AI辅助办公遭辞退 法院：系合理使用不构成违规",
-      "summary": "员工借助AI辅助办公遭辞退 法院：系合理使用不构成违规 华商网",
+      "title": "私家车半月接了90余单“顺风车” 事故后保险公司拒赔 法院判了",
+      "summary": "私家车半月接了90余单“顺风车” 事故后保险公司拒赔 法院判了 驱动之家",
       "why": "跟踪保险监管、产品、机构与行业经营变化。",
-      "source": "华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90U1FaWlFqQklFNUJXczU1dEZHMWlkYWNPREU1aEczRkFBTFFSVTVOY3REMWgzN2Q4MkhIbzZETmpSc0g3UzJjS3lmOVdlSzNFWkdsVTJfYWRTdHBVMW5r?oc=5",
-      "publishedAt": "2026-10-13T23:17:51Z"
+      "source": "驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpeGZ2a043MmI5UVV1UEZDT2NpblBBUndXRWs4enFUY3BUXzFmdlhsNVhvNkhsRGdVUU0wSjlGb2pCWHJSTV9COGUyRVVKZUlPVTViUTd3d0c?oc=5",
+      "publishedAt": "2026-10-14T16:09:00Z"
     },
     {
-      "id": "420684b6cf5a4850",
-      "category": "考公",
-      "title": "国考10月14日起报名！首提严打“公考围岗”、招录向基层倾斜",
-      "summary": "国考10月14日起报名！首提严打“公考围岗”、招录向基层倾斜 京报网",
-      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
-      "source": "京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lRUp4R0l3LXRxbVdxcFBLLWNuT2Q2ejhnVXpfVFNySEFudjN3UmVIVlBVUHMzekNlOWl1bEN0U1Jfb3J2RF8zcnZVUGdOTGh0ZHRacmMzQTBWMjZjcW5jcGl2WlVxZm5yZ2l2S2llUC1Zdw?oc=5",
-      "publishedAt": "2026-10-13T23:02:00Z"
-    },
-    {
-      "id": "b487efffbfc414fe",
-      "category": "银行",
-      "title": "这五类行为可举报 银行业整治无序竞争再升级",
-      "summary": "这五类行为可举报 银行业整治无序竞争再升级 21财经",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTFuQ3RBM1RhTFNTVGcxZUt2SEViSlZJZmpmdHl3SzlaT0hVM2NKZ184bWt2NUl2R1psNVZfNTZOQTNXZm9ydzBseDJLaGtxUnlMWUpxU1hQSENGMTNtVDBYUlY4T3lEd0NTNUJPZVRhTzEyN21rSEhJRmkyNGpBY0RxMXBMdw?oc=5",
-      "publishedAt": "2026-10-13T23:00:00Z"
-    },
-    {
-      "id": "b893fddb6fc0ee2a",
+      "id": "01f66f3cd78a3237",
       "category": "国际",
-      "title": "IMF预测2026年全球经济",
-      "summary": "IMF预测2026年全球经济 21财经",
+      "title": "一张表看懂！华尔街“彻底信了”：美联储本周加息",
+      "summary": "一张表看懂！华尔街“彻底信了”：美联储本周加息 财联社",
       "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTI4NXo5clRWcGdmRFo5RklfUGg1Zy1JaHpmY3NwZWZkYWJNak5PeDVySHVBRVR2bmphM2JfajRNZ0Fkc0pwYmdYMGRNRTBJTEFqNHZkZXVtNE1JNjZreTQyLTRZR0YtSi1qSEM3c0toTmcwUm1oZmprbzlxWW80SGR6clhQUQ?oc=5",
-      "publishedAt": "2026-10-13T23:00:00Z"
+      "source": "财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwcWs3b3ppTWlqZWdHRDRMbkJUeEtkeTN1bXFuLVhLMjY1MUxwdE9RWkJiWGE3bk5QWHVRZkE0UVNoUFlUZERhRw?oc=5",
+      "publishedAt": "2026-10-14T14:49:16Z"
     },
     {
-      "id": "ff1db6f5c6c6694f",
-      "category": "证券",
-      "title": "券商龙虎榜营业部大洗牌 头部席位资金聚焦三大方向",
-      "summary": "券商龙虎榜营业部大洗牌 头部席位资金聚焦三大方向 证券时报网",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iME9Ha3MwQXhmcU02ZEZ1M3JGUWEtWWdMZlVPaGh6aVA2SlpoN3VMSUZjQl9lblZjVkw2OHpBbHAtaG1pbVdiRm01eEdkYmRhdHd1Q3dIV0VsRlQx?oc=5",
-      "publishedAt": "2026-10-13T22:42:00Z"
-    },
-    {
-      "id": "a2fced0d883bc92b",
-      "category": "国际",
-      "title": "美联储三把手威廉姆斯：今年或再加息一次，目前认为2027年没有必要加息",
-      "summary": "美联储三把手威廉姆斯：今年或再加息一次，目前认为2027年没有必要加息 华尔街见闻",
-      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zQzhCOWZoWHBNZU5BTTR5SlZIZWYxVjU4UXhpaXBCRDV5dHJObnN0dHVKZ28yTk1wMFUyNzQxc2ZIQnNUc1BLZkxnMjFPc2F1SkNR?oc=5",
-      "publishedAt": "2026-10-13T22:40:41Z"
-    },
-    {
-      "id": "eb1150f818274ba5",
+      "id": "1feb143aaf7fba90",
       "category": "考公",
-      "title": "2027国考今起报名 首提严打“公考围岗”、招录向基层倾斜",
-      "summary": "2027国考今起报名 首提严打“公考围岗”、招录向基层倾斜 央视网",
+      "title": "2027年国考今起报名！广东地区计划招录2969人，岗位表来了",
+      "summary": "2027年国考今起报名！广东地区计划招录2969人，岗位表来了 21财经",
       "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
-      "source": "央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XTi16d3YzU2lkUXJzclJwVE53YkgxTVI0VG1IX0o3OFlwdnNxLU4zS09NcnhMM1Y5UWZFemJxZGhJaVRWVmZscTAzNmE1MU1NaWtIYnVpYXludllCY201eEVwR2NEVmszbHp2MXFxYnY0VXRTeWN0Qg?oc=5",
-      "publishedAt": "2026-10-13T22:30:40Z"
+      "source": "21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXAtcDVYMUhNeDFMeUI4X0wwX1FrSEtLUXo3R0pFcFRPcEV6UmRmNmtfZDRwamNMcXJJTFBFV1ZiX0U2UmxYVmdGU2ZZNDlCcFVIMjdYb2Zxa3NQYXowVjV4Nnk0dk5mVFd4dDdBYWhYWlBHUmlPa3RBbVlvZDlPMjZQV3pCZEk4QmU0a19mQQ?oc=5",
+      "publishedAt": "2026-10-14T14:04:44Z"
     },
     {
-      "id": "879ba55ae01665ce",
+      "id": "0b4d4a3414fe643e",
+      "category": "A股",
+      "title": "外银：看好中国A股人工智能板块",
+      "summary": "外银：看好中国A股人工智能板块 中国新闻网",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ITmVvVDB5TjBVb3NYYWlQb0duTTdYRFprSlhRWnR3dExrRnU3V0RXRUV3UF9GSjM4UXJxWkVjNjhFak5NeUZhcEdtcjcwWnMweW05Mnl5UTkyamNKTGdCaE9aTjVDYVo2?oc=5",
+      "publishedAt": "2026-10-14T13:37:39Z"
+    },
+    {
+      "id": "0b9ac7eada306ec8",
       "category": "保险",
-      "title": "【微聚焦】金融监管总局发布《财产保险公司保险产品开发管理规定》",
-      "summary": "【微聚焦】金融监管总局发布《财产保险公司保险产品开发管理规定》 新浪网",
+      "title": "2026年前三季度保险公司罚款超2.7亿：1家许可证被吊销，28张百万罚单",
+      "summary": "2026年前三季度保险公司罚款超2.7亿：1家许可证被吊销，28张百万罚单 新浪网",
       "why": "跟踪保险监管、产品、机构与行业经营变化。",
       "source": "新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tc0NqSWMyeFd1cVFfZjE3emFJaXFRVzF1aUZLSU1Ealh1T2p6bW4teExWQkp4S1RlLXBMMWpZYWRpdUlzWGQ2Y1NaOEx5ZXBvUWE3WEExY1A2cy1fbGhHOEFyaUVwLXVoMG4wU2JnV3lpUQ?oc=5",
-      "publishedAt": "2026-10-13T21:31:00Z"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzRMU1pRU2M5WnZTbDVMVDB4QzZicTFfSU56WTFkZ0ZfV2RQTjNHNmkzcXZQejc0TFkxbGc1bTdBZHNBeUlGTEFnTHpfb2QwNkJUVk40YWtxY2lMVl8wSmZMMWpBVkg3QmNtcXBzd2JBN2ttNlhmbjUwQlIxRTFzX2hfSQ?oc=5",
+      "publishedAt": "2026-10-14T13:36:00Z"
     },
     {
-      "id": "147ef20cb82634d4",
+      "id": "b0a0c3fad05c51cc",
+      "category": "投行",
+      "title": "从拨康视云到茶百道：港股 IPO“包盘”盛宴与崩塌",
+      "summary": "从拨康视云到茶百道：港股 IPO“包盘”盛宴与崩塌 华尔街见闻",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5S29zamxwNVZIcmxSblNSTDZzWDd2QVkwdU5EdFlQcmNKRGNrM1RFTmtaejNQSXg1ckM3bktkOUVVZG56OWUwZzdnMzh2RjVBVHFB?oc=5",
+      "publishedAt": "2026-10-14T13:21:15Z"
+    },
+    {
+      "id": "d00d6a5fd0b6d8b5",
+      "category": "财经",
+      "title": "财经慧说丨“不烧心”火了，今天我们聊聊AI短剧",
+      "summary": "财经慧说丨“不烧心”火了，今天我们聊聊AI短剧 新华网",
+      "why": "用于把握经济、金融市场与重要政策的日常变化。",
+      "source": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVlpWnBHaWlMeV9RaXJ0RjZkRnptZGw4VEMyRVpVV2ZRNmlhYXlRblY3a24ySFBuSjE1OVF6TzlMNmw3cFMzbF94MkN5V1pWcTdGUDNvSFk2WWU2QXFFZUNSdm5qY1UxR0lCRGR6eEhndm4zbzl1WWE4TUs5c2VWT1h3?oc=5",
+      "publishedAt": "2026-10-14T13:12:32Z"
+    },
+    {
+      "id": "67dd674a5ac306c2",
       "category": "国际",
-      "title": "基金组织上调2026年全球经济增速预期",
-      "summary": "基金组织上调2026年全球经济增速预期 UN News",
+      "title": "深夜，全线跳水！美联储，加息预期升温",
+      "summary": "深夜，全线跳水！美联储，加息预期升温 证券时报网",
       "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mNWJ0SVphazdPTXZfN1FOOVB1bHoxdjl2NjZWNElBSGZ6SzhaaTB6ZUtqRklMMi1pbmxodDFDQklNdmhYY09udF9YQURDQWpCWmdGV1Q3aw?oc=5",
-      "publishedAt": "2026-10-13T21:29:07Z"
+      "source": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ieUVEVmh2TEpHRE9kQnBCdlNPOFhuY21SSmFkS2RlckJrYXZkMkVFUFFSQ0RvWFFYcUptWWU1VWpXby1Hcmx6WDRPT3ZVMEZ6UXhlSXhzR2VhM1ct?oc=5",
+      "publishedAt": "2026-10-14T13:06:00Z"
+    },
+    {
+      "id": "8cc42839cbac736c",
+      "category": "A股",
+      "title": "A股缩量走低 谁在减仓？",
+      "summary": "A股缩量走低 谁在减仓？ 财新",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxWDV5SlZCRGROenhzbmMyN3hXN2NCRlloVGx3QUJLbHlLTFN0U3hTWUlLN0R4M2s4Q1hCLS1nczdkSmhtaGlLUlpMZUFNUmdpSTVtQ2x3VElLLWhvR1ZWVzNn?oc=5",
+      "publishedAt": "2026-10-14T12:54:00Z"
+    },
+    {
+      "id": "ceffb6527144723c",
+      "category": "A股",
+      "title": "A股收评：双创指数均跌超3%，全市场成交额缩量超2600亿元",
+      "summary": "A股收评：双创指数均跌超3%，全市场成交额缩量超2600亿元 同花顺",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "同花顺",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jbXhXZjJjX2FJVW50bHhuVFdjUF9oejF5T3g1bkZILTBVcW5tYTFUd3I2LWFvdXU3TWlsQzA2SlQ0R3Zhb053aXRvTkQ5VmxrQUZRWFBOczhVZEVITUE?oc=5",
+      "publishedAt": "2026-10-14T12:48:39Z"
+    },
+    {
+      "id": "3acf45e63588dbc0",
+      "category": "宏观",
+      "title": "2027年度，中国人民银行总行拟招公务员27名",
+      "summary": "2027年度，中国人民银行总行拟招公务员27名 京报网",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHSDNWdFhBT0pVTFpfaXZUc085aVY4SlctanVJMXhVbklVY1pzS3M3NFQ2Qmo4TjZDWjZ6TFBmdGFLWlRfeFBPeDRxb1pvLTlmRmkzc1VhSjBiOW1VMVE?oc=5",
+      "publishedAt": "2026-10-14T11:47:56Z"
+    },
+    {
+      "id": "b8306fbd5b1b480e",
+      "category": "保险",
+      "title": "CoreWeave盯上保险业万亿美元资金池，但近15%的公司债收益率暴露融资隐忧",
+      "summary": "CoreWeave盯上保险业万亿美元资金池，但近15%的公司债收益率暴露融资隐忧 华尔街见闻",
+      "why": "跟踪保险监管、产品、机构与行业经营变化。",
+      "source": "华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iejRFR0N2Z1dGcHFpRldiUndFLVBoYmpfbkpMT1ZINkt0Yk16RmFjblBvcG00ZnozOTRDSTBHeFo4UXRJQ2V4N2lHckRtYTlCQ0ln?oc=5",
+      "publishedAt": "2026-10-14T11:08:12Z"
+    },
+    {
+      "id": "6312ad0b41a07de2",
+      "category": "考公",
+      "title": "20年来首次！国考连续两年“缩招”",
+      "summary": "20年来首次！国考连续两年“缩招” 东方财富",
+      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taThTdWkzOXBjbWlMaGZPYUt5X0ZzN2thYmNOSm9Tb1NwWjNqQ2NvSl9nYnpiRlZrWTE2U3JFUERQQ1AycVBaRDBlWER4N0wweTdkNmxhWlR1LXJDWGVYUw?oc=5",
+      "publishedAt": "2026-10-14T10:56:58Z"
+    },
+    {
+      "id": "3698adbd29c79322",
+      "category": "宏观",
+      "title": "曾掌握美国衰退判断权 新晋诺奖得主霍尔如何从微观解释宏观经济",
+      "summary": "曾掌握美国衰退判断权 新晋诺奖得主霍尔如何从微观解释宏观经济 财新",
+      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
+      "source": "财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xU2FRRmFoRUNuaV9VdmtsbzhXY3JWcE9UcmRaQ1VnMFV6dEk3djIxampaZEFiUW1ZZzFHd2xnWUZpU0M0WDZidTlhRFVsN25TeE0yWEc5NHI5YWk0V0t2V1BB?oc=5",
+      "publishedAt": "2026-10-14T10:22:00Z"
+    },
+    {
+      "id": "16e67f12b12ffa41",
+      "category": "考公",
+      "title": "热图“鉴”丨严打“公考围岗”！2027国考有这些新变化",
+      "summary": "热图“鉴”丨严打“公考围岗”！2027国考有这些新变化 新蓝网",
+      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
+      "source": "新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mbmFtODJjdmUyTGFTRDhzcHNFRDVZUlBJVUk1UzlhZTZ3cVpXWlNKRXQydFlwb3hYYW1jbk1EQ3oybDVOZ0RmN0RZRUhMWFU?oc=5",
+      "publishedAt": "2026-10-14T09:41:00Z"
+    },
+    {
+      "id": "b577d3f7a718c12a",
+      "category": "投行",
+      "title": "两中资疑IPO造市受查 港证监会冻结逾46亿资产 史上最高额",
+      "summary": "两中资疑IPO造市受查 港证监会冻结逾46亿资产 史上最高额 RFI",
+      "why": "关注IPO、并购、再融资及投行业务相关事件。",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPODdocS1pX1laZnUyX3lmazlXV0lEYm9Famhpclc0MTRwSGRpZFdsZVlROWhSTnVyNnh3SS1iVlVVVEpJRUJZajFEMDU5UDhWd0VfcGV6NmJQQVBNcTU1eFZiRjl0dmJORGl4MTlGaGN3bGc4T1I2TTBhYW9VeERmN0kzX2Q1YzBfWUlrakpoTTF1aXUwX3hhdmxIT1U3TmloMVctWTQ1YnBfYkJxb28yU1Q3OURIR3FCMkRfNVdTLTFJSXVIQ3Jtcll1Wlh5clJyZjFwbTFLT3dTMFZCRVA4LUJhdUhDWjdLcFVYNUdiUVNpT053VUpGQ01vbnU4bE0tb2dDQW1XVVJvSG41Q0wtMS1GWmVLQjlkRE5KVHlMMUlPOUlxZEpKZDdXaUhnTi0wU0NCSDJIOGpCdVFPYzA5c2RVUjZ0SEVBREI1V2NiLVg2SHlXNmZSMHhXaVBfNDk5TFlrQngtUld2MFZlMGJ5NUhXM0g1My0xRVhuenNIR3FZaVdmaDNwRw?oc=5",
+      "publishedAt": "2026-10-14T07:50:44Z"
+    },
+    {
+      "id": "4ab58c549a9f7971",
+      "category": "银行",
+      "title": "肖远企最新发声：银行监管要避免“只见树木、不见森林”",
+      "summary": "肖远企最新发声：银行监管要避免“只见树木、不见森林” 21财经",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR25YZjNFSjZVYk02WXFrYjVFUnQ0STN5ODRKSll2OVdNV0xXcFZGdWFMdm5YRTB0aHlyLXpBdlBTTm8zQWVNSVZXeFdhaG1TbldLd29CU3NrRnhWX1dmVGhac2ViZzBlOElydDNRd3VYdG1vUS1JYnI5V09ZeWZwLXhfbUc2Y3RaYWxhaFFSbw?oc=5",
+      "publishedAt": "2026-10-14T07:42:50Z"
+    },
+    {
+      "id": "ee430b26b5c404d9",
+      "category": "银行",
+      "title": "上海银行业跨境金融提质增效助力国际金融中心能级提升-中新社上海",
+      "summary": "上海银行业跨境金融提质增效助力国际金融中心能级提升-中新社上海 上海新闻",
+      "why": "跟踪银行业监管、经营与重要机构动态。",
+      "source": "上海新闻",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wQkNYUEUtUTZaWjdmOWx1b1JsdF9uLVE0ZUp2RktxZUdlN3djZWJVNEg2WHdLaWFXNXE5ZXI5cjNyNE1KTTE2aExEa1ZXVkdXRzFPbkxXd1gxTUNXOHFUMjh3cTRZMlh2VmM4b1o5b1c?oc=5",
+      "publishedAt": "2026-10-14T07:36:00Z"
+    },
+    {
+      "id": "458a073d67dbd422",
+      "category": "A股",
+      "title": "A股“股王”，再度易位",
+      "summary": "A股“股王”，再度易位 证券时报网",
+      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
+      "source": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BenowQVViUG9LM05FUTNMbjBlLXk5SnZrZ1diOUdSek5NbllmRDJKekVGel93MGp4eHI0VUJNMDVyY3h3Wm9YZjhnU1VJcEFjVUJmYjNrOF9nMUZC?oc=5",
+      "publishedAt": "2026-10-14T06:31:00Z"
     },
     {
       "id": "df3d040c421e9b54",
@@ -305,244 +555,14 @@
       "publishedAt": "2026-10-13T21:04:12Z"
     },
     {
-      "id": "7471cae6c2430cb2",
-      "category": "投行",
-      "title": "日企并购1-9月创新高，外资收购额大增",
-      "summary": "日企并购1-9月创新高，外资收购额大增 日经中文网",
-      "why": "关注IPO、并购、再融资及投行业务相关事件。",
-      "source": "日经中文网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUViQm1NSUNLcXFqbU9rbGc5YlMwbm93UEVBNTY3ektrRG9zN3VCMTJmaWFfSnY4bDlrZHhYOTFNaVpJVHg2WUxXNzgwY09BTUwweHpxSHFsOTExRlpjcW5vRWc3cDRkYWUtQkw3M1pZaGpUVWFhQjBheV82OGs0U2M0WTJZeEQ5?oc=5",
-      "publishedAt": "2026-10-13T21:02:18Z"
-    },
-    {
-      "id": "b6ac3ed4a3ef25e6",
-      "category": "考公",
-      "title": "关注 | 国考报名、笔试时间，定了！",
-      "summary": "关注 | 国考报名、笔试时间，定了！ 新浪网",
-      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
-      "source": "新浪网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EZGl3RTdYYURkdGs1SVdQTTZ5SDVaNjNoaF9TeFRGZ0Nfc0lpVDVzVVIzSFo0Q2hCRVNvbVpfSkxkU0h3TWE3TXNjZERxR2Z1NklCbXNEMWZrbXdRNHhBdWkwSGlKMUVneFBOQmliTFE0NkFYZ3J2SVF6a2FOZw?oc=5",
-      "publishedAt": "2026-10-13T18:07:12Z"
-    },
-    {
-      "id": "3852786d46578514",
-      "category": "财经",
-      "title": "债务高企与增长承压：中国经济路在何方？",
-      "summary": "债务高企与增长承压：中国经济路在何方？ 美国之音",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "美国之音",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVZOcTY4V2JFcWJsMzRIV1BrbVlxclpqU2xaZ1FyYXlDcEtZQUhnc3BkcmtUMjk1aVpXUld5NnMxVmQwNFlCVWV2alNxTGc5NDVZV3puOGEwMndVR2dTWURDNVd2cFVyblI4a1dfeDBqR3FWVkVVOW9mdjZhcDNrcTJYRE1OOGZOUmxLaHNWYmtSZk5FOTQ1TzY5OGlZVWE1WGpRZ1RtN1VrbkdqQ2cyeEtpZGFDUTV2eUFz0gG-AUFVX3lxTFA3dUYtc0djTUFGWkFmc3IyOE5TX1g3SGRiLUpHcnRwcjNrZlkzU3VjQ3BVSEotck1SYVFYd0JNaFJHaXY2U09nZlJYNDJ2M1FxTFk4QTEyOVY4bDItOHhKZWxQazBGNWRMZXN4TG5YZTMwYVU4UjN1TjQzSkpGSXFqeWYwRE04WHVzWHlxNTlQb0dwUi1nb2Vndy1Fd2pUSkhCb3JjdzdNdHBMVEpBNTVvTm5oejRZdDU3ek9ubXc?oc=5",
-      "publishedAt": "2026-10-13T18:01:16Z"
-    },
-    {
-      "id": "25028966a32193e8",
-      "category": "银行",
-      "title": "广东华润银行深圳分行被罚110万元|商业银行|金融监管|深圳市|银行业|罚款",
-      "summary": "广东华润银行深圳分行被罚110万元|商业银行|金融监管|深圳市|银行业|罚款 手机新浪网",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMjZqRWdvTXgyNGtGd3p3UXJNeDhUQWNURUoycW9tZ3VnMG9HYVJqVGxReEVxSUV6bVQ1cHBEdnZsWXJzNUtpRkNlcEl3bGNhY1NiRjdTYXlOeUdDVjhrR0NmZmlObERKLUdlb2x5WUVERHVubzhXa0g5ZDh4OHA1VkdieEk2b0dVYzhWUmFkYnV4Tk9neVU3aGFsR2gyeXJvcDh1WE1ZWHdCUVhSVTNjZkJpdXd2YV9MZnFFTGg3VURvN1ZldDJ6NE1feUNXc2xXQlVTRTVQcy1qazR0dk5kckZTMG1uMmVxbUQ5eEplV0xXSjhqQjBFUzgtcWVidHJDWmVlTDVRYW4?oc=5",
-      "publishedAt": "2026-10-13T17:36:48Z"
-    },
-    {
-      "id": "d5facedb1518789c",
-      "category": "财经",
-      "title": "2026年10月14日第4版：财经新闻",
-      "summary": "2026年10月14日第4版：财经新闻 上海证券报电子版",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12ZUFORHhOSm9seHV6TWlxWWZLVDBYampQZjdSQV9FaS1WcUNVSkxfU2tUS0wxdzZUaGtjUDYydkF5S2FNN2JJS3RmT3hKb0lycHJzcTBJWW41bVJxMnIwZUZn?oc=5",
-      "publishedAt": "2026-10-13T16:44:58Z"
-    },
-    {
-      "id": "db8c901bf66140fd",
-      "category": "宏观",
-      "title": "中国人民银行灵活运用多种工具保持流动性充裕 10月资金面或延续平稳偏宽状态",
-      "summary": "中国人民银行灵活运用多种工具保持流动性充裕 10月资金面或延续平稳偏宽状态 zqrb.cn",
-      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "zqrb.cn",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpU0QxLUNleVVKMGl5dS1fdHYybk9sTzB1emJ2M2czV09sLVFqbkRMNFA1ckxDaGNLeV9qWEFkaGxXeGl2clRfSFcxMjMxMENnSlk4RzVrdVV1bWJTZldqUFFHUGI0T0k0bm84LUozY1phNTNOSHRkM1VR?oc=5",
-      "publishedAt": "2026-10-13T16:41:00Z"
-    },
-    {
-      "id": "1cdab66cc976934b",
-      "category": "考公",
-      "title": "国考报名今开始：拟招3.57万人，打击“公考围岗”",
-      "summary": "国考报名今开始：拟招3.57万人，打击“公考围岗” 中国新闻网",
-      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
-      "source": "中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UeEJuMTNEc3RzOFc0ZkJXMVlpcVdHSTdKOTM4SGd2Tk9BcC12UFltYXBjUUw4TkNSeVd1b092NWg0eFBwSGtYcnBOYkhsTkI4azBUMHAzZ21GemRoRVJLUW5nQllETE1T?oc=5",
-      "publishedAt": "2026-10-13T16:00:20Z"
-    },
-    {
-      "id": "1888ad1de354f2cf",
-      "category": "财经",
-      "title": "国际货币基金组织：下调中国经济增长，上调全球经济增长",
-      "summary": "国际货币基金组织：下调中国经济增长，上调全球经济增长 RFI",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPNzZLcDBYRFQ0c1E3SFdNd1BxekNEZmlvci1SZnFVTTdhQlh4OENabUFwRUpkSnpVeEtUQkM3MG84M2JjNHdBR1piYndpSE1tSl9fOU5qemM5bGxNYmJ3YldHd3hHZU5vLVB0TEFyaE9oUFpiS0wtb0xiT1VJckJBSVpyRHRDTHQzR25Rd2NjT2p4M0t3T2I2a1RUOGlZTURFMEtYMzV3NkxfZ1NqVlZybXFGU3ZNVFFsR3J4YTFNMTZ6V3c2NnUzRS1zb0d5UzZLdXpkcGVpeldSbXQ3aE1ud0xtWDVsdE81VzVCNUpwUFZ1d3BNM0Y5N0xVcjFyNDg2MnJzT1ZGVVBnMXY5S0tycFByYlExZXh0WnFBMU5Rbkk0emVkVzNaSC1EQVIyV3FnSHVIMTZKbjI5UVBJSUtzUnFwNDc0S09GSDZGTnQwdEZSZWl5R29FanI2OXZPZkVud0x4LXRRS2JJc0pfUi1nWTB3cUhtLTd5VUFhb2VYWEZYSGpQUmVENFNwRGs?oc=5",
-      "publishedAt": "2026-10-13T15:37:13Z"
-    },
-    {
-      "id": "fce768d2c372cd64",
-      "category": "保险",
-      "title": "从“风险赔付”到“健康管理” 保险业探索长寿时代新增长",
-      "summary": "从“风险赔付”到“健康管理” 保险业探索长寿时代新增长 第一财经",
-      "why": "跟踪保险监管、产品、机构与行业经营变化。",
-      "source": "第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yNVlVMHJwUmdTSDkzLXBwN3A4VUVBcURMODFJeWlJbUxTX1Q2T3g4QUhvREp0dDJucjBrRzcxakM4Y3UtUFgzbE05eWctZ0FtNnVNag?oc=5",
-      "publishedAt": "2026-10-13T14:29:01Z"
-    },
-    {
-      "id": "7659bc0b2e4f9c9b",
-      "category": "时政",
-      "title": "赵乐际分别会见博茨瓦纳总统博科、多哥部长会议主席福雷",
-      "summary": "赵乐际分别会见博茨瓦纳总统博科、多哥部长会议主席福雷 中华人民共和国外交部",
-      "why": "积累国内重要政策与公共事务事实，保留来源与时间。",
-      "source": "中华人民共和国外交部",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XSUsxZkJFYWMzNU9uR1dtcDZqN2UyWlczbm8zNVlFaGpqdGF4ZDdsQURyVVpJVUhycE4zZ2JxTzYxMS13QjZJZWx4VWd4LUdmTDluTGZOMjF4OUtsS1k5TV9KdUt4WjRubXBr?oc=5",
-      "publishedAt": "2026-10-13T14:10:00Z"
-    },
-    {
-      "id": "f8d22f3fed14a2f9",
-      "category": "银行",
-      "title": "上海银行业跨境金融提质增效 助力国际金融中心能级提升",
-      "summary": "上海银行业跨境金融提质增效 助力国际金融中心能级提升 中国新闻网",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GQjllaHV3bjA2ZnV0cHRsQ3Fna1Z1UTlSOFA2a2UtS05VaGVuakR0bDBMRHVmeFJySTRxWXVReUxFMXo2cEZoVENqbVVSTkpzNzJsZ1lJbDdjaHVFQkktSlhDREs4Szlq?oc=5",
-      "publishedAt": "2026-10-13T13:56:11Z"
-    },
-    {
-      "id": "028a2c47ca001a1c",
-      "category": "宏观",
-      "title": "中国人民银行： 将在2026金融街论坛年会上举办金融科技大会等活动",
-      "summary": "中国人民银行： 将在2026金融街论坛年会上举办金融科技大会等活动 新浪网",
-      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZEFUVVVBTkpVVDlucjRQV3Y0RGx0Smdsd3BiaHFpTnQtcnVWTzd0VVgyeWt0SF9UQ1Bra0l4aUdVMHkxTG9oSXoyenpSYnBKNDNGSFBrN0FlWGRVZThNVnNFY19PeFRZbjNLN0k1dEhHdUZIOG5CTEpqekhRYTlWaEtR?oc=5",
-      "publishedAt": "2026-10-13T13:49:00Z"
-    },
-    {
-      "id": "aec98ad735b2cc28",
-      "category": "宏观",
-      "title": "从凯恩斯到新凯恩斯主义：2026年经济学诺奖与宏观经济学的微观基础革命",
-      "summary": "从凯恩斯到新凯恩斯主义：2026年经济学诺奖与宏观经济学的微观基础革命 财新",
-      "why": "关注增长、通胀、财政与货币政策等宏观变量。",
-      "source": "财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOc0JHWXVIaXFseEIySnlsNEkxWEQzOS1fVUVpSzJkaVpyVDBNUEpBZnZ6YUQ3dDVqVHBzYUdteXljUlNUYVBvUTlhbmxHRzkydDlRN1V3MGVOdzlQTllzc0VB?oc=5",
-      "publishedAt": "2026-10-13T12:38:00Z"
-    },
-    {
-      "id": "a45a4328ab5b200d",
-      "category": "证券",
-      "title": "香港证监会拟修订规则加强新股监管 预计最快2027年生效",
-      "summary": "香港证监会拟修订规则加强新股监管 预计最快2027年生效 财联社",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FT3NRM1FHLTN5QWVBYkJ6S1RqV2hRU0F2QWtZcjFEbGI1TUh2R09mNjJ1VWVpenFZWjF6eVk5YTI5TE51SzdqYQ?oc=5",
-      "publishedAt": "2026-10-13T12:36:39Z"
-    },
-    {
-      "id": "8fd53f7e57763ffa",
-      "category": "考公",
-      "title": "2027年国考缩招，新举措防范“公考围岗”舞弊行为",
-      "summary": "2027年国考缩招，新举措防范“公考围岗”舞弊行为 东方财富",
-      "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
-      "source": "东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WenY0cWNXc1pROEQ5TG9XakFQR1pxQzRnT0lmTGJZYUFCMkV0NGdzTlNTWUhiTVZWLS03UmR5UWFfOW9jZlZRbEQ2eUtBU00zbWdRLUFHektlWWthTTZZcg?oc=5",
-      "publishedAt": "2026-10-13T12:21:45Z"
-    },
-    {
-      "id": "e64b86725d6ea060",
-      "category": "证券",
-      "title": "上市两年多后遭调查，香港证监会出手：茶百道IPO或涉嫌被人为操纵",
-      "summary": "上市两年多后遭调查，香港证监会出手：茶百道IPO或涉嫌被人为操纵 四川新闻",
-      "why": "关注监管、券商与资本市场制度变化及其市场影响。",
-      "source": "四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yUFBTZUtCQk9SRm05LVltbXlWWGNWTkZhdVUzSUFILTJ1Sno0RU53OVdhWDJHZWlmanlSTnpYQTBQSTF3WjVlY3k4Zl9OTGNLN01Lb3Fld0lOVHdjeDFNY3ZQRQ?oc=5",
-      "publishedAt": "2026-10-13T12:06:06Z"
-    },
-    {
-      "id": "04285126eb585938",
-      "category": "银行",
-      "title": "跨境金融赋能高水平开放，上海银行业这样做",
-      "summary": "跨境金融赋能高水平开放，上海银行业这样做 搜狐",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVFKankteENpWFFaWVpPN3hia0xzZjRFS21WMldqS3ZhM1BwRTVKRmRoSDBwSXh3aFdSQllSZVEtX3NPUWZjQVNGZlppMWQxa213SXdYeG1tOEk2ZXpEaVpZV3FpNGR4eFJodzl2U05PY1ljZHhLbXFMejE3UHp0bW41V245ZWZa?oc=5",
-      "publishedAt": "2026-10-13T11:46:00Z"
-    },
-    {
-      "id": "d8f50120740281aa",
-      "category": "投行",
-      "title": "香港证监会重拳出手查IPO包盘 冻结46亿涉案资产破纪录",
-      "summary": "香港证监会重拳出手查IPO包盘 冻结46亿涉案资产破纪录 财新",
-      "why": "关注IPO、并购、再融资及投行业务相关事件。",
-      "source": "财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SUGYzcXREZF8wRUY3a29aZnlLRlkyWF9JOW1oeGdXd2pfWE8wQW9tWjUtYkF0d1V2WnZJNGRhdi1fN3U1cUU4dUVRV0tHTFVYQnNtZDQzdUluV0wwVnJfT3h3?oc=5",
-      "publishedAt": "2026-10-13T11:31:00Z"
-    },
-    {
-      "id": "64f9a3e1da12a998",
-      "category": "投行",
-      "title": "茶百道停牌牵出IPO人为操纵可能，中金曾任独家保荐人",
-      "summary": "茶百道停牌牵出IPO人为操纵可能，中金曾任独家保荐人 华尔街见闻",
-      "why": "关注IPO、并购、再融资及投行业务相关事件。",
-      "source": "华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85MWphQVlHaGJ4QnhQQmRkMG5NOWFtQmc1V2xLSklUWVhEZ096T2dyNUp3SF9FeTlwcUIyblVjMXBfbWluQzQyV19GT0JiZFNFc1Nn?oc=5",
-      "publishedAt": "2026-10-13T09:32:00Z"
-    },
-    {
-      "id": "423c6325f890b59b",
+      "id": "37a3c792202f24b4",
       "category": "考公",
       "title": "2027年国考，福建地区招录计划来了！",
       "summary": "2027年国考，福建地区招录计划来了！ 东南网",
       "why": "用于公务员考试时政积累，优先保留政策与公开事实。",
       "source": "东南网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XeFRlOUJKNV93cUpWcmctVHIzRUlPXzNfckZYLVF0dEw5NnV0WjFtTGlpZHZHUm1NTHZxcGRLa3hKaTNOZjJRcVd2N2VnNnp4YnpuY1NSbFNaaHJtNFFVWnRKMXI2QkxmdFZmQg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yM1RPaGlGdVNZY3puWXFvS1c1Y3ZFTGVZcjJySHVYWG1fTm9CQlRyLXVLaThfckNDLS1jODgtQm9GOXVJMm54a3hIWW5Rb2tnMV9keldmaDNNQXViRjZUcWNaVnJjQQ?oc=5",
       "publishedAt": "2026-10-13T08:47:00Z"
-    },
-    {
-      "id": "361d854ced636772",
-      "category": "银行",
-      "title": "沪苏浙皖甬五地银协共聚一堂推进科技金融提质增效——长三角科技金融交流座谈会暨G60科创走廊金融服务经验分享活动在沪举办_中共上海市委金融委员会办公室、中共上海市金融工作委员会",
-      "summary": "沪苏浙皖甬五地银协共聚一堂推进科技金融提质增效——长三角科技金融交流座谈会暨G60科创走廊金融服务经验分享活动在沪举办_中共上海市委金融委员会办公室、中共上海市金融工作委员会 中共上海市委金融委员会办公室",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "中共上海市委金融委员会办公室",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45Q2xWRzB2ZjJjVkhMdlNvalhNQ2ZqUnczWHdnTFNnVmtBY0FNSjJOT3BaeDJnMVVqRk5lVXBkSUI1V2xRVU1Db1prVmVidmotcmwzclMybUcxR0ZNWVg0SEhhVk9xNnRfUjVkZWFsN1BMZE9QeEFjX05PTFIzOGs?oc=5",
-      "publishedAt": "2026-10-13T08:27:17Z"
-    },
-    {
-      "id": "440a07c68225e871",
-      "category": "A股",
-      "title": "A股盘中反转出人意料，公募解读三大变量",
-      "summary": "A股盘中反转出人意料，公募解读三大变量 财联社",
-      "why": "跟踪A股市场的重要事件、政策和主要交易线索。",
-      "source": "财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Oekt1bnZRWHNQbUhBZ3UwRXNBOHdfX0lzRkg2Rkk1UkhrZ2F1bHhzWFNhQ2hnVkltRkdXcXhhODhMN2ZPcnM3RA?oc=5",
-      "publishedAt": "2026-10-13T08:21:00Z"
-    },
-    {
-      "id": "37ceab0b495b7ea8",
-      "category": "财经",
-      "title": "IMF下调中国经济增长预期：预计2026年增速为4.5%",
-      "summary": "IMF下调中国经济增长预期：预计2026年增速为4.5% 财新",
-      "why": "用于把握经济、金融市场与重要政策的日常变化。",
-      "source": "财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHWXhWNFBSeXA5MW5YWTZDeWp6bjZqb3ZiVFVYU2lXZ3Z2MzZFX2VncmowdkpRVG90Q0ctaGwxUVhMS2swdEM5YVJqSFF1dHJFdU84dEFNNUEyeUJUMXR3YVh3?oc=5",
-      "publishedAt": "2026-10-13T08:19:00Z"
-    },
-    {
-      "id": "fc1b4c63cb1d88c7",
-      "category": "保险",
-      "title": "法院判补90万！中秋调休日出险，保险公司“只赔10万”败诉",
-      "summary": "法院判补90万！中秋调休日出险，保险公司“只赔10万”败诉 凤凰网财经",
-      "why": "跟踪保险监管、产品、机构与行业经营变化。",
-      "source": "凤凰网财经",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1UDVfNFNEYXhsSTU0YTZRX1hnZFM1M2x3dko2a0VzNzlabHVpRE1vemxrUGhMdWcyR0J2d2JDd2M2SFBPLVFMaUd4LVBRemNT?oc=5",
-      "publishedAt": "2026-10-13T08:07:20Z"
     },
     {
       "id": "c17fed590a176219",
@@ -553,26 +573,6 @@
       "source": "央视网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PMk9JT3R1Uno1QTE0cDZENFVFY3p1LTRGT2tYMHNYY1BXdnVEbkdJdi1VcTQ1M05wdHRQUTMtUXQ5TEljVWpuOXBKQXg4ZmNyYkRZY0F2cGZ3MTZkbGc2MDBzb2otQzZ0X0RZeHlwNWhxbVM1THl3Y3NpTHU?oc=5",
       "publishedAt": "2026-10-13T03:21:00Z"
-    },
-    {
-      "id": "e7fe8484b9715323",
-      "category": "国际",
-      "title": "IMF上调2026年世界经济增长预期至3.1%",
-      "summary": "IMF上调2026年世界经济增长预期至3.1% 新华网",
-      "why": "关注可能影响全球资产价格与国内市场的国际事件。",
-      "source": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXcxOF9RTkxEdzFVYVJvc08tQVhCN29BQS0wUzhTb0ZOUUJvWFZhWlltWldqWHFMbkZ3bnFiUFBrZ2hnQ1pVWDVrdlliOVR1Q0FTNEUwQjlBQTB0dGVTS1JGdUc0ZGhPREZ6bjNCNlF0eFY0cGl2X01ubXFLa1F3THB3?oc=5",
-      "publishedAt": "2026-10-13T02:11:48Z"
-    },
-    {
-      "id": "a6df9849a87c11aa",
-      "category": "银行",
-      "title": "【金融观察】商业银行赋能“六张网”建设的机遇与路径_银行新闻",
-      "summary": "【金融观察】商业银行赋能“六张网”建设的机遇与路径_银行新闻 证券之星",
-      "why": "跟踪银行业监管、经营与重要机构动态。",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5neEJkVDVZa1BrcHBZZTFENkdyb2hNaXNEeTFUOVF2SWNnVmc4ejRsbHk4Y1JqQVFvQ2dZeXFNZ3VCUjJXZEVBa2VKblBvcjBsanBCLXo2NlRSTjdiZTBaZA?oc=5",
-      "publishedAt": "2026-10-12T18:39:14Z"
     },
     {
       "id": "4749fb170fdc309a",
