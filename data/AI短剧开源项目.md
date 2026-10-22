@@ -6,7 +6,7 @@
 
 > **2026-10-21 增补**：新增2个GitHub项目、2条X链接，见第9节。原43项热度表仍为10月18日快照，未在此次整体刷新。
 
-> **当前制作进度（2026-10-21）**：第9.5节已补入截图中的编剧、分镜、空间调度与Seedance技能参考，并落实到《先听她说》第八版。现行稿为15段、28镜、118秒，DeepSeek第16轮A/B复核通过；已准备生产提示词及[构图预览](AI短剧/能不能不切/分镜预览/README.md)，当前用户要求先调整预览，视频任务尚未提交。入口：[剧本](AI短剧/能不能不切/剧本.md) · [分镜](AI短剧/能不能不切/分镜与分段表.md) · [连戏](AI短剧/能不能不切/连戏表.md) · [提示词](AI短剧/能不能不切/prompts/视频提示词.md)。旧成片仍属第五版。
+> **当前制作进度（2026-10-21）**：第9.5节已补入截图中的编剧、分镜、空间调度与Seedance技能参考，并落实到《先听她说》第八版。现行稿为15段、28镜、118秒，DeepSeek第16轮A/B复核通过；已准备生产提示词及[构图预览](AI短剧/能不能不切/分镜预览/README.md)，2026-10-22已补齐[可拖动空间图与28镜机位核对](AI短剧/能不能不切/空间设计/README.md)，视频任务尚未提交。入口：[剧本](AI短剧/能不能不切/剧本.md) · [分镜](AI短剧/能不能不切/分镜与分段表.md) · [连戏](AI短剧/能不能不切/连戏表.md) · [提示词](AI短剧/能不能不切/prompts/视频提示词.md)。旧成片仍属第五版。
 
 ## 1. 先看结论：从哪里开始
 
@@ -364,10 +364,12 @@ Open-Generative-AI 的云端快速开始需要 MuAPI Key；本地图像路线涉
 | --- | --- | --- |
 | [Screenwriting Skills](https://github.com/jtydhr88/screenwriting-skills) | 每句对白都有欲望与策略；删掉林悦分析自己心理的长句，改为“我没说不治。我是问，还能不能要。” | 第八版剧本 |
 | [Visual Skills](https://github.com/smixs/visual-skills/blob/main/video/references/dramaturgy.md) | 先按行动与情绪排镜，“我怕/我也怕”同框，纸张与牵手承载变化 | 28镜分镜，按模型能力合成15个批次，共118秒 |
-| [shuohao staging](https://github.com/eternityspring/shuohao-skills/blob/main/skills/novel-staging/SKILL.md) | 从实际场景图的桌椅定坐位、朝向、轴线，每段接前段末态 | 空间与连戏表 |
+| [shuohao staging](https://github.com/eternityspring/shuohao-skills/blob/main/skills/novel-staging/SKILL.md) | 从实际场景图定家具/站位，生成可拖动俯视报告并校验；再将开场走位交接给分镜 | 空间与连戏表 |
 | [Emily2040 Seedance](https://github.com/emily2040/seedance-2.0/blob/main/references/direct-for-the-model.md) | 看谁、为什么说、一个可见动作；每段独立声明人物位置、左右手、道具与参考编号 | V8_01–V8_15逐段提示词 |
 
 “西羊石短剧剧本GPT”的参考价值目前来自西堂公开示例中人物主动性与因果安排，未取得底层配置，也没有对本项目实测；适合借思路，不能声称优于上述方法。LearnPrompt/awesome-seedance可作案例索引；zenstory-ai/drama-skills可借文件衔接思路，不再叠加另一套总控。scenario-labs/skills与pexoai/pexo-skills依赖相应平台，当前不迁移；剪映技能可另用于草稿交付，但不将Mac自动导出当作现成可用能力。
+
+**2026-10-22空间补齐**：已实际运行novel-staging脚本，交付两处俯视图、可拖动HTML、28镜机位核对，并同步原提示词；原图不可见区域标明未确认，旧预览的07左右/木门背景不作空间依据。
 
 第八版文本、分镜与逐段提示词已经准备，DeepSeek复核与处理记录沿原项目留存。新片仍待构图预览、报价确认、试跑与实际听审；本次没有生成新视频，不能据此断言这些方法已提高成片质量。
 
